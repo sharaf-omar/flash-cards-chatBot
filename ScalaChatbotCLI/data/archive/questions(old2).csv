@@ -1,0 +1,1207 @@
+Concept,Question,Option One,Option Two,Option Three,Option Four,Correct Answer,Note
+algorithm,What is an algorithm?,A programming language,A set of instructions to solve a problem,A type of data structure,A hardware component,A set of instructions to solve a problem,Defines a process to achieve a specific task.
+algorithm,What is a characteristic of a good algorithm?,Infinite steps,Ambiguity,Finiteness,Random output,Finiteness,Ensures the algorithm terminates.
+algorithm,What is the purpose of algorithm analysis?,To write code,To measure efficiency,To design hardware,To debug code,To measure efficiency,Focuses on time and space complexity.
+algorithm,What is a common algorithm design technique?,Divide and conquer,Random guessing,Infinite looping,Manual coding,Divide and conquer,Breaks problems into smaller subproblems.
+algorithm,What does an algorithm's correctness ensure?,Fast execution,Expected output,Minimal code,Low memory use,Expected output,Guarantees the solution matches the problem.
+java,What is the access modifier in Java that restricts access to within the same class?,private,public,protected,default,private,Access modifiers control visibility of class members
+java,Which of the following is NOT a primitive data type in Java?,String,int,boolean,char,String,Primitive types store simple values while others are reference types
+java,What keyword is used to handle exceptions in Java?,try,throw,catch,All of the above,All of the above,Exception handling involves multiple keywords working together
+java,Which method is automatically called when an object is created in Java?,finalize(),main(),constructor(),initialize(),constructor(),This method shares its name with the class
+java,In Java, which collection type maintains insertion order and allows duplicates?,ArrayList,HashSet,HashMap,TreeSet,ArrayList,Think about which data structure is an ordered list
+python,"In Python, what is the correct way to create a function?",def myFunction():,function myFunction():,create myFunction():,void myFunction():,def myFunction():,Python uses a specific keyword to define functions
+python,What is the output of `print(type([]))`?,<class 'list'>,<class 'array'>,<class 'dict'>,<class 'tuple'>,<class 'list'>,This checks the type of an empty pair of square brackets
+python,Which of the following is used for multiple line comments in Python?,''' Comment ''',// Comment,/* Comment */,# Comment,''' Comment ''',Python has single and multi-line comment options
+python,What does the `len()` function return when called on a dictionary?,Number of key-value pairs,Sum of all keys,Sum of all values,Memory size of the dictionary,Number of key-value pairs,Think about what constitutes an "element" in a dictionary
+Python,What is the result of the expression 3 * 4 ** 2 in Python?,48,144,24,18,48,Python follows mathematical order of operations
+c++,Which operator is used for memory allocation in C++?,new,malloc,allocate,create,new,"Use 'delete' to free memory allocated with 'new'"
+c++,What is the correct syntax to include the iostream header in C++?,#include <iostream>,#include "iostream",#include <iostream.h>,import iostream,#include <iostream>,"Angle brackets are used for standard library headers"
+c++,Which of these is a C++ standard template library container?,vector,arraylist,tuple,dictionary,vector,"STL containers include vector, list, map, etc."
+c++,What does the 'const' keyword at the end of a member function indicate?,The function can modify the object,The function cannot modify the object,The function returns a constant value,The function is constant time,The function cannot modify the object,"const member functions can be called on const objects"
+c++,How do you declare a pure virtual function in C++?,virtual void func() = 0;,abstract void func();,pure virtual void func();,void func() abstract;,virtual void func() = 0;,"Pure virtual functions make a class abstract"
+c,What is the correct way to declare a pointer in C?,int ptr;,int *ptr;,pointer int ptr;,ptr int;,int *ptr;,"The asterisk declares a pointer, position doesn't matter (int* ptr also valid)"
+c,Which function is used for dynamic memory allocation in C?,alloc(),new(),malloc(),create(),malloc(),"Don't forget to free() memory allocated with malloc()"
+c,What does the #include directive do in C?,Includes a library,Imports a module,Inserts file contents,Loads a DLL,Inserts file contents,"#include literally copies file contents during preprocessing"
+c,How do you terminate a string in C?,With a period,With \0,With \n,With \t,With \0,"All C strings must be null-terminated with \0"
+c,Which operator is used to access struct members?,.,->,::,.,"Dot for direct access, arrow (->) for pointers to structs"
+scala,What is Scala primarily known for?,Combining functional and object-oriented programming,Being a purely procedural language,Low-level system programming,Static web pages,Combining functional and object-oriented programming,Blends paradigms for flexibility.
+scala,What is a key feature of Scala?,Dynamic typing,Static typing,No type inference,Limited collections,Static typing,Enables type safety at compile time.
+scala,What is the purpose of the 'val' keyword in Scala?,To declare a mutable variable,To declare an immutable variable,To define a class,To create a loop,To declare an immutable variable,Ensures the variable cannot be reassigned.
+scala,What is a common use case for Scala?,Front-end development,Big data processing with Spark,Database management,Low-level drivers,Big data processing with Spark,Leverages functional programming.
+scala,What does Scala's 'case class' provide?,Manual getter/setter methods,Automatic boilerplate code,Dynamic typing,Low-level access,Automatic boilerplate code,Simplifies immutable data structures.
+class,What is a class in object-oriented programming?,A loop structure,A blueprint for creating objects,A sorting algorithm,A database query,A blueprint for creating objects,Defines properties and methods.
+class,What keyword is used to define a class in Java?,class,struct,interface,enum,class,Fundamental to OOP in Java.
+class,What is a feature of a class?,Encapsulation,Random access,Fixed size,Unordered data,Encapsulation,Bundles data and methods.
+class,What is a class constructor used for?,Sorting objects,Initializing objects,Deleting objects,Filtering objects,Initializing objects,Sets initial state.
+class,What can a class inherit from?,Another class,A variable,A loop,A function,Another class,Supports code reuse through inheritance.
+arrays,What is an array in programming?,A collection of key-value pairs,An ordered collection of elements of the same type,A tree structure,A graph structure,An ordered collection of elements of the same type,Stores elements in contiguous memory.
+arrays,What is a key feature of arrays?,Dynamic sizing,Fixed size in most languages,Unordered elements,Key-value mapping,Fixed size in most languages,Size is often defined at creation.
+arrays,What is the time complexity for accessing an element in an array?,O(n),O(1),O(log n),O(n^2),O(1),Direct indexing provides constant time access.
+arrays,What is a limitation of arrays?,Fast insertion at the beginning,Fixed size in many languages,Dynamic resizing,Random access,Fixed size in many languages,Resizing requires copying.
+arrays,What operation can cause an array to overflow?,Appending beyond capacity,Accessing an element,Sorting the array,Searching an element,Appending beyond capacity,Leads to errors in fixed-size arrays.
+variables,What is a variable in programming?,A fixed value,A storage location with a name and type,A loop structure,A sorting algorithm,A storage location with a name and type,Holds data during execution.
+variables,What keyword declares a variable in Python?,var,let,def,There is no keyword,There is no keyword,Python uses direct assignment.
+variables,What is a benefit of using variables?,Hardcoding values,Code reusability,Increased complexity,Fixed data,Code reusability,Allows dynamic data manipulation.
+variables,What is a scope of a variable?,Its data type,Its visibility in the program,Its memory size,Its default value,Its visibility in the program,Determines where it can be accessed.
+variables,What happens if a variable is undeclared in JavaScript?,It is automatically declared,It throws an error,It becomes global,It defaults to null,It throws an error,Strict mode enforces declaration.
+dsa,What does DSA stand for?,Data Structures and Algorithms,Dynamic System Analysis,Data Sorting Algorithms,Distributed System Architecture,Data Structures and Algorithms,Core of efficient programming.
+dsa,What is a primary goal of DSA?,Styling code,Optimizing problem-solving efficiency,Debugging hardware,Encrypting data,Optimizing problem-solving efficiency,Focuses on performance.
+dsa,What is a common data structure in DSA?,Loop,Array,Function,Class,Array,Fundamental for organizing data.
+dsa,What algorithm type is often studied in DSA?,Sorting,Styling,Rendering,Filtering,Sorting,Examples include quicksort and mergesort.
+dsa,What is a benefit of learning DSA?,Increased complexity,Better problem-solving skills,More memory usage,Slower execution,Better problem-solving skills,Improves coding efficiency.
+oop,What does OOP stand for?,Object-Oriented Programming,Operational Order Processing,Optimal Output Programming,Ordered Object Protocol,Object-Oriented Programming,Focuses on objects and classes.
+oop,What is a principle of OOP?,Encapsulation,Random access,Fixed size,Unordered data,Encapsulation,Protects data integrity.
+oop,What is a benefit of OOP?,Code reusability,Increased complexity,More memory usage,Slower execution,Code reusability,Through inheritance and polymorphism.
+oop,What language is known for OOP?,Java,SQL,HTML,CSS,Java,Designed with OOP principles.
+oop,What is a disadvantage of OOP?,Simplicity,Learning curve,Low memory usage,Fast execution,Learning curve,Requires understanding of concepts.
+Loops,What is a loop in programming?,A conditional statement,A structure to repeat code,A sorting algorithm,A data structure,A structure to repeat code,Executes code multiple times.
+Loops,What loop type checks the condition before executing?,for loop,while loop,do-while loop,foreach loop,while loop,Condition-first evaluation.
+Loops,What is a common use of loops?,Single execution,Iteration over data,Fixed data,Random access,Iteration over data,Processes collections.
+Loops,What happens in an infinite loop?,It terminates,It runs indefinitely,It sorts data,It compresses data,It runs indefinitely,Can crash the program.
+Loops,What keyword exits a loop early in Python?,break,continue,exit,stop,break,breaks the loop immediately.
+Inheritance,What is inheritance in OOP?,Copying variables,Deriving properties from a parent class,Sorting objects,Filtering data,Deriving properties from a parent class,Promotes code reuse.
+Inheritance,What keyword enables inheritance in Java?,extends,implements,super,this,extends,Defines the parent-child relationship.
+Inheritance,What is a benefit of inheritance?,Increased complexity,Code reusability,More memory usage,Slower execution,Code reusability,Reduces redundancy.
+Inheritance,What type of inheritance does Python support?,Single only,Multiple inheritance,Fixed inheritance,No inheritance,Multiple inheritance,Allows flexibility.
+Inheritance,What is a risk of inheritance?,Tight coupling,Improved performance,Low memory usage,Simple design,Tight coupling,Child depends on parent.
+polymorphism,What is polymorphism in OOP?,Using a single interface for multiple data types,Fixed data types,Random access,Unordered data,Using a single interface for multiple data types,Enhances flexibility.
+polymorphism,What type of polymorphism occurs at runtime?,Compile-time,Runtime (Dynamic),Static,No polymorphism,Runtime (Dynamic),Enabled by method overriding.
+polymorphism,What is a use case for polymorphism?,Fixed data,Dynamic behavior,Sorting data,Filtering data,Dynamic behavior,Adapts to object types.
+polymorphism,What language feature supports polymorphism?,Method overriding,Fixed methods,Static typing,Random access,Method overriding,Allows runtime flexibility.
+polymorphism,What is a limitation of polymorphism?,Increased flexibility,Complexity in design,Low memory usage,Fast execution,Complexity in design,Requires careful planning.
+closure,What is a closure in programming?,A loop structure,A function with access to its lexical scope,A sorting algorithm,A data structure,A function with access to its lexical scope,Retains outer variables.
+closure,What language commonly uses closures?,JavaScript,SQL,HTML,CSS,JavaScript,Enables powerful patterns.
+closure,What is a benefit of using closures?,Increased complexity,Data encapsulation,More memory usage,Slower execution,Data encapsulation,Protects variables.
+closure,What is a use case for closures?,Fixed data,Event handlers,Random access,Filtering data,Event handlers,Maintains state.
+closure,What is a limitation of closures?,Memory efficiency,Memory overhead,Simple design,Fast execution,Memory overhead,Retains variables longer.
+list,What is a list in programming?,A fixed-size data structure,An ordered collection of elements,A key-value pair structure,A graph-based structure,An ordered collection of elements,Commonly mutable in languages like Python.
+list,What operation is typically fast on a list?,Random access,Deletion from middle,Insertion at beginning,Sorting,Random access,Depends on list implementation.
+list,What is a key feature of lists in Python?,Immutability,Dynamic sizing,Fixed length,Unordered elements,Dynamic sizing,Allows adding or removing elements.
+list,How can you access the last element of a list in Python?,list[-1],list[0],list[length],list[end],list[-1],Negative indexing is a Python feature.
+list,What happens if you append to a full fixed-size list?,It resizes automatically,It raises an exception,It overwrites data,It creates a new list,It raises an exception,Depends on language implementation.
+array,What is an array in programming?,A collection of key-value pairs,An ordered collection of elements of the same type,A tree structure,A graph structure,An ordered collection of elements of the same type,Same as arrays above, repeated for keyword match.
+array,What is a key feature of arrays?,Dynamic sizing,Fixed size in most languages,Unordered elements,Key-value mapping,Fixed size in most languages,Size is often defined at creation.
+array,What is the time complexity for accessing an element in an array?,O(n),O(1),O(log n),O(n^2),O(1),Direct indexing provides constant time access.
+array,What is a limitation of arrays?,Fast insertion at the beginning,Fixed size in many languages,Dynamic resizing,Random access,Fixed size in many languages,Resizing requires copying.
+array,What operation can cause an array to overflow?,Appending beyond capacity,Accessing an element,Sorting the array,Searching an element,Appending beyond capacity,Leads to errors in fixed-size arrays.
+interface,What is an interface in programming?,A concrete class,A contract for methods classes must implement,A loop structure,A data type,A contract for methods classes must implement,Ensures consistency.
+interface,What keyword defines an interface in Java?,interface,class,struct,enum,interface,Specifies abstract methods.
+interface,What is a benefit of using interfaces?,Increased complexity,Loose coupling,More memory usage,Slower execution,Loose coupling,Promotes modularity.
+interface,Can an interface have method implementations in Java 8+?,No,Yes with default methods,Never,Only with static methods,Yes with default methods,Introduced in Java 8.
+interface,What is a use case for interfaces?,Fixed data,Polymorphism,Random access,Filtering data,Polymorphism,Enables multiple implementations.
+function,What is a function in programming?,A variable type,A reusable block of code with a specific task,A data structure,A loop structure,A reusable block of code with a specific task,Promotes modularity.
+function,What keyword defines a function in Python?,def,func,function,declare,def,Standard syntax in Python.
+function,What is a benefit of using functions?,Increased complexity,Code reusability,More memory usage,Slower execution,Code reusability,Reduces redundancy.
+function,What is a parameter in a function?,Return value,Input to the function,Loop variable,Data type,Input to the function,Allows customization.
+function,What is a return value?,Input parameter,Output of the function,Loop condition,Variable scope,Output of the function,Provides result to caller.
+pointer,What is a pointer in programming?,A variable storing a memory address,A loop structure,A data type,A sorting algorithm,A variable storing a memory address,Used in low-level languages.
+pointer,What symbol is used to declare a pointer in C?,*,&,%,#,*,Denotes pointer type.
+pointer,What is a use case for pointers?,Fixed data,Dynamic memory allocation,Random access,Filtering data,Dynamic memory allocation,Manages memory efficiently.
+pointer,What is a risk of using pointers?,Improved performance,Memory leaks,Low memory usage,Simple design,Memory leaks,Requires careful management.
+pointer,What does dereferencing a pointer do?,Allocates memory,Accesses the value at the memory address,Deletes memory,Sorts memory,Accesses the value at the memory address,Uses the * operator in C.
+dictionary,What is a dictionary in programming?,A sorted list,A key-value pair data structure,A tree structure,A graph structure,A key-value pair data structure,Also called a map.
+dictionary,What is a key feature of dictionaries?,Fixed size,Fast lookups,Unordered elements,Slow access,Fast lookups,Uses hashing for efficiency.
+dictionary,What is a common operation in a dictionary?,Random access,Inserting key-value pairs,Sorting elements,Filtering data,Inserting key-value pairs,Core functionality.
+dictionary,What is a limitation of dictionaries?,Fast access,Memory overhead,Low memory usage,Simple design,Memory overhead,Depends on hash table size.
+dictionary,What language uses dictionaries natively?,Python,SQL,HTML,CSS,Python,Built-in dict type.
+abstraction,What is abstraction in OOP?,Exposing all details,Hiding complexity and showing essentials,Sorting data,Filtering data,Hiding complexity and showing essentials,Simplifies interaction.
+abstraction,What is a tool for abstraction?,Abstract class,Loop structure,Fixed data,Random access,Abstract class,Provides a blueprint.
+abstraction,What is a benefit of abstraction?,Increased complexity,Simplified design,More memory usage,Slower execution,Simplified design,Reduces cognitive load.
+abstraction,What is a use case for abstraction?,Fixed data,Database layers,Random access,Filtering data,Database layers,Hides implementation details.
+abstraction,What is a limitation of abstraction?,Improved performance,Loss of control,Low memory usage,Fast execution,Loss of control,May hide necessary details.
+virtual function,What is a virtual function in C++?,A function that can be overridden in derived classes,A static function,A loop function,A fixed function,A function that can be overridden in derived classes,Enables runtime polymorphism.
+virtual function,What keyword defines a virtual function?,virtual,static,private,public,virtual,Marks the function for overriding.
+virtual function,What is a use case for virtual functions?,Fixed data,Dynamic behavior,Random access,Filtering data,Dynamic behavior,Supports polymorphism.
+virtual function,What is a requirement for virtual functions?,Same signature in base and derived,Fixed signature,Different signatures,Static binding,Same signature in base and derived,Ensures proper overriding.
+virtual function,What is a limitation of virtual functions?,Improved performance,Overhead from vtable,Low memory usage,Fast execution,Overhead from vtable,Impacts performance slightly.
+module,What is a module in programming?,A standalone program,A file containing reusable code,A loop structure,A data type,A file containing reusable code,Promotes modularity.
+module,What keyword imports a module in Python?,import,include,require,load,import,Standard syntax in Python.
+module,What is a benefit of using modules?,Increased complexity,Code organization,More memory usage,Slower execution,Code organization,Improves maintainability.
+module,What is a use case for modules?,Fixed data,Library creation,Random access,Filtering data,Library creation,Shares functionality.
+module,What is a limitation of modules?,Improved performance,Dependency management,Low memory usage,Fast execution,Dependency management,Requires careful handling.
+prototype,What is a prototype in JavaScript?,A loop structure,An object from which others inherit properties,A data type,A sorting algorithm,An object from which others inherit properties,Core to JavaScript inheritance.
+prototype,What property accesses an object's prototype?,__proto__,__init__,__class__,__type__,__proto__,Links to parent prototype.
+prototype,What is a benefit of using prototypes?,Increased complexity,Memory efficiency,More memory usage,Slower execution,Memory efficiency,Shares methods across instances.
+prototype,What is a use case for prototypes?,Fixed data,Inheritance,Random access,Filtering data,Inheritance,Extends functionality.
+prototype,What is a limitation of prototypes?,Improved performance,Complexity in debugging,Low memory usage,Fast execution,Complexity in debugging,Prototype chain can be tricky.
+structure,What is a structure in programming?,A loop structure,A user-defined data type grouping variables,A sorting algorithm,A database query,A user-defined data type grouping variables,Common in C with 'struct'.
+structure,What keyword defines a structure in C?,struct,class,interface,enum,struct,Groups related data.
+structure,What is a benefit of using structures?,Increased complexity,Data organization,More memory usage,Slower execution,Data organization,Improves readability.
+structure,What is a limitation of structures?,Improved performance,Lack of methods,Low memory usage,Fast execution,Lack of methods,Not as powerful as classes.
+structure,What is a use case for structures?,Fixed data,Record keeping,Random access,Filtering data,Record keeping,Stores heterogeneous data.
+lambda function,What is a lambda function in programming?,A named function,An anonymous function defined inline,A loop structure,A data type,An anonymous function defined inline,Concise syntax.
+lambda function,What keyword defines a lambda function in Python?,lambda,def,func,function,lambda,Creates small functions.
+lambda function,What is a use case for lambda functions?,Fixed data,Sorting with custom keys,Random access,Filtering data,Sorting with custom keys,Used with map/filter.
+lambda function,What is a benefit of lambda functions?,Increased complexity,Conciseness,More memory usage,Slower execution,Conciseness,Reduces boilerplate code.
+lambda function,What is a limitation of lambda functions?,Improved performance,Limited complexity,Low memory usage,Fast execution,Limited complexity,Best for simple operations.
+encapsulation,What is encapsulation in OOP?,Exposing all data,Bundling data and methods with access control,A sorting algorithm,A data structure,Bundling data and methods with access control,Protects data integrity.
+encapsulation,What is a tool for encapsulation?,Private access modifier,Public access,Fixed data,Random access,Private access modifier,Limits direct access.
+encapsulation,What is a benefit of encapsulation?,Increased complexity,Data protection,More memory usage,Slower execution,Data protection,Prevents misuse.
+encapsulation,What is a use case for encapsulation?,Fixed data,Secure APIs,Random access,Filtering data,Secure APIs,Controls data access.
+encapsulation,What is a limitation of encapsulation?,Improved performance,Added complexity,Low memory usage,Fast execution,Added complexity,Requires careful design.
+template,What is a template in C++?,A loop structure,A blueprint for creating generic classes/functions,A data type,A sorting algorithm,A blueprint for creating generic classes/functions,Enables type flexibility.
+template,What keyword defines a template in C++?,template,class,struct,enum,template,Precedes the definition.
+template,What is a benefit of using templates?,Increased complexity,Type safety,More memory usage,Slower execution,Type safety,Ensures compile-time checks.
+template,What is a use case for templates?,Fixed data,Generic programming,Random access,Filtering data,Generic programming,Creates reusable code.
+template,What is a limitation of templates?,Improved performance,Code bloat,Low memory usage,Fast execution,Code bloat,Generates multiple instantiations.
+set,What is a set in programming?,A sorted list,A collection of unique elements,A tree structure,A graph structure,A collection of unique elements,Eliminates duplicates.
+set,What is a key feature of sets?,Duplicates allowed,Unordered unique elements,Fixed size,Slow access,Unordered unique elements,Order may vary.
+set,What is a common operation in a set?,Random access,Adding elements,Sorting elements,Filtering data,Adding elements,Ensures uniqueness.
+set,What is a limitation of sets?,Fast access,Lack of indexing,Low memory usage,Simple design,Lack of indexing,No direct position access.
+set,What language uses sets natively?,Python,SQL,HTML,CSS,Python,Built-in set type.
+linked list,What is a linked list?,A collection of nodes where each node points to the next,A fixed-size array,A tree-based structure,A hash table,A collection of nodes where each node points to the next,Memory is not contiguous.
+linked list,What is a disadvantage of linked lists?,Fast random access,Slow random access due to traversal,Fixed size,High memory overhead,Slow random access due to traversal,Requires traversal.
+linked list,What operation is efficient in a linked list?,Inserting at the end,Random access,Deleting from middle,Sorting,Inserting at the end,If tail pointer is maintained.
+linked list,How are nodes connected in a linked list?,By indices,By pointers,By keys,By values,By pointers,Each node references the next.
+linked list,What is a singly linked list’s space complexity?,O(1),O(n) per node,O(log n),O(n^2),O(n) per node,Includes data and pointer.
+exception handling,What is exception handling in programming?,Sorting errors,Managing runtime errors gracefully,Filtering data,Compressing data,Managing runtime errors gracefully,Prevents crashes.
+exception handling,What keyword catches exceptions in Python?,try,catch,except,throw,except,Handles specific errors.
+exception handling,What is a benefit of exception handling?,Increased complexity,Robustness,More memory usage,Slower execution,Robustness,Improves reliability.
+exception handling,What is a use case for exception handling?,Fixed data,File operations,Random access,Filtering data,File operations,Handles I/O errors.
+exception handling,What is a limitation of exception handling?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Adds try-catch cost.
+list comprehension,What is a list comprehension in Python?,A loop structure,A concise way to create lists,A data type,A sorting algorithm,A concise way to create lists,Syntactic sugar.
+list comprehension,What is the syntax for list comprehension?,[expr for item in iterable],[item in iterable],[for item in iterable],[expr in iterable],[expr for item in iterable],Compact loop replacement.
+list comprehension,What is a benefit of list comprehension?,Increased complexity,Readability,More memory usage,Slower execution,Readability,Reduces boilerplate code.
+list comprehension,What is a use case for list comprehension?,Fixed data,Filtering lists,Random access,Filtering data,Filtering lists,Creates new lists efficiently.
+list comprehension,What is a limitation of list comprehension?,Improved performance,Limited complexity,Low memory usage,Fast execution,Limited complexity,Not suited for complex logic.
+overloading,What is method overloading in programming?,Overriding a method,Defining multiple methods with the same name but different parameters,Sorting methods,Filtering methods,Defining multiple methods with the same name but different parameters,Enhances flexibility.
+overloading,What language supports method overloading?,Java,Python,JavaScript,SQL,Java,Compile-time polymorphism.
+overloading,What is a benefit of overloading?,Increased complexity,Code clarity,More memory usage,Slower execution,Code clarity,Improves readability.
+overloading,What is a requirement for overloading?,Same return type,Different parameter lists,Same parameter lists,Different method names,Different parameter lists,Distinguishes methods.
+overloading,What is a limitation of overloading?,Improved performance,Potential confusion,Low memory usage,Fast execution,Potential confusion,Requires careful naming.
+callback,What is a callback in programming?,A loop structure,A function passed as an argument to another function,A data type,A sorting algorithm,A function passed as an argument to another function,Enables asynchronous behavior.
+callback,What language commonly uses callbacks?,JavaScript,SQL,HTML,CSS,JavaScript,Core to event handling.
+callback,What is a benefit of using callbacks?,Increased complexity,Asynchronous execution,More memory usage,Slower execution,Asynchronous execution,Handles events.
+callback,What is a use case for callbacks?,Fixed data,Event handling,Random access,Filtering data,Event handling,Responds to user actions.
+callback,What is a limitation of callbacks?,Improved performance,Callback hell,Low memory usage,Fast execution,Callback hell,Nested callbacks reduce readability.
+generator,What is a generator in programming?,A loop structure,A function that yields values one at a time,A data type,A sorting algorithm,A function that yields values one at a time,Memory efficient.
+generator,What keyword defines a generator in Python?,yield,def,func,function,yield,Pauses execution.
+generator,What is a benefit of using generators?,Increased complexity,Memory efficiency,More memory usage,Slower execution,Memory efficiency,Generates values on demand.
+generator,What is a use case for generators?,Fixed data,Lazy evaluation,Random access,Filtering data,Lazy evaluation,Processes large datasets.
+generator,What is a limitation of generators?,Improved performance,Single iteration,Low memory usage,Fast execution,Single iteration,Cannot rewind.
+abstract class,What is an abstract class in OOP?,A class that can be instantiated,A class that cannot be instantiated directly,A loop structure,A data type,A class that cannot be instantiated directly,Provides a blueprint.
+abstract class,What keyword defines an abstract class in Java?,abstract,class,interface,enum,abstract,Prevents instantiation.
+abstract class,What is a benefit of using abstract classes?,Increased complexity,Code reusability,More memory usage,Slower execution,Code reusability,Shares common behavior.
+abstract class,What is a use case for abstract classes?,Fixed data,Defining templates,Random access,Filtering data,Defining templates,Ensures implementation.
+abstract class,What is a limitation of abstract classes?,Improved performance,Single inheritance in Java,Low memory usage,Fast execution,Single inheritance in Java,Limits flexibility.
+stack,What is a stack in data structures?,A LIFO data structure,A FIFO data structure,A tree structure,A graph structure,A LIFO data structure,Last In, First Out.
+stack,What operation adds an element to a stack?,Push,Pop,Enqueue,Dequeue,Push,Adds to the top.
+stack,What is a use case for stacks?,Random access,Function call management,Filtering data,Sorting data,Function call management,Manages recursion.
+stack,What is the time complexity of push operation?,O(n),O(1),O(log n),O(n^2),O(1),Constant time operation.
+stack,What is a limitation of stacks?,Fast random access,Limited access pattern,Low memory usage,Fast execution,Limited access pattern,Only top element accessible.
+tuple,What is a tuple in programming?,A mutable list,An immutable ordered collection,A tree structure,A graph structure,An immutable ordered collection,Cannot be modified after creation.
+tuple,What is a key feature of tuples in Python?,Mutability,Immutability,Unordered elements,Dynamic sizing,Immutability,Ensures data integrity.
+tuple,What is a use case for tuples?,Random access,Fixed data records,Filtering data,Sorting data,Fixed data records,Stores related data.
+tuple,What is the time complexity for accessing a tuple element?,O(n),O(1),O(log n),O(n^2),O(1),Direct indexing.
+tuple,What is a limitation of tuples?,Fast access,Immutability,Low memory usage,Fast execution,Immutability,Cannot modify elements.
+promise,What is a Promise in JavaScript?,A loop structure,An object representing eventual completion of an async operation,A data type,A sorting algorithm,An object representing eventual completion of an async operation,Handles asynchronous results.
+promise,What method handles a fulfilled Promise?,then,catch,resolve,reject,then,Processes successful results.
+promise,What is a use case for Promises?,Fixed data,Asynchronous operations,Random access,Filtering data,Asynchronous operations,Handles API calls.
+promise,What is a benefit of using Promises?,Increased complexity,Avoiding callback hell,More memory usage,Slower execution,Avoiding callback hell,Improves readability.
+promise,What is a limitation of Promises?,Improved performance,Error handling complexity,Low memory usage,Fast execution,Error handling complexity,Requires careful catch blocks.
+destructor,What is a destructor in programming?,A method called when an object is destroyed,A loop structure,A data type,A sorting algorithm,A method called when an object is destroyed,Frees resources.
+destructor,What symbol defines a destructor in C++?,~,*,&,%,~,Same name as class with ~ prefix.
+destructor,What is a use case for destructors?,Fixed data,Resource cleanup,Random access,Filtering data,Resource cleanup,Closes files or connections.
+destructor,What is a benefit of destructors?,Increased complexity,Automatic cleanup,More memory usage,Slower execution,Automatic cleanup,Ensures resource release.
+destructor,What is a limitation of destructors?,Improved performance,Lack of control in some languages,Low memory usage,Fast execution,Lack of control in some languages,Not all languages have them.
+method overriding,What is method overriding in OOP?,Defining a method in a subclass with the same name as in the parent,Defining multiple methods with the same name,Sorting methods,Filtering methods,Defining a method in a subclass with the same name as in the parent,Enables runtime polymorphism.
+method overriding,What keyword is used in Java for overriding?,override,virtual,super,this,super,Refers to parent method.
+method overriding,What is a use case for method overriding?,Fixed data,Custom behavior,Random access,Filtering data,Custom behavior,Tailors functionality.
+method overriding,What is a requirement for method overriding?,Different signatures,Same method signature,Static methods,Private methods,Same method signature,Ensures proper override.
+method overriding,What is a limitation of method overriding?,Improved performance,Potential complexity,Low memory usage,Fast execution,Potential complexity,Requires careful design.
+queue,What is a queue in data structures?,A LIFO data structure,A FIFO data structure,A tree structure,A graph structure,A FIFO data structure,First In, First Out.
+queue,What operation adds an element to a queue?,Push,Pop,Enqueue,Dequeue,Enqueue,Adds to the rear.
+queue,What is a use case for queues?,Random access,Task scheduling,Filtering data,Sorting data,Task scheduling,Manages order.
+queue,What is the time complexity of enqueue operation?,O(n),O(1),O(log n),O(n^2),O(1),Constant time operation.
+queue,What is a limitation of queues?,Fast random access,Limited access pattern,Low memory usage,Fast execution,Limited access pattern,Only front and rear access.
+file i/o,What does file I/O refer to in programming?,Sorting files,Reading from and writing to files,Filtering data,Compressing data,Reading from and writing to files,Handles external storage.
+file i/o,What function opens a file in Python?,open(),read(),write(),close(),open(),Returns a file object.
+file i/o,What is a use case for file I/O?,Random access,Logging data,Filtering data,Sorting data,Logging data,Stores program output.
+file i/o,What is a risk of file I/O?,Improved performance,File corruption,Low memory usage,Fast execution,File corruption,Requires error handling.
+file i/o,What mode allows writing to a file in Python?,'r','w','a','r+','w',Overwrites the file.
+arrow function,What is an arrow function in JavaScript?,A named function,A concise anonymous function with => syntax,A loop structure,A data type,A concise anonymous function with => syntax,Introduced in ES6.
+arrow function,What is a feature of arrow functions?,Has 'this' binding,No 'this' binding,Fixed scope,Static typing,No 'this' binding,Lexical 'this' binding.
+arrow function,What is a use case for arrow functions?,Fixed data,Array methods,Random access,Filtering data,Array methods,Used with map/filter.
+arrow function,What is a benefit of arrow functions?,Increased complexity,Conciseness,More memory usage,Slower execution,Conciseness,Reduces boilerplate code.
+arrow function,What is a limitation of arrow functions?,Improved performance,Lack of 'this' flexibility,Low memory usage,Fast execution,Lack of 'this' flexibility,Not suited for methods.
+stl,What does STL stand for in C++?,Standard Template Library,System Template Library,Standard Type Library,Structured Template Library,Standard Template Library,Collection of generic classes.
+stl,What is a component of the STL?,Vector,Class,Loop,Function,Vector,Dynamic array implementation.
+stl,What is a benefit of using STL?,Increased complexity,Code reusability,More memory usage,Slower execution,Code reusability,Provides tested components.
+stl,What is a use case for STL?,Fixed data,Container management,Random access,Filtering data,Container management,Handles collections.
+stl,What is a limitation of STL?,Improved performance,Learning curve,Low memory usage,Fast execution,Learning curve,Requires familiarity.
+dynamic memory allocation,What is dynamic memory allocation?,Allocating memory at compile time,Allocating memory at runtime,Sorting memory,Filtering memory,Allocating memory at runtime,Flexible memory use.
+dynamic memory allocation,What operator allocates memory in C++?,new,alloc,malloc,free,new,Returns a pointer.
+dynamic memory allocation,What is a use case for dynamic memory allocation?,Fixed data,Resizable arrays,Random access,Filtering data,Resizable arrays,Adapts to needs.
+dynamic memory allocation,What is a risk of dynamic memory allocation?,Improved performance,Memory leaks,Low memory usage,Fast execution,Memory leaks,Requires manual freeing.
+dynamic memory allocation,What operator deallocates memory in C++?,delete,free,clear,destroy,delete,Releases memory.
+regular expression,What is a regular expression?,A loop structure,A pattern for matching strings,A data type,A sorting algorithm,A pattern for matching strings,Used for validation.
+regular expression,What symbol matches any character in regex?,*,.,+,?,.,Matches a single character.
+regular expression,What is a use case for regular expressions?,Fixed data,Input validation,Random access,Filtering data,Input validation,Checks formats like email.
+regular expression,What is a benefit of regular expressions?,Increased complexity,Powerful matching,More memory usage,Slower execution,Powerful matching,Handles complex patterns.
+regular expression,What is a limitation of regular expressions?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Can be slow for large strings.
+map,What is a map in programming?,A sorted list,A key-value pair data structure,A tree structure,A graph structure,A key-value pair data structure,Same as dictionary.
+map,What is a key feature of maps?,Fixed size,Fast lookups,Unordered elements,Slow access,Fast lookups,Uses hashing.
+map,What is a common operation in a map?,Random access,Inserting key-value pairs,Sorting elements,Filtering data,Inserting key-value pairs,Core functionality.
+map,What is a limitation of maps?,Fast access,Memory overhead,Low memory usage,Simple design,Memory overhead,Depends on hash table size.
+map,What language uses maps natively?,Python,SQL,HTML,CSS,Python,Built-in dict type.
+graph,What is a graph in data structures?,A hierarchical structure,A collection of nodes connected by edges,A sorted list,A hash table,A collection of nodes connected by edges,Models relationships.
+graph,What is a type of graph?,Directed,Undirected,Both,Neither,Both,Depends on edge direction.
+graph,What is a use case for graphs?,Random access,Social networks,Filtering data,Sorting data,Social networks,Represents connections.
+graph,What is the time complexity of BFS on a graph?,O(V + E),O(V),O(E),O(V^2),O(V + E),V is vertices, E is edges.
+graph,What is a limitation of graphs?,Fast access,Memory overhead,Low memory usage,Simple design,Memory overhead,Requires careful representation.
+filter,What does the filter function do in programming?,Sorts data,Selects elements based on a condition,Compresses data,Encrypts data,Selects elements based on a condition,Returns a subset.
+filter,What language commonly uses filter?,Python,SQL,HTML,CSS,Python,Built-in function.
+filter,What is a use case for filter?,Random access,Data cleaning,Sorting data,Compressing data,Data cleaning,Removes unwanted elements.
+filter,What is a benefit of filter?,Increased complexity,Conciseness,More memory usage,Slower execution,Conciseness,Simplifies logic.
+filter,What is a limitation of filter?,Improved performance,Iterator-based,Low memory usage,Fast execution,Iterator-based,May require conversion.
+exception,What is an exception in programming?,A loop structure,An error event during execution,A data type,A sorting algorithm,An error event during execution,Disrupts normal flow.
+exception,What keyword throws an exception in Java?,throw,throws,try,catch,throw,Triggers an error.
+exception,What is a use case for exceptions?,Random access,Error handling,Filtering data,Sorting data,Error handling,Manages runtime issues.
+exception,What is a benefit of exceptions?,Increased complexity,Robustness,More memory usage,Slower execution,Robustness,Prevents crashes.
+exception,What is a limitation of exceptions?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Try-catch cost.
+constructor,What is a constructor in OOP?,A method called when an object is created,A loop structure,A data type,A sorting algorithm,A method called when an object is created,Initializes objects.
+constructor,What is the name of a constructor in Java?,Same as class name,init,create,new,Same as class name,No return type.
+constructor,What is a use case for constructors?,Random access,Initializing objects,Filtering data,Sorting data,Initializing objects,Sets initial state.
+constructor,What is a benefit of constructors?,Increased complexity,Automatic initialization,More memory usage,Slower execution,Automatic initialization,Ensures proper setup.
+constructor,What is a limitation of constructors?,Improved performance,Lack of flexibility,Low memory usage,Fast execution,Lack of flexibility,Fixed signature.
+binary tree,What is a binary tree in data structures?,A tree where each node has at most two children,A linear list,A sorted array,A graph structure,A tree where each node has at most two children,Left and right children.
+binary tree,What is the maximum number of children in a binary tree?,Any number,Two,Three,Four,Two,Defines the binary property.
+binary tree,What is a use case for binary trees?,Random access,Expression parsing,Filtering data,Sorting data,Expression parsing,Represents hierarchies.
+binary tree,What is the time complexity of searching in a balanced binary tree?,O(n),O(log n),O(n^2),O(1),O(log n),Balanced structure.
+binary tree,What is a limitation of binary trees?,Fast access,Unbalanced trees,Low memory usage,Simple design,Unbalanced trees,May degrade to O(n).
+class template,What is a class template in C++?,A loop structure,A blueprint for creating generic classes,A data type,A sorting algorithm,A blueprint for creating generic classes,Same as template.
+class template,What keyword defines a class template in C++?,template,class,struct,enum,template,Precedes the definition.
+class template,What is a benefit of using class templates?,Increased complexity,Type safety,More memory usage,Slower execution,Type safety,Ensures compile-time checks.
+class template,What is a use case for class templates?,Fixed data,Generic programming,Random access,Filtering data,Generic programming,Creates reusable code.
+class template,What is a limitation of class templates?,Improved performance,Code bloat,Low memory usage,Fast execution,Code bloat,Generates multiple instantiations.
+global variable,What is a global variable in programming?,A variable scoped to a function,A variable accessible throughout the program,A loop variable,A data type,A variable accessible throughout the program,Defined outside functions.
+global variable,What is a risk of using global variables?,Improved performance,Unintended modifications,Low memory usage,Fast execution,Unintended modifications,Hard to debug.
+global variable,What is a use case for global variables?,Random access,Shared configuration,Filtering data,Sorting data,Shared configuration,Stores constants.
+global variable,What keyword declares a global variable in Python?,global,local,static,public,global,Ensures global scope.
+global variable,What is a benefit of global variables?,Increased complexity,Easy access,More memory usage,Slower execution,Easy access,Simplifies sharing.
+polymorphic method,What is a polymorphic method in OOP?,A method with multiple parameter types,A method that can be overridden,A loop method,A data type,A method that can be overridden,Same as method overriding.
+polymorphic method,What keyword is used in Java for polymorphic methods?,override,virtual,super,this,super,Refers to parent method.
+polymorphic method,What is a use case for polymorphic methods?,Fixed data,Custom behavior,Random access,Filtering data,Custom behavior,Tailors functionality.
+polymorphic method,What is a requirement for polymorphic methods?,Different signatures,Same method signature,Static methods,Private methods,Same method signature,Ensures proper override.
+polymorphic method,What is a limitation of polymorphic methods?,Improved performance,Potential complexity,Low memory usage,Fast execution,Potential complexity,Requires careful design.
+heap,What is a heap in data structures?,A tree-based structure satisfying the heap property,A linear list,A sorted array,A graph structure,A tree-based structure satisfying the heap property,Used for priority queues.
+heap,What property defines a max-heap?,Parent > children,Parent < children,Random order,Circular links,Parent > children,Root is the maximum element.
+heap,What is the time complexity of heap insertion?,O(1),O(log n),O(n),O(n^2),O(log n),Due to heapify operation.
+heap,What is a use case for heaps?,Linear search,Priority queue implementation,Sorting arrays,Graph traversal,Priority queue implementation,Scheduling tasks.
+heap,What is the height of a heap with n nodes?,O(1),O(log n),O(n),O(n^2),O(log n),Logarithmic due to binary tree structure.
+string formatting,What is string formatting in programming?,Sorting strings,Creating formatted strings with variables,Filtering strings,Compressing strings,Creating formatted strings with variables,Improves readability.
+string formatting,What method is used in Python 3.6+ for string formatting?,f-strings,format(),% operator,join(),f-strings,Most readable method.
+string formatting,What is a use case for string formatting?,Random access,Logging messages,Filtering data,Sorting data,Logging messages,Creates readable output.
+string formatting,What is a benefit of string formatting?,Increased complexity,Readability,More memory usage,Slower execution,Readability,Enhances user output.
+string formatting,What is a limitation of string formatting?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Can be slow for large strings.
+friend function,What is a friend function in C++?,A function that accesses private members of a class,A loop function,A data type,A sorting function,A function that accesses private members of a class,Breaks encapsulation.
+friend function,What keyword declares a friend function?,friend,private,public,static,friend,Grants access rights.
+friend function,What is a use case for friend functions?,Random access,Operator overloading,Filtering data,Sorting data,Operator overloading,Accesses private data.
+friend function,What is a benefit of friend functions?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Simplifies certain operations.
+friend function,What is a limitation of friend functions?,Improved performance,Breaks encapsulation,Low memory usage,Fast execution,Breaks encapsulation,May lead to misuse.
+overloaded constructor,What is an overloaded constructor in OOP?,A constructor with multiple parameter lists,A single constructor,A loop constructor,A data type,A constructor with multiple parameter lists,Enhances flexibility.
+overloaded constructor,What is a benefit of overloaded constructors?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Supports multiple initialization.
+overloaded constructor,What is a use case for overloaded constructors?,Random access,Object initialization,Filtering data,Sorting data,Object initialization,Adapts to needs.
+overloaded constructor,What is a requirement for overloaded constructors?,Same parameters,Different parameter lists,Same return type,Private access,Different parameter lists,Distinguishes constructors.
+overloaded constructor,What is a limitation of overloaded constructors?,Improved performance,Potential confusion,Low memory usage,Fast execution,Potential confusion,Requires careful design.
+hash table,What is a hash table in data structures?,A sorted list,A data structure using key-value pairs with hashing,A tree structure,A graph structure,A data structure using key-value pairs with hashing,Fast lookups.
+hash table,What is a key feature of hash tables?,Fixed size,Fast lookups,Unordered elements,Slow access,Fast lookups,Uses hashing.
+hash table,What is a use case for hash tables?,Random access,Data indexing,Filtering data,Sorting data,Data indexing,Enables O(1) lookups.
+hash table,What is the time complexity of average-case lookup?,O(n),O(1),O(log n),O(n^2),O(1),Assuming good hash function.
+hash table,What is a limitation of hash tables?,Fast access,Collision handling,Low memory usage,Simple design,Collision handling,Requires resolution strategies.
+spread operator,What is the spread operator in JavaScript?,A loop operator,An operator to expand elements (...),A data type,A sorting operator,An operator to expand elements (...),Introduced in ES6.
+spread operator,What is a use case for the spread operator?,Random access,Array copying,Filtering data,Sorting data,Array copying,Creates shallow copies.
+spread operator,What is a benefit of the spread operator?,Increased complexity,Conciseness,More memory usage,Slower execution,Conciseness,Simplifies syntax.
+spread operator,What is a limitation of the spread operator?,Improved performance,Shallow copying,Low memory usage,Fast execution,Shallow copying,Does not copy nested objects.
+spread operator,What can the spread operator be used with?,Arrays only,Objects only,Arrays and objects,Functions only,Arrays and objects,Versatile usage.
+multithreading,What is multithreading?,Running multiple threads in a single process,Running multiple processes,Styling threads,Compressing threads,Running multiple threads in a single process,Shares memory.
+multithreading,What is a use case for multithreading?,UI design,Concurrent tasks,Data compression,Encryption,Concurrent tasks,Responsive apps.
+multithreading,What is a benefit of multithreading?,High complexity,Responsiveness,More memory usage,Longer execution,Responsiveness,Handles I/O.
+multithreading,What is a challenge of multithreading?,Performance,Deadlocks,Simple design,Low memory,Deadlocks,Requires synchronization.
+multithreading,What is a tool for multithreading?,Pthreads,HTML,CSS,JavaScript,Pthreads,Thread management.
+avl tree,What is an AVL tree?,A self-balancing binary search tree,A linear list,A sorted array,A graph structure,A self-balancing binary search tree,Maintains height balance.
+avl tree,What is the balance factor in an AVL tree?,Height difference of subtrees,Number of nodes,Depth of tree,Number of leaves,Height difference of subtrees,Ensures O(log n) operations.
+avl tree,What is a use case for AVL trees?,Random access,Database indexing,Filtering data,Sorting data,Database indexing,Ensures balanced operations.
+avl tree,What is the time complexity of insertion in an AVL tree?,O(n),O(log n),O(n^2),O(1),O(log n),Due to balancing.
+avl tree,What is a limitation of AVL trees?,Fast access,Complex rotations,Low memory usage,Simple design,Complex rotations,Requires maintenance.
+deque,What is a deque?,A double-ended queue allowing insertion/deletion at both ends,A single-ended queue,A fixed-size array,A tree-based structure,A double-ended queue allowing insertion/deletion at both ends,Combines stack and queue.
+deque,What operation is efficient at both ends of a deque?,Random access,Push and pop,Sorting,Filtering,Push and pop,Optimized for O(1) operations.
+deque,What is a use case for a deque?,Fixed-size storage,Sliding window problems,Graph traversal,Matrix operations,Sliding window problems,Useful in algorithms.
+deque,How does a deque differ from a queue?,Allows operations at one end only,Allows operations at both ends,Fixed size,Unordered,Allows operations at both ends,More versatile than a queue.
+deque,What is the time complexity for deque access?,O(1),O(n),O(log n),O(n^2),O(1),Assuming array or linked list implementation.
+tree,What is a tree in data structures?,A hierarchical structure with nodes connected by edges,A linear array,A key-value pair,A flat list,A hierarchical structure with nodes connected by edges,Root node has no parent.
+tree,What is the maximum number of children in a binary tree?,Any number,Two,Three,Four,Two,Defines the binary property.
+tree,What is a use case for trees?,Linear search,File system organization,Sorting arrays,Hashing,File system organization,Hierarchical data storage.
+tree,What is the height of a tree?,Number of nodes,Longest path from root to leaf,Number of edges,Number of levels,Longest path from root to leaf,Impacts search efficiency.
+tree,What happens if a tree has a cycle?,It becomes a graph,It remains a tree,It has no root,It is invalid,It becomes a graph,Breaks the tree definition.
+zip function,What does the zip function do in Python?,Sorts lists,Combines multiple iterables into tuples,Filters lists,Compresses lists,Combines multiple iterables into tuples,Iterates in parallel.
+zip function,What is a use case for the zip function?,Random access,Pairing data,Filtering data,Sorting data,Pairing data,Aligns related lists.
+zip function,What is a benefit of the zip function?,Increased complexity,Conciseness,More memory usage,Slower execution,Conciseness,Simplifies iteration.
+zip function,What is a limitation of the zip function?,Improved performance,Shortest iterable length,Low memory usage,Fast execution,Shortest iterable length,Stops at shortest.
+zip function,What type does zip return?,List,Tuple,Iterator,Dictionary,Iterator,Requires conversion to list/tuple.
+trie,What is a trie in data structures?,A tree for storing strings with shared prefixes,A binary search tree,A sorted list,A hash table,A tree for storing strings with shared prefixes,Efficient for prefix searches.
+trie,What is a key feature of a trie?,Fixed size,Prefix sharing,Random access,Unordered nodes,Prefix sharing,Reduces memory for common prefixes.
+trie,What is a use case for tries?,Sorting arrays,Autocomplete suggestions,Graph traversal,Queue management,Autocomplete suggestions,Used in spell checkers.
+trie,What is the space complexity of a trie?,O(1),O(AL),O(n),O(n^2),O(AL),A is alphabet size, L is string length.
+trie,What is a disadvantage of tries?,Fast random access,Memory overhead for sparse data,Fixed size,Low efficiency,Memory overhead for sparse data,Requires more space.
+lambda expression,What is a lambda expression in programming?,A named function,An anonymous function defined inline,A loop structure,A data type,An anonymous function defined inline,Same as lambda function.
+lambda expression,What keyword defines a lambda expression in Python?,lambda,def,func,function,lambda,Creates small functions.
+lambda expression,What is a use case for lambda expressions?,Fixed data,Sorting with custom keys,Random access,Filtering data,Sorting with custom keys,Used with map/filter.
+lambda expression,What is a benefit of lambda expressions?,Increased complexity,Conciseness,More memory usage,Slower execution,Conciseness,Reduces boilerplate code.
+lambda expression,What is a limitation of lambda expressions?,Improved performance,Limited complexity,Low memory usage,Fast execution,Limited complexity,Best for simple operations.
+binary search,What is binary search?,A linear search algorithm,An algorithm that searches sorted data by halving the range,A tree search algorithm,A graph search algorithm,An algorithm that searches sorted data by halving the range,Requires sorted input.
+binary search,What is the time complexity of binary search?,O(n),O(log n),O(n^2),O(1),O(log n),Efficient for large datasets.
+binary search,What is a prerequisite for binary search?,Unsorted data,Sorted data,Random data,Duplicate data,Sorted data,Ensures correct halving.
+binary search,What is a use case for binary search?,Random access,Finding elements,Filtering data,Sorting data,Finding elements,Fast search in sorted arrays.
+binary search,What is a limitation of binary search?,Fast access,Requires sorted data,Low memory usage,Simple design,Requires sorted data,Preprocessing needed.
+dataframe,What is a DataFrame in programming?,A sorted list,A tabular data structure in pandas,A tree structure,A graph structure,A tabular data structure in pandas,Similar to a spreadsheet.
+dataframe,What library provides DataFrame in Python?,pandas,numpy,matplotlib,sklearn,pandas,Core data structure.
+dataframe,What is a use case for DataFrames?,Random access,Data analysis,Filtering data,Sorting data,Data analysis,Handles large datasets.
+dataframe,What is a common operation on a DataFrame?,Random access,Filtering rows,Sorting data,Compressing data,Filtering rows,Uses conditions.
+dataframe,What is a limitation of DataFrames?,Fast access,Memory overhead,Low memory usage,Simple design,Memory overhead,Large datasets require memory.
+annotation,What is an annotation in programming?,A loop structure,Metadata added to code for additional information,A data type,A sorting algorithm,Metadata added to code for additional information,Enhances code information.
+annotation,What symbol defines an annotation in Java?,@,*,&,%,@,Precedes the annotation name.
+annotation,What is a use case for annotations?,Random access,Framework configuration,Filtering data,Sorting data,Framework configuration,Used in Spring.
+annotation,What is a benefit of annotations?,Increased complexity,Improved readability,More memory usage,Slower execution,Improved readability,Clarifies intent.
+annotation,What is a limitation of annotations?,Improved performance,Dependency on framework,Low memory usage,Fast execution,Dependency on framework,Requires support.
+unit testing,What is unit testing?,Testing individual components of code,Testing the entire application,Styling code,Encrypting code,Testing individual components of code,Verifies small units.
+unit testing,What framework is common for unit testing?,JUnit,HTML,CSS,JavaScript,JUnit,Java testing tool.
+unit testing,What is a use case for unit testing?,Data compression,Bug detection,Sorting,Encryption,Bug detection,Ensures functionality.
+unit testing,What is a benefit of unit testing?,High complexity,Reliability,More memory usage,Longer execution,Reliability,Reduces defects.
+unit testing,What is a challenge of unit testing?,Performance,Test coverage,Simple design,Low memory,Test coverage,Requires thorough design.
+type inference,What is type inference in programming?,Explicit type declaration,Compiler determining variable types automatically,A loop structure,A data type,Compiler determining variable types automatically,Reduces boilerplate.
+type inference,What language uses type inference?,Scala,SQL,HTML,CSS,Scala,Enhances readability.
+type inference,What is a benefit of type inference?,Increased complexity,Reduced code verbosity,More memory usage,Slower execution,Reduced code verbosity,Simplifies declarations.
+type inference,What is a use case for type inference?,Random access,Variable declarations,Filtering data,Sorting data,Variable declarations,Automatic typing.
+type inference,What is a limitation of type inference?,Improved performance,Potential ambiguity,Low memory usage,Fast execution,Potential ambiguity,May confuse developers.
+numpy array,What is a NumPy array in Python?,A sorted list,An efficient array for numerical operations,A tree structure,A graph structure,An efficient array for numerical operations,Faster than lists.
+numpy array,What library provides NumPy arrays?,pandas,numpy,matplotlib,sklearn,numpy,Core numerical library.
+numpy array,What is a use case for NumPy arrays?,Random access,Scientific computing,Filtering data,Sorting data,Scientific computing,Handles large datasets.
+numpy array,What is a benefit of NumPy arrays?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Optimized for math.
+numpy array,What is a limitation of NumPy arrays?,Fast access,Memory overhead,Low memory usage,Simple design,Memory overhead,Large arrays require memory.
+garbage collection,What is garbage collection in programming?,Manual memory allocation,Automatic memory deallocation,Sorting memory,Filtering memory,Automatic memory deallocation,Frees unused memory.
+garbage collection,What language uses garbage collection?,Java,SQL,HTML,CSS,Java,Manages memory automatically.
+garbage collection,What is a benefit of garbage collection?,Increased complexity,Reduced memory leaks,More memory usage,Slower execution,Reduced memory leaks,Improves safety.
+garbage collection,What is a use case for garbage collection?,Random access,Memory management,Filtering data,Sorting data,Memory management,Ensures efficiency.
+garbage collection,What is a limitation of garbage collection?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Stop-the-world pauses.
+sorting,What is sorting in programming?,Randomizing data,Arranging data in a specific order,Filtering data,Compressing data,Arranging data in a specific order,Improves search efficiency.
+sorting,What is a common sorting algorithm?,Quicksort,Linear search,Binary search,Depth-first search,Quicksort,Efficient for general use.
+sorting,What is the time complexity of bubble sort?,O(n),O(n^2),O(log n),O(1),O(n^2),Inefficient for large datasets.
+sorting,What is a use case for sorting?,Random access,Data presentation,Filtering data,Compressing data,Data presentation,Improves readability.
+sorting,What is a limitation of sorting?,Fast access,Computational cost,Low memory usage,Simple design,Computational cost,Depends on algorithm.
+api,What is an API?,A set of rules for interacting with software components,A sorting algorithm,A compression technique,An encryption method,A set of rules for interacting with software components,Enables integration.
+api,What is a REST API?,Graph API,HTTP-based interface,SOAP API,JSON API,HTTP-based interface,Stateless communication.
+api,What is a use case for APIs?,Data compression,Service integration,Sorting,Encryption,Service integration,Connects applications.
+api,What is a benefit of APIs?,High complexity,Interoperability,More memory usage,Longer execution,Interoperability,Standardized access.
+api,What is a risk of APIs?,Data security,Improved performance,Simple design,Low cost,Data security,Exposes endpoints.
+disjoint set,What is a disjoint set in data structures?,A collection of non-overlapping sets,A sorted list,A tree structure,A hash table,A collection of non-overlapping sets,Used for union-find.
+disjoint set,What operation is common in a disjoint set?,Find,Push,Pop,Sort,Find,Locates set of an element.
+disjoint set,What is a use case for disjoint sets?,Random access,Graph connectivity,Filtering data,Sorting data,Graph connectivity,Used in Kruskal's algorithm.
+disjoint set,What is the time complexity of union-find with path compression?,O(n),O(1) amortized,O(log n),O(n^2),O(1) amortized,Highly efficient.
+disjoint set,What is a limitation of disjoint sets?,Fast access,Limited operations,Low memory usage,Simple design,Limited operations,Specialized use case.
+enum,What is an enum in programming?,A loop structure,A type defining a set of named values,A data type,A sorting algorithm,A type defining a set of named values,Improves readability.
+enum,What keyword defines an enum in Java?,enum,class,struct,interface,enum,Defines constants.
+enum,What is a use case for enums?,Random access,State representation,Filtering data,Sorting data,State representation,Manages fixed values.
+enum,What is a benefit of enums?,Increased complexity,Type safety,More memory usage,Slower execution,Type safety,Prevents invalid values.
+enum,What is a limitation of enums?,Improved performance,Fixed set of values,Low memory usage,Fast execution,Fixed set of values,Cannot add dynamically.
+kruskal's,What is Kruskal's algorithm used for?,Finding a minimum spanning tree,Finding the shortest path,Sorting a graph,Compressing a graph,Finding a minimum spanning tree,Optimizes network connectivity.
+kruskal's,What is the time complexity of Kruskal's with a good disjoint set?,O(V^2),O(E log E),O(E log V),O(n^3),O(E log E),E is edges, V is vertices.
+kruskal's,What data structure is used in Kruskal's?,Heap,Disjoint set,Queue,Array,Disjoint set,Manages connected components.
+kruskal's,What is a prerequisite for Kruskal's?,Directed graph,Undirected graph,Weighted graph,Cyclic graph,Weighted graph,Requires edge weights.
+kruskal's,What is a use case for Kruskal's?,Path finding,Network design,Sorting,Data compression,Network design,Minimizes cost in infrastructure.
+metaclass,What is a metaclass in Python?,A class of a class that defines class behavior,A loop structure,A data type,A sorting algorithm,A class of a class that defines class behavior,Controls class creation.
+metaclass,What keyword specifies a metaclass in Python?,metaclass,class,struct,enum,metaclass,Used in class definition.
+metaclass,What is a use case for metaclasses?,Random access,Customizing classes,Filtering data,Sorting data,Customizing classes,Adds behavior to classes.
+metaclass,What is a benefit of metaclasses?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Powerful customization.
+metaclass,What is a limitation of metaclasses?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Hard to debug.
+fenwick tree,What is a Fenwick tree?,A data structure for cumulative frequency tables,A sorted list,A tree structure,A hash table,A data structure for cumulative frequency tables,Also called binary indexed tree.
+fenwick tree,What operation is efficient in a Fenwick tree?,Range sum queries,Random access,Sorting,Filtering,Range sum queries,O(log n) updates.
+fenwick tree,What is a use case for Fenwick trees?,Random access,Dynamic range queries,Filtering data,Sorting data,Dynamic range queries,Used in competitive programming.
+fenwick tree,What is the time complexity of an update in a Fenwick tree?,O(n),O(log n),O(n^2),O(1),O(log n),Efficient updates.
+fenwick tree,What is a limitation of Fenwick trees?,Fast access,Specialized use,Low memory usage,Simple design,Specialized use,Limited to specific problems.
+class method,What is a class method in Python?,A method bound to the class, not the instance,A loop method,A data type,A sorting method,A method bound to the class, not the instance,Accesses class attributes.
+class method,What decorator defines a class method in Python?,@classmethod,@staticmethod,@instancemethod,@property,@classmethod,Standard decorator.
+class method,What is a use case for class methods?,Random access,Factory methods,Filtering data,Sorting data,Factory methods,Creates alternative constructors.
+class method,What is a benefit of class methods?,Increased complexity,Class-level access,More memory usage,Slower execution,Class-level access,Manages class state.
+class method,What is a limitation of class methods?,Improved performance,Cannot access instance data,Low memory usage,Fast execution,Cannot access instance data,Class scope only.
+huffman coding,What is Huffman coding?,A sorting algorithm,A compression algorithm using a tree,A search algorithm,A graph algorithm,A compression algorithm using a tree,Optimal prefix codes.
+huffman coding,What data structure is used in Huffman coding?,Heap,Array,Stack,Queue,Heap,Builds the tree efficiently.
+huffman coding,What is a use case for Huffman coding?,Random access,Data compression,Filtering data,Sorting data,Data compression,Reduces file size.
+huffman coding,What is the time complexity of Huffman coding?,O(n),O(n log n),O(n^2),O(1),O(n log n),Due to heap operations.
+huffman coding,What is a limitation of Huffman coding?,Fast access,Requires frequency table,Low memory usage,Simple design,Requires frequency table,Preprocessing needed.
+multiprocessing,What is multiprocessing in programming?,Running multiple threads,Running multiple processes,Styling processes,Compressing processes,Running multiple processes,Independent memory spaces.
+multiprocessing,What module provides multiprocessing in Python?,multiprocessing,threading,asyncio,concurrent,multiprocessing,Standard library module.
+multiprocessing,What is a use case for multiprocessing?,UI design,CPU-bound tasks,Data compression,Encryption,CPU-bound tasks,Leverages multiple cores.
+multiprocessing,What is a benefit of multiprocessing?,High complexity,Parallelism,More memory usage,Longer execution,Parallelism,Improves performance.
+multiprocessing,What is a challenge of multiprocessing?,Performance,Inter-process communication,Simple design,Low memory,Inter-process communication,Requires synchronization.
+reflection,What is reflection in programming?,Sorting code,Examining and modifying code at runtime,Filtering code,Compressing code,Examining and modifying code at runtime,Introspection capability.
+reflection,What language supports reflection?,Java,SQL,HTML,CSS,Java,Uses java.lang.reflect.
+reflection,What is a use case for reflection?,Random access,Dynamic code,Filtering data,Sorting data,Dynamic code,Used in frameworks.
+reflection,What is a benefit of reflection?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Runtime adaptability.
+reflection,What is a limitation of reflection?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Reflection is slow.
+bellman ford,What is the Bellman-Ford algorithm used for?,Finding a minimum spanning tree,Finding shortest paths with negative weights,Sorting a graph,Compressing a graph,Finding shortest paths with negative weights,Handles negative edges.
+bellman ford,What is the time complexity of Bellman-Ford?,O(V^2),O(VE),O(E log V),O(n^3),O(VE),V is vertices, E is edges.
+bellman ford,What is a use case for Bellman-Ford?,Random access,Network routing,Filtering data,Sorting data,Network routing,Handles negative cycles.
+bellman ford,What is a limitation of Bellman-Ford?,Fast execution,High time complexity,Low memory usage,Simple design,High time complexity,Less efficient than Dijkstra's.
+bellman ford,What does Bellman-Ford detect?,Shortest path,Negative cycles,Minimum spanning tree,Graph connectivity,Negative cycles,Stops if detected.
+hash function,What is the role of a hash function?,Maps data to a fixed-size value,Sorts data in ascending order,Encrypts data,Compresses files,Maps data to a fixed-size value,Minimizes collisions.
+hash function,What is a desirable property of a hash function?,High collision rate,Uniform distribution,Fixed output length,Random output,Uniform distribution,Reduces clustering.
+hash function,What happens with many collisions?,Improved performance,Degraded performance,Constant time access,Reduced memory,Degraded performance,Requires collision resolution.
+hash function,What is a common use case for hash functions?,Sorting,Hash table indexing,Graph traversal,Queue management,Hash table indexing,Enables fast lookups.
+hash function,What is the output of a cryptographic hash function?,Variable length,Fixed length,Random length,Unpredictable length,Fixed length,Ensures data integrity.
+segment tree,What is a segment tree?,A tree for range queries and updates,A sorted list,A tree structure,A hash table,A tree for range queries and updates,Used in competitive programming.
+segment tree,What operation is efficient in a segment tree?,Range sum queries,Random access,Sorting,Filtering,Range sum queries,O(log n) queries.
+segment tree,What is a use case for segment trees?,Random access,Dynamic range queries,Filtering data,Sorting data,Dynamic range queries,Efficient updates.
+segment tree,What is the time complexity of an update in a segment tree?,O(n),O(log n),O(n^2),O(1),O(log n),Efficient updates.
+segment tree,What is a limitation of segment trees?,Fast access,Complex implementation,Low memory usage,Simple design,Complex implementation,Requires careful coding.
+floyd warshall,What is the Floyd-Warshall algorithm used for?,Finding a minimum spanning tree,Finding all-pairs shortest paths,Sorting a graph,Compressing a graph,Finding all-pairs shortest paths,Handles all pairs.
+floyd warshall,What is the time complexity of Floyd-Warshall?,O(V^2),O(V^3),O(E log V),O(n^3),O(V^3),V is vertices.
+floyd warshall,What is a use case for Floyd-Warshall?,Random access,Network analysis,Filtering data,Sorting data,Network analysis,Computes all shortest paths.
+floyd warshall,What is a limitation of Floyd-Warshall?,Fast execution,High time complexity,Low memory usage,Simple design,High time complexity,Not suited for large graphs.
+floyd warshall,What does Floyd-Warshall handle?,Negative cycles,Shortest path,Minimum spanning tree,Graph connectivity,Negative cycles,Detects them.
+lru cache,What does LRU Cache stand for?,Least Recently Used Cache,Last Recently Used Cache,Least Randomly Used Cache,Last Randomly Used Cache,Least Recently Used Cache,Efficient caching mechanism.
+lru cache,What data structures are used in an LRU Cache?,Hash map and doubly linked list,Array and stack,Queue and tree,Heap and graph,Hash map and doubly linked list,Fast access and ordering.
+lru cache,What is a use case for an LRU Cache?,Random access,Memory management,Filtering data,Sorting data,Memory management,Optimizes cache hits.
+lru cache,What is the time complexity of LRU Cache operations?,O(n),O(1),O(log n),O(n^2),O(1),Efficient with hash map.
+lru cache,What is a limitation of an LRU Cache?,Fast access,Fixed size,Low memory usage,Simple design,Fixed size,Requires eviction policy.
+websocket,What are WebSockets used for?,Real-time bidirectional communication,Styling web pages,Managing databases,Encrypting data,Real-time bidirectional communication,Enables chat.
+websocket,What protocol is used by WebSockets?,HTTP,WebSocket,TCP,UDP,WebSocket,Persistent connection.
+websocket,What is a use case for WebSockets?,Data compression,Live updates,Sorting,Encryption,Live updates,Gaming apps.
+websocket,What is a benefit of WebSockets?,High latency,Low latency,More memory usage,Longer execution,Low latency,Real-time interaction.
+websocket,What is a limitation of WebSockets?,Server load,Simple design,Low cost,High speed,Server load,Scales with connections.
+immutability,What is immutability in programming?,Data that can be changed,Data that cannot be changed after creation,Sorting data,Filtering data,Data that cannot be changed after creation,Ensures safety.
+immutability,What language emphasizes immutability?,Scala,SQL,HTML,CSS,Scala,Functional programming focus.
+immutability,What is a benefit of immutability?,Increased complexity,Thread safety,More memory usage,Slower execution,Thread safety,Reduces race conditions.
+immutability,What is a use case for immutability?,Random access,State management,Filtering data,Sorting data,State management,Ensures predictability.
+immutability,What is a limitation of immutability?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,May require copying.
+dataclasses,What are dataclasses in Python?,A loop structure,A decorator for simplifying class creation,A data type,A sorting algorithm,A decorator for simplifying class creation,Introduced in Python 3.7.
+dataclasses,What decorator defines a dataclass?,@dataclass,@class,@struct,@enum,@dataclass,Standard decorator.
+dataclasses,What is a use case for dataclasses?,Random access,Data storage,Filtering data,Sorting data,Data storage,Simplifies boilerplate.
+dataclasses,What is a benefit of dataclasses?,Increased complexity,Reduced boilerplate,More memory usage,Slower execution,Reduced boilerplate,Automatic methods.
+dataclasses,What is a limitation of dataclasses?,Improved performance,Limited customization,Low memory usage,Fast execution,Limited customization,Default behavior.
+bigint,What is a BigInt in JavaScript?,A 32-bit integer,An integer type for arbitrary precision,A floating-point number,A string type,An integer type for arbitrary precision,Handles large numbers.
+bigint,What suffix creates a BigInt in JavaScript?,n,l,f,d,n,Appended to the number.
+bigint,What is a use case for BigInt?,Random access,Cryptographic calculations,Filtering data,Sorting data,Cryptographic calculations,Handles large integers.
+bigint,What is a benefit of BigInt?,Increased complexity,Precision,More memory usage,Slower execution,Precision,No rounding errors.
+bigint,What is a limitation of BigInt?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Slower than regular numbers.
+fold expression,What is a fold expression in C++?,A loop structure,An expression for applying operators over parameter packs,A data type,A sorting algorithm,An expression for applying operators over parameter packs,Introduced in C++17.
+fold expression,What operator is used in fold expressions?,...,*,&,%,...,Expands the pack.
+fold expression,What is a use case for fold expressions?,Random access,Variadic templates,Filtering data,Sorting data,Variadic templates,Simplifies operations.
+fold expression,What is a benefit of fold expressions?,Increased complexity,Conciseness,More memory usage,Slower execution,Conciseness,Reduces boilerplate code.
+fold expression,What is a limitation of fold expressions?,Improved performance,Limited to operators,Low memory usage,Fast execution,Limited to operators,Not for complex logic.
+memory management,What is memory management in operating systems?,Allocating and deallocating memory for processes,Styling memory,Compressing memory,Encrypting memory,Allocating and deallocating memory for processes,Optimizes resource use.
+memory management,What is a challenge of memory management?,Performance,Fragmentation,Simple design,Low cost,Fragmentation,Can lead to inefficient memory use.
+memory management,What tool is used for memory management in C++?,new/delete,Garbage collector,Sort function,Filter function,new/delete,Manual allocation.
+memory management,What is a use case for memory management?,Random access,Resource allocation,Filtering data,Sorting data,Resource allocation,Optimizes program execution.
+memory management,What is a benefit of manual memory management?,Increased flexibility,Automatic cleanup,More memory usage,Slower execution,Increased flexibility,Full control over allocation.
+memory management,What is a limitation of automatic memory management?,Improved performance,Overhead cost,Low memory usage,Fast execution,Overhead cost,Can pause execution.
+divide and conquer,What is divide and conquer in algorithms?,A strategy of dividing problems into smaller subproblems,Solving problems randomly,Sorting data directly,Filtering data directly,A strategy of dividing problems into smaller subproblems,Used in mergesort.
+divide and conquer,What algorithm uses divide and conquer?,Mergesort,Binary search,Linear search,Bubble sort,Mergesort,Splits and merges data.
+divide and conquer,What is a use case for divide and conquer?,Random access,Large dataset processing,Filtering data,Sorting data,Large dataset processing,Efficient for scalability.
+divide and conquer,What is a benefit of divide and conquer?,Increased complexity,Improved efficiency,More memory usage,Slower execution,Improved efficiency,Breaks down complexity.
+divide and conquer,What is a limitation of divide and conquer?,Fast access,Overhead in small problems,Low memory usage,Simple design,Overhead in small problems,Not always optimal.
+pattern matching,What is pattern matching in programming?,Matching data against a pattern,Sorting data,Filtering data directly,Compressing data,Matching data against a pattern,Used in regex.
+pattern matching,What language supports pattern matching?,Scala,SQL,HTML,CSS,Scala,Functional programming feature.
+pattern matching,What is a use case for pattern matching?,Random access,Data extraction,Filtering data,Sorting data,Data extraction,Parses structured data.
+pattern matching,What is a benefit of pattern matching?,Increased complexity,Readability,More memory usage,Slower execution,Readability,Simplifies logic.
+pattern matching,What is a limitation of pattern matching?,Improved performance,Complexity in large patterns,Low memory usage,Fast execution,Complexity in large patterns,Hard to maintain.
+sealed class,What is a sealed class in programming?,A class that cannot be inherited,A class with restricted inheritance,A loop structure,A data type,A class with restricted inheritance,Ensures type safety.
+sealed class,What language uses sealed classes?,Kotlin,Java,Python,C++,Kotlin,Prevents unwanted subclassing.
+sealed class,What is a use case for sealed classes?,Random access,State management,Filtering data,Sorting data,State management,Defines hierarchy.
+sealed class,What is a benefit of sealed classes?,Increased complexity,Type safety,More memory usage,Slower execution,Type safety,Reduces runtime errors.
+sealed class,What is a limitation of sealed classes?,Improved performance,Reduced flexibility,Low memory usage,Fast execution,Reduced flexibility,Limits inheritance.
+backtracking,What is backtracking in algorithms?,A strategy to explore solutions by trying possibilities,Solving problems randomly,Sorting data directly,Filtering data directly,A strategy to explore solutions by trying possibilities,Used in maze solving.
+backtracking,What problem uses backtracking?,N-Queens,Linear search,Binary search,Bubble sort,N-Queens,Explores valid configurations.
+backtracking,What is a use case for backtracking?,Random access,Constraint satisfaction,Filtering data,Sorting data,Constraint satisfaction,Solves puzzles.
+backtracking,What is a benefit of backtracking?,Increased complexity,Exhaustive search,More memory usage,Slower execution,Exhaustive search,Finds all solutions.
+backtracking,What is a limitation of backtracking?,Fast access,High time complexity,Low memory usage,Simple design,High time complexity,Exponential growth.
+bit manipulation,What is bit manipulation?,Operations on bits at the binary level,Sorting binary data,Filtering binary data,Compressing data,Operations on bits at the binary level,Optimizes performance.
+bit manipulation,What operator performs a bitwise AND?,&,|,^,~, &,Compares bits.
+bit manipulation,What is a use case for bit manipulation?,Random access,Flag management,Filtering data,Sorting data,Flag management,Efficient storage.
+bit manipulation,What is a benefit of bit manipulation?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Reduces space.
+bit manipulation,What is a limitation of bit manipulation?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Hard to read.
+server-side rendering,What is server-side rendering?,Rendering web pages on the server,Rendering on the client,Sorting data,Filtering data,Rendering web pages on the server,Improves SEO.
+server-side rendering,What technology supports server-side rendering?,Node.js,HTML,CSS,JavaScript,Node.js,Server execution.
+server-side rendering,What is a use case for server-side rendering?,Random access,SEO optimization,Filtering data,Sorting data,SEO optimization,Enhances search visibility.
+server-side rendering,What is a benefit of server-side rendering?,Increased latency,Faster initial load,More memory usage,Slower execution,Faster initial load,Improves user experience.
+server-side rendering,What is a limitation of server-side rendering?,Improved performance,Server load,Low memory usage,Fast execution,Server load,Scales with traffic.
+dynamic programming,What is dynamic programming?,Solving problems by breaking into overlapping subproblems,Solving problems randomly,Sorting data directly,Filtering data directly,Solving problems by breaking into overlapping subproblems,Optimizes recursion.
+dynamic programming,What problem uses dynamic programming?,Fibonacci,Linear search,Binary search,Bubble sort,Fibonacci,Uses memoization.
+dynamic programming,What is a use case for dynamic programming?,Random access,Optimization problems,Filtering data,Sorting data,Optimization problems,Efficient solutions.
+dynamic programming,What is a benefit of dynamic programming?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Reduces redundant calculations.
+dynamic programming,What is a limitation of dynamic programming?,Fast access,Memory usage,Low memory usage,Simple design,Memory usage,Stores subproblem results.
+refactoring,What is refactoring in programming?,Improving code structure without changing behavior,Sorting code,Filtering code,Compressing code,Improving code structure without changing behavior,Enhances maintainability.
+refactoring,What is a technique for refactoring?,Extract method,Rename variable,Add loop,Remove data,Extract method,Simplifies logic.
+refactoring,What is a use case for refactoring?,Random access,Code optimization,Filtering data,Sorting data,Code optimization,Improves readability.
+refactoring,What is a benefit of refactoring?,Increased complexity,Maintainability,More memory usage,Slower execution,Maintainability,Reduces technical debt.
+refactoring,What is a limitation of refactoring?,Improved performance,Risk of bugs,Low memory usage,Fast execution,Risk of bugs,Requires testing.
+scalability,What is scalability in software design?,Ability to handle increased load,Sorting data,Filtering data,Compressing data,Ability to handle increased load,Ensures growth.
+scalability,What technique improves scalability?,Load balancing,Adding loops,Filtering data,Sorting data,Load balancing,Distributes traffic.
+scalability,What is a use case for scalability?,Random access,Web applications,Filtering data,Sorting data,Web applications,Handles users.
+scalability,What is a benefit of scalability?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Supports growth.
+scalability,What is a limitation of scalability?,Improved performance,Cost,Low memory usage,Fast execution,Cost,Requires infrastructure.
+memory leak,What is a memory leak in programming?,Unused memory not freed,Sorting memory,Filtering memory,Compressing memory,Unused memory not freed,Causes resource exhaustion.
+memory leak,What language is prone to memory leaks?,C,Python,JavaScript,HTML,C,Manual memory management.
+memory leak,What is a use case for detecting memory leaks?,Random access,Performance tuning,Filtering data,Sorting data,Performance tuning,Optimizes resource use.
+memory leak,What is a risk of memory leaks?,Improved performance,System crashes,Low memory usage,Fast execution,System crashes,Exhausts memory.
+memory leak,What tool detects memory leaks?,Valgrind,Debugger,Compiler,Formatter,Valgrind,Analyzes memory usage.
+code reusability,What is code reusability?,Using code in multiple places,Sorting code,Filtering code,Compressing code,Using code in multiple places,Improves efficiency.
+code reusability,What technique promotes code reusability?,Functions,Loops,Variables,Arrays,Functions,Encapsulates logic.
+code reusability,What is a use case for code reusability?,Random access,Library development,Filtering data,Sorting data,Library development,Shares functionality.
+code reusability,What is a benefit of code reusability?,Increased complexity,Reduced duplication,More memory usage,Slower execution,Reduced duplication,Saves time.
+code reusability,What is a limitation of code reusability?,Improved performance,Maintenance overhead,Low memory usage,Fast execution,Maintenance overhead,Requires updates.
+microservices,What are microservices?,Independent services communicating over a network,Monolithic applications,Sorting services,Filtering services,Independent services communicating over a network,Enhances scalability.
+microservices,What protocol is common in microservices?,HTTP,SMTP,POP3,IMAP,HTTP,Enables communication.
+microservices,What is a use case for microservices?,Random access,Large-scale apps,Filtering data,Sorting data,Large-scale apps,Supports modularity.
+microservices,What is a benefit of microservices?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Independent deployment.
+microservices,What is a limitation of microservices?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Requires orchestration.
+iterator,What is an iterator in programming?,An object for traversing a collection,Sorting data,Filtering data,Compressing data,An object for traversing a collection,Provides sequential access.
+iterator,What method advances an iterator in Python?,next(),prev(),move(),skip(),next(),Moves to next element.
+iterator,What is a use case for iterators?,Random access,Looping over data,Filtering data,Sorting data,Looping over data,Handles collections.
+iterator,What is a benefit of iterators?,Increased complexity,Memory efficiency,More memory usage,Slower execution,Memory efficiency,On-demand access.
+iterator,What is a limitation of iterators?,Improved performance,Single traversal,Low memory usage,Fast execution,Single traversal,Cannot rewind.
+debugging,What is debugging in programming?,Identifying and fixing errors,Sorting code,Filtering code,Compressing code,Identifying and fixing errors,Improves reliability.
+debugging,What tool is used for debugging?,Debugger,Compiler,Formatter,Loader,Debugger,Steps through code.
+debugging,What is a use case for debugging?,Random access,Bug fixing,Filtering data,Sorting data,Bug fixing,Locates issues.
+debugging,What is a benefit of debugging?,Increased complexity,Reliability,More memory usage,Slower execution,Reliability,Reduces errors.
+debugging,What is a limitation of debugging?,Improved performance,Time-intensive,Low memory usage,Fast execution,Time-intensive,Requires patience.
+data compression,What is data compression?,Reducing data size,Sorting data,Filtering data,Encrypting data,Reducing data size,Improves storage.
+data compression,What algorithm is used for compression?,Huffman coding,Linear search,Binary search,Bubble sort,Huffman coding,Efficient encoding.
+data compression,What is a use case for data compression?,Random access,File storage,Filtering data,Sorting data,File storage,Reduces size.
+data compression,What is a benefit of data compression?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Saves space.
+data compression,What is a limitation of data compression?,Improved performance,Loss of data,Low memory usage,Fast execution,Loss of data,In lossy compression.
+data encryption,What is data encryption?,Converting data into a secure format,Sorting data,Filtering data,Compressing data,Converting data into a secure format,Ensures privacy.
+data encryption,What algorithm is used for encryption?,AES,Linear search,Binary search,Bubble sort,AES,Standard encryption.
+data encryption,What is a use case for data encryption?,Random access,Secure communication,Filtering data,Sorting data,Secure communication,Protects data.
+data encryption,What is a benefit of data encryption?,Increased complexity,Security,More memory usage,Slower execution,Security,Prevents unauthorized access.
+data encryption,What is a limitation of data encryption?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Adds computation.
+graphql,What is GraphQL?,A query language for APIs,Sorting language,Filtering language,Compression language,A query language for APIs,Flexible data fetching.
+graphql,What company developed GraphQL?,Facebook,Google,Microsoft,Amazon,Facebook,Introduced in 2012.
+graphql,What is a use case for GraphQL?,Random access,API development,Filtering data,Sorting data,API development,Efficient queries.
+graphql,What is a benefit of GraphQL?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Client-defined data.
+graphql,What is a limitation of GraphQL?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Requires careful design.
+data visualization,What is data visualization?,Representing data graphically,Sorting data,Filtering data,Compressing data,Representing data graphically,Improves insight.
+data visualization,What library is used for visualization in Python?,Matplotlib,NumPy,Pandas,SQL,Matplotlib,Creates plots.
+data visualization,What is a use case for data visualization?,Random access,Data analysis,Filtering data,Sorting data,Data analysis,Communicates trends.
+data visualization,What is a benefit of data visualization?,Increased complexity,Clarity,More memory usage,Slower execution,Clarity,Enhances understanding.
+data visualization,What is a limitation of data visualization?,Improved performance,Misinterpretation,Low memory usage,Fast execution,Misinterpretation,Depends on design.
+rest api,What is a REST API?,A stateless client-server communication protocol,Sorting protocol,Filtering protocol,Compression protocol,A stateless client-server communication protocol,Uses HTTP methods.
+rest api,What HTTP method creates a resource?,POST,GET,PUT,DELETE,POST,Adds new data.
+rest api,What is a use case for REST API?,Random access,Web services,Filtering data,Sorting data,Web services,Enables integration.
+rest api,What is a benefit of REST API?,Increased complexity,Scalability,More memory usage,Slower execution,Scalability,Handles growth.
+rest api,What is a limitation of REST API?,Improved performance,Over-fetching,Low memory usage,Fast execution,Over-fetching,May return excess data.
+data cleaning,What is data cleaning?,Removing inconsistencies from data,Sorting data,Filtering data,Compressing data,Removing inconsistencies from data,Improves quality.
+data cleaning,What technique is used in data cleaning?,Removing duplicates,Adding noise,Sorting data,Encrypting data,Removing duplicates,Ensures accuracy.
+data cleaning,What is a use case for data cleaning?,Random access,Data analysis,Filtering data,Sorting data,Data analysis,Prepares data.
+data cleaning,What is a benefit of data cleaning?,Increased complexity,Accuracy,More memory usage,Slower execution,Accuracy,Enhances reliability.
+data cleaning,What is a limitation of data cleaning?,Improved performance,Time-intensive,Low memory usage,Fast execution,Time-intensive,Requires effort.
+automation,What is automation in programming?,Automating repetitive tasks,Sorting tasks,Filtering tasks,Compressing tasks,Automating repetitive tasks,Improves efficiency.
+automation,What tool is used for automation?,Scripts,HTML,CSS,JavaScript,Scripts,Automates workflows.
+automation,What is a use case for automation?,Random access,Testing,Filtering data,Sorting data,Testing,Reduces manual effort.
+automation,What is a benefit of automation?,Increased complexity,Productivity,More memory usage,Slower execution,Productivity,Saves time.
+automation,What is a limitation of automation?,Improved performance,Initial setup cost,Low memory usage,Fast execution,Initial setup cost,Requires investment.
+authorization,What is authorization in security?,Granting access based on permissions,Sorting permissions,Filtering permissions,Compressing permissions,Granting access based on permissions,Controls resources.
+authorization,What mechanism supports authorization?,OAuth,HTML,CSS,JavaScript,OAuth,Secure token-based access.
+authorization,What is a use case for authorization?,Random access,Access control,Filtering data,Sorting data,Access control,Secures data.
+authorization,What is a benefit of authorization?,Increased complexity,Security,More memory usage,Slower execution,Security,Prevents unauthorized access.
+authorization,What is a limitation of authorization?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Requires management.
+logic programming,What is logic programming?,Programming using logical rules and inferences,Sorting logic,Filtering logic,Compressing logic,Programming using logical rules and inferences,Used in Prolog.
+logic programming,What language uses logic programming?,Prolog,Python,Java,C++,Prolog,Declarative style.
+logic programming,What is a use case for logic programming?,Random access,Expert systems,Filtering data,Sorting data,Expert systems,Solves queries.
+logic programming,What is a benefit of logic programming?,Increased complexity,Clarity,More memory usage,Slower execution,Clarity,Expresses relationships.
+logic programming,What is a limitation of logic programming?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Less efficient.
+accessibility,What is accessibility in web development?,Making web content usable for all,Sorting content,Filtering content,Compressing content,Making web content usable for all,Supports inclusivity.
+accessibility,What standard guides accessibility?,WCAG,HTML,CSS,JavaScript,WCAG,Web Content Accessibility Guidelines.
+accessibility,What is a use case for accessibility?,Random access,Website design,Filtering data,Sorting data,Website design,Ensures usability.
+accessibility,What is a benefit of accessibility?,Increased complexity,Inclusivity,More memory usage,Slower execution,Inclusivity,Reaches wider audience.
+accessibility,What is a limitation of accessibility?,Improved performance,Development cost,Low memory usage,Fast execution,Development cost,Requires effort.
+seo optimization,What is SEO optimization?,Improving visibility on search engines,Sorting content,Filtering content,Compressing content,Improving visibility on search engines,Drives traffic.
+seo optimization,What factor affects SEO?,Keywords,Loops,Variables,Arrays,Keywords,Enhances ranking.
+seo optimization,What is a use case for SEO optimization?,Random access,Website promotion,Filtering data,Sorting data,Website promotion,Increases reach.
+seo optimization,What is a benefit of SEO optimization?,Increased complexity,Traffic growth,More memory usage,Slower execution,Traffic growth,Attracts users.
+seo optimization,What is a limitation of SEO optimization?,Improved performance,Time-intensive,Low memory usage,Fast execution,Time-intensive,Requires monitoring.
+code validation,What is code validation?,Checking code for correctness,Sorting code,Filtering code,Compressing code,Checking code for correctness,Ensures quality.
+code validation,What tool is used for code validation?,Linter,Compiler,Debugger,Formatter,Linter,Checks syntax.
+code validation,What is a use case for code validation?,Random access,Bug prevention,Filtering data,Sorting data,Bug prevention,Improves reliability.
+code validation,What is a benefit of code validation?,Increased complexity,Accuracy,More memory usage,Slower execution,Accuracy,Reduces errors.
+code validation,What is a limitation of code validation?,Improved performance,Overhead,Low memory usage,Fast execution,Overhead,Adds processing time.
+machine learning,What is machine learning?,Teaching machines to learn from data,Sorting data,Filtering data,Compressing data,Teaching machines to learn from data,Automates predictions.
+machine learning,What algorithm is used in machine learning?,Linear regression,Linear search,Binary search,Bubble sort,Linear regression,Predicts trends.
+machine learning,What is a use case for machine learning?,Random access,Image recognition,Filtering data,Sorting data,Image recognition,Automates tasks.
+machine learning,What is a benefit of machine learning?,Increased complexity,Accuracy,More memory usage,Slower execution,Accuracy,Improves decisions.
+machine learning,What is a limitation of machine learning?,Improved performance,Data dependency,Low memory usage,Fast execution,Data dependency,Requires quality data.
+reinforcement learning,What is reinforcement learning?,Learning through trial and error with rewards,Sorting data,Filtering data,Compressing data,Learning through trial and error with rewards,Optimizes behavior.
+reinforcement learning,What technique uses reinforcement learning?,Q-learning,Linear search,Binary search,Bubble sort,Q-learning,Updates policies.
+reinforcement learning,What is a use case for reinforcement learning?,Random access,Game playing,Filtering data,Sorting data,Game playing,Trains agents.
+reinforcement learning,What is a benefit of reinforcement learning?,Increased complexity,Adaptability,More memory usage,Slower execution,Adaptability,Learns dynamically.
+reinforcement learning,What is a limitation of reinforcement learning?,Improved performance,Exploration challenge,Low memory usage,Fast execution,Exploration challenge,Requires balance.
+data security,What is data security?,Protecting data from unauthorized access,Sorting data,Filtering data,Compressing data,Protecting data from unauthorized access,Ensures privacy.
+data security,What technique enhances data security?,Encryption,Looping,Variable declaration,Array sorting,Encryption,Secures data.
+data security,What is a use case for data security?,Random access,Confidential data,Filtering data,Sorting data,Confidential data,Protects sensitive info.
+data security,What is a benefit of data security?,Increased complexity,Protection,More memory usage,Slower execution,Protection,Prevents breaches.
+data security,What is a limitation of data security?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Adds computation.
+framework,What is a framework in programming?,A structure for building applications,Sorting tool,Filtering tool,Compression tool,A structure for building applications,Simplifies development.
+framework,What is an example of a framework?,Django,HTML,CSS,JavaScript,Django,Web development tool.
+framework,What is a use case for frameworks?,Random access,Application development,Filtering data,Sorting data,Application development,Speeds up coding.
+framework,What is a benefit of frameworks?,Increased complexity,Productivity,More memory usage,Slower execution,Productivity,Provides tools.
+framework,What is a limitation of frameworks?,Improved performance,Learning curve,Low memory usage,Fast execution,Learning curve,Requires understanding.
+greedy algorithms,What are greedy algorithms?,Algorithms that make locally optimal choices,Sorting algorithms,Filtering algorithms,Compression algorithms,Algorithms that make locally optimal choices,Fast but not always optimal.
+greedy algorithms,What problem uses a greedy approach?,Kruskal's algorithm,Linear search,Binary search,Bubble sort,Kruskal's algorithm,Finds MST.
+greedy algorithms,What is a use case for greedy algorithms?,Random access,Scheduling,Filtering data,Sorting data,Scheduling,Optimizes tasks.
+greedy algorithms,What is a benefit of greedy algorithms?,Increased complexity,Simplicity,More memory usage,Slower execution,Simplicity,Easy to implement.
+greedy algorithms,What is a limitation of greedy algorithms?,Improved performance,Suboptimal solutions,Low memory usage,Fast execution,Suboptimal solutions,May fail globally.
+recurrence relations,What are recurrence relations?,Equations defining sequences recursively,Sorting equations,Filtering equations,Compression equations,Equations defining sequences recursively,Used in DP.
+recurrence relations,What problem uses recurrence relations?,Fibonacci,Linear search,Binary search,Bubble sort,Fibonacci,Defines series.
+recurrence relations,What is a use case for recurrence relations?,Random access,Algorithm analysis,Filtering data,Sorting data,Algorithm analysis,Models complexity.
+recurrence relations,What is a benefit of recurrence relations?,Increased complexity,Clarity,More memory usage,Slower execution,Clarity,Expresses patterns.
+recurrence relations,What is a limitation of recurrence relations?,Improved performance,Complexity in solving,Low memory usage,Fast execution,Complexity in solving,Requires math skills.
+big o notation,What is Big O notation?,A measure of algorithm efficiency,Sorting metric,Filtering metric,Compression metric,A measure of algorithm efficiency,Analyzes time/space.
+big o notation,What does O(n) represent?,Constant time,Linear time,Quadratic time,Logarithmic time,Linear time,Grows with input size.
+big o notation,What is a use case for Big O notation?,Random access,Performance analysis,Filtering data,Sorting data,Performance analysis,Compares algorithms.
+big o notation,What is a benefit of Big O notation?,Increased complexity,Understanding,More memory usage,Slower execution,Understanding,Simplifies comparison.
+big o notation,What is a limitation of Big O notation?,Improved performance,Ignores constants,Low memory usage,Fast execution,Ignores constants,Approximation only.
+relational databases,What are relational databases?,Databases using tables with relationships,Sorting databases,Filtering databases,Compression databases,Databases using tables with relationships,Structured query.
+relational databases,What language queries relational databases?,SQL,HTML,CSS,JavaScript,SQL,Standard query language.
+relational databases,What is a use case for relational databases?,Random access,Data storage,Filtering data,Sorting data,Data storage,Manages structured data.
+relational databases,What is a benefit of relational databases?,Increased complexity,Consistency,More memory usage,Slower execution,Consistency,Ensures integrity.
+relational databases,What is a limitation of relational databases?,Improved performance,Scalability issues,Low memory usage,Fast execution,Scalability issues,Large data challenges.
+sql,What is SQL?,Structured Query Language,Sorting Query Language,Filtering Query Language,Compression Query Language,Structured Query Language,Manages databases.
+sql,What command retrieves data in SQL?,SELECT,INSERT,UPDATE,DELETE,SELECT,Fetches rows.
+sql,What is a use case for SQL?,Random access,Database queries,Filtering data,Sorting data,Database queries,Retrieves data.
+sql,What is a benefit of SQL?,Increased complexity,Standardization,More memory usage,Slower execution,Standardization, Widely used.
+sql,What is a limitation of SQL?,Improved performance,Complex joins,Low memory usage,Fast execution,Complex joins,Performance impact.
+tables,What are tables in databases?,Structured data containers,Sorting containers,Filtering containers,Compression containers,Structured data containers,Organize data.
+tables,What defines a table in SQL?,Columns and rows,Loops and variables,Arrays and functions,Graphs and trees,Columns and rows,Basic structure.
+tables,What is a use case for tables?,Random access,Data organization,Filtering data,Sorting data,Data organization,Stores records.
+tables,What is a benefit of tables?,Increased complexity,Readability,More memory usage,Slower execution,Readability,Clarifies data.
+tables,What is a limitation of tables?,Improved performance,Redundancy,Low memory usage,Fast execution,Redundancy,Requires normalization.
+primary keys,What are primary keys?,Unique identifiers for table rows,Sorting keys,Filtering keys,Compression keys,Unique identifiers for table rows,Ensures uniqueness.
+primary keys,What property must a primary key have?,Uniqueness,Duplication,Randomness,Null values,Uniqueness,No duplicates allowed.
+primary keys,What is a use case for primary keys?,Random access,Record identification,Filtering data,Sorting data,Record identification,Links tables.
+primary keys,What is a benefit of primary keys?,Increased complexity,Integrity,More memory usage,Slower execution,Integrity,Prevents duplicates.
+primary keys,What is a limitation of primary keys?,Improved performance,Change resistance,Low memory usage,Fast execution,Change resistance,Hard to modify.
+foreign keys,What are foreign keys?,Fields linking to primary keys in another table,Sorting keys,Filtering keys,Compression keys,Fields linking to primary keys in another table,Enforces relationships.
+foreign keys,What is a use case for foreign keys?,Random access,Data linking,Filtering data,Sorting data,Data linking,Relates tables.
+foreign keys,What is a benefit of foreign keys?,Increased complexity,Referential integrity,More memory usage,Slower execution,Referential integrity,Maintains consistency.
+foreign keys,What is a limitation of foreign keys?,Improved performance,Cascading updates,Low memory usage,Fast execution,Cascading updates,Complexity in maintenance.
+foreign keys,What constraint enforces foreign keys?,FOREIGN KEY,PRIMARY KEY,UNIQUE,CHECK,FOREIGN KEY,Links tables.
+indexes,What are indexes in databases?,Data structures to speed up queries,Sorting structures,Filtering structures,Compression structures,Data structures to speed up queries,Improves retrieval.
+indexes,What is a common index type?,B-tree,Linear array,Graph,Queue,B-tree,Efficient search.
+indexes,What is a use case for indexes?,Random access,Query optimization,Filtering data,Sorting data,Query optimization,Speeds up searches.
+indexes,What is a benefit of indexes?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Reduces query time.
+indexes,What is a limitation of indexes?,Improved performance,Overhead,Low memory usage,Fast execution,Overhead,Increases storage.
+normalization,What is normalization in databases?,Organizing data to reduce redundancy,Sorting data,Filtering data,Compressing data,Organizing data to reduce redundancy,Improves efficiency.
+normalization,What is a normal form?,1NF,Loop structure,Variable type,Array type,1NF,First normal form.
+normalization,What is a use case for normalization?,Random access,Database design,Filtering data,Sorting data,Database design,Eliminates anomalies.
+normalization,What is a benefit of normalization?,Increased complexity,Data integrity,More memory usage,Slower execution,Data integrity,Reduces duplication.
+normalization,What is a limitation of normalization?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Joins slow queries.
+denormalization,What is denormalization in databases?,Introducing redundancy for performance,Sorting data,Filtering data,Compressing data,Introducing redundancy for performance,Improves speed.
+denormalization,What is a use case for denormalization?,Random access,Reporting,Filtering data,Sorting data,Reporting,Fast reads.
+denormalization,What is a benefit of denormalization?,Increased complexity,Speed,More memory usage,Slower execution,Speed,Reduces joins.
+denormalization,What is a limitation of denormalization?,Improved performance,Data inconsistency,Low memory usage,Fast execution,Data inconsistency,Requires updates.
+denormalization,What technique supports denormalization?,Duplication,Normalization,Filtering,Compression,Duplication,Adds redundant data.
+joins,What are joins in SQL?,Combining data from multiple tables,Sorting tables,Filtering tables,Compressing tables,Combining data from multiple tables,Relates data.
+joins,What type of join returns all records?,FULL JOIN,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL JOIN,Includes all rows.
+joins,What is a use case for joins?,Random access,Data correlation,Filtering data,Sorting data,Data correlation,Links tables.
+joins,What is a benefit of joins?,Increased complexity,Comprehensive data,More memory usage,Slower execution,Comprehensive data,Unites information.
+joins,What is a limitation of joins?,Improved performance,Performance cost,Low memory usage,Fast execution,Performance cost,Expensive for large data.
+inner join,What does an INNER JOIN do?,Returns matching records only,Returns all records,Filters records,Sorts records,Returns matching records only,Excludes non-matching.
+inner join,What is the syntax for INNER JOIN?,JOIN ... ON,WHERE,SELECT,UPDATE,JOIN ... ON,Specifies condition.
+inner join,What is a use case for INNER JOIN?,Random access,Related data retrieval,Filtering data,Sorting data,Related data retrieval,Matches rows.
+inner join,What is a benefit of INNER JOIN?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Excludes irrelevant data.
+inner join,What is a limitation of INNER JOIN?,Improved performance,Missing data,Low memory usage,Fast execution,Missing data,Omits non-matches.
+left join,What does a LEFT JOIN do?,Returns all records from the left table,Returns all records,Filters records,Sorts records,Returns all records from the left table,Includes non-matches.
+left join,What is the syntax for LEFT JOIN?,LEFT JOIN ... ON,WHERE,SELECT,UPDATE,LEFT JOIN ... ON,Specifies condition.
+left join,What is a use case for LEFT JOIN?,Random access,Incomplete data matching,Filtering data,Sorting data,Incomplete data matching,Preserves left table.
+left join,What is a benefit of LEFT JOIN?,Increased complexity,Completeness,More memory usage,Slower execution,Completeness,Retains all left data.
+left join,What is a limitation of LEFT JOIN?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Includes nulls.
+right join,What does a RIGHT JOIN do?,Returns all records from the right table,Returns all records,Filters records,Sorts records,Returns all records from the right table,Includes non-matches.
+right join,What is the syntax for RIGHT JOIN?,RIGHT JOIN ... ON,WHERE,SELECT,UPDATE,RIGHT JOIN ... ON,Specifies condition.
+right join,What is a use case for RIGHT JOIN?,Random access,Incomplete data matching,Filtering data,Sorting data,Incomplete data matching,Preserves right table.
+right join,What is a benefit of RIGHT JOIN?,Increased complexity,Completeness,More memory usage,Slower execution,Completeness,Retains all right data.
+right join,What is a limitation of RIGHT JOIN?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Includes nulls.
+full join,What does a FULL JOIN do?,Returns all records from both tables,Returns matching records,Filters records,Sorts records,Returns all records from both tables,Includes all rows.
+full join,What is the syntax for FULL JOIN?,FULL JOIN ... ON,WHERE,SELECT,UPDATE,FULL JOIN ... ON,Specifies condition.
+full join,What is a use case for FULL JOIN?,Random access,Comprehensive data,Filtering data,Sorting data,Comprehensive data,Unites all rows.
+full join,What is a benefit of FULL JOIN?,Increased complexity,Completeness,More memory usage,Slower execution,Completeness,Retains all data.
+full join,What is a limitation of FULL JOIN?,Improved performance,High resource use,Low memory usage,Fast execution,High resource use,Expensive operation.
+queries,What are queries in databases?,Requests for data retrieval,Sorting requests,Filtering requests,Compression requests,Requests for data retrieval,Extracts information.
+queries,What command starts a query in SQL?,SELECT,INSERT,UPDATE,DELETE,SELECT,Retrieves data.
+queries,What is a use case for queries?,Random access,Data extraction,Filtering data,Sorting data,Data extraction,Analyzes data.
+queries,What is a benefit of queries?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Customizable retrieval.
+queries,What is a limitation of queries?,Improved performance,Performance cost,Low memory usage,Fast execution,Performance cost,Depends on complexity.
+select statement,What does a SELECT statement do?,Retrieves data,Inserts data,Updates data,Deletes data,Retrieves data,Queries tables.
+select statement,What clause limits rows in SELECT?,WHERE,LIMIT,ORDER BY,GROUP BY,LIMIT,Controls result size.
+select statement,What is a use case for SELECT?,Random access,Data retrieval,Filtering data,Sorting data,Data retrieval,Extracts records.
+select statement,What is a benefit of SELECT?,Increased complexity,Precision,More memory usage,Slower execution,Precision,Targets specific data.
+select statement,What is a limitation of SELECT?,Improved performance,Over-fetching,Low memory usage,Fast execution,Over-fetching,May return excess.
+insert statement,What does an INSERT statement do?,Retrieves data,Adds new data,Updates data,Deletes data,Adds new data,Inserts rows.
+insert statement,What is the syntax for INSERT?,INSERT INTO ... VALUES,SELECT,UPDATE,DELETE,INSERT INTO ... VALUES,Adds records.
+insert statement,What is a use case for INSERT?,Random access,Data entry,Filtering data,Sorting data,Data entry,Populates tables.
+insert statement,What is a benefit of INSERT?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Batch addition.
+insert statement,What is a limitation of INSERT?,Improved performance,Duplicate issues,Low memory usage,Fast execution,Duplicate issues,Requires uniqueness.
+update statement,What does an UPDATE statement do?,Retrieves data,Modifies existing data,Adds data,Deletes data,Modifies existing data,Changes rows.
+update statement,What clause specifies conditions in UPDATE?,WHERE,SELECT,LIMIT,GROUP BY,WHERE,Targets rows.
+update statement,What is a use case for UPDATE?,Random access,Data correction,Filtering data,Sorting data,Data correction,Fixes errors.
+update statement,What is a benefit of UPDATE?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Adapts data.
+update statement,What is a limitation of UPDATE?,Improved performance,Accidental overwrites,Low memory usage,Fast execution,Accidental overwrites,Requires caution.
+delete statement,What does a DELETE statement do?,Retrieves data,Removes data,Adds data,Updates data,Removes data,Deletes rows.
+delete statement,What clause limits deletion in DELETE?,WHERE,SELECT,LIMIT,GROUP BY,WHERE,Targets rows.
+delete statement,What is a use case for DELETE?,Random access,Data cleanup,Filtering data,Sorting data,Data cleanup,Removes obsolete data.
+delete statement,What is a benefit of DELETE?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Reclaims space.
+delete statement,What is a limitation of DELETE?,Improved performance,Accidental loss,Low memory usage,Fast execution,Accidental loss,Requires backup.
+transactions,What are transactions in databases?,A sequence of operations treated as a unit,Sorting operations,Filtering operations,Compression operations,A sequence of operations treated as a unit,Ensures consistency.
+transactions,What property ensures transaction reversibility?,Rollback,Commit,Sort,Filter,Rollback,Undoes changes.
+transactions,What is a use case for transactions?,Random access,Banking operations,Filtering data,Sorting data,Banking operations,Maintains integrity.
+transactions,What is a benefit of transactions?,Increased complexity,Reliability,More memory usage,Slower execution,Reliability,Prevents partial updates.
+transactions,What is a limitation of transactions?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Adds latency.
+nosql,What is NoSQL?,A non-relational database,Sorting database,Filtering database,Compression database,A non-relational database,Handles unstructured data.
+nosql,What type of NoSQL uses key-value pairs?,Redis,MySQL,PostgreSQL,Oracle,Redis,Simple storage.
+nosql,What is a use case for NoSQL?,Random access,Big data,Filtering data,Sorting data,Big data,Scales horizontally.
+nosql,What is a benefit of NoSQL?,Increased complexity,Scalability,More memory usage,Slower execution,Scalability,Handles growth.
+nosql,What is a limitation of NoSQL?,Improved performance,Consistency issues,Low memory usage,Fast execution,Consistency issues,Eventual consistency.
+graph databases,What are graph databases?,Databases using graph structures,Sorting databases,Filtering databases,Compression databases,Databases using graph structures,Models relationships.
+graph databases,What property defines graph databases?,Nodes and edges,Rows and columns,Keys and values,Arrays and lists,Nodes and edges,Represents connections.
+graph databases,What is a use case for graph databases?,Random access,Social networks,Filtering data,Sorting data,Social networks,Analyzes relationships.
+graph databases,What is a benefit of graph databases?,Increased complexity,Relationship efficiency,More memory usage,Slower execution,Relationship efficiency,Fast traversal.
+graph databases,What is a limitation of graph databases?,Improved performance,Scalability challenges,Low memory usage,Fast execution,Scalability challenges,Complex queries.
+mongodb,What is MongoDB?,A NoSQL document database,Relational database,Sorting tool,Filtering tool,A NoSQL document database,Uses JSON-like documents.
+mongodb,What format does MongoDB use?,BSON,XML,HTML,CSS,BSON,Binary JSON.
+mongodb,What is a use case for MongoDB?,Random access,Flexible data storage,Filtering data,Sorting data,Flexible data storage,Handles unstructured data.
+mongodb,What is a benefit of MongoDB?,Increased complexity,Scalability,More memory usage,Slower execution,Scalability,Horizontal scaling.
+mongodb,What is a limitation of MongoDB?,Improved performance,Consistency trade-offs,Low memory usage,Fast execution,Consistency trade-offs,Eventual consistency.
+html,What is HTML?,HyperText Markup Language,Sorting language,Filtering language,Compression language,HyperText Markup Language,Structures web pages.
+html,What tag defines the document structure?,<html>, <head>, <body>, <div>,<html>,Root element.
+html,What is a use case for HTML?,Random access,Web page creation,Filtering data,Sorting data,Web page creation,Defines content.
+html,What is a benefit of HTML?,Increased complexity,Simplicity,More memory usage,Slower execution,Simplicity,Easy to learn.
+html,What is a limitation of HTML?,Improved performance,No interactivity,Low memory usage,Fast execution,No interactivity,Requires CSS/JS.
+css,What is CSS?,Cascading Style Sheets,Sorting sheets,Filtering sheets,Compression sheets,Cascading Style Sheets,Styles web pages.
+css,What property sets text color?,color,font-size,margin,padding,color,Changes text appearance.
+css,What is a use case for CSS?,Random access,Web design,Filtering data,Sorting data,Web design,Enhances visuals.
+css,What is a benefit of CSS?,Increased complexity,Maintainability,More memory usage,Slower execution,Maintainability,Separates style.
+css,What is a limitation of CSS?,Improved performance,Browser compatibility,Low memory usage,Fast execution,Browser compatibility,Varies across browsers.
+javascript,What is JavaScript?,A scripting language for web interactivity,Sorting language,Filtering language,Compression language,A scripting language for web interactivity,Adds dynamic behavior.
+javascript,What keyword declares a variable?,var,loop,struct,enum,var,Traditional declaration.
+javascript,What is a use case for JavaScript?,Random access,Web interactivity,Filtering data,Sorting data,Web interactivity,Handles events.
+javascript,What is a benefit of JavaScript?,Increased complexity,Versatility,More memory usage,Slower execution,Versatility,Client-side execution.
+javascript,What is a limitation of JavaScript?,Improved performance,Browser dependency,Low memory usage,Fast execution,Browser dependency,Varies across engines.
+dom,What is the DOM?,Document Object Model,Sorting model,Filtering model,Compression model,Document Object Model,Represents HTML structure.
+dom,What method accesses an element by ID?,getElementById(),getElementsByTagName(),querySelector(),getElementsByClassName(),getElementById(),Unique identifier.
+dom,What is a use case for DOM?,Random access,Dynamic updates,Filtering data,Sorting data,Dynamic updates,Manipulates web pages.
+dom,What is a benefit of DOM?,Increased complexity,Interactivity,More memory usage,Slower execution,Interactivity,Enables changes.
+dom,What is a limitation of DOM?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Complex manipulations.
+ajax,What is AJAX?,Asynchronous JavaScript and XML,Sorting technique,Filtering technique,Compression technique,Asynchronous JavaScript and XML,Updates pages dynamically.
+ajax,What method initiates an AJAX call?,fetch(),sort(),filter(),compress(),fetch(),Modern API call.
+ajax,What is a use case for AJAX?,Random access,Data fetching,Filtering data,Sorting data,Data fetching,Loads content.
+ajax,What is a benefit of AJAX?,Increased complexity,Responsiveness,More memory usage,Slower execution,Responsiveness,Updates without reload.
+ajax,What is a limitation of AJAX?,Improved performance,Security risks,Low memory usage,Fast execution,Security risks,Exposes requests.
+json,What is JSON?,JavaScript Object Notation,Sorting notation,Filtering notation,Compression notation,JavaScript Object Notation,Data interchange format.
+json,What data type does JSON support?,Objects,Loops,Functions,Classes,Objects,Key-value pairs.
+json,What is a use case for JSON?,Random access,API data,Filtering data,Sorting data,API data,Transfers data.
+json,What is a benefit of JSON?,Increased complexity,Readability,More memory usage,Slower execution,Readability,Human-readable.
+json,What is a limitation of JSON?,Improved performance,No functions,Low memory usage,Fast execution,No functions,Static data only.
+xml,What is XML?,Extensible Markup Language,Sorting language,Filtering language,Compression language,Extensible Markup Language,Structured data format.
+xml,What tag defines the root element?,<root>, <xml>, <data>, <item>,<root>,Customizable root.
+xml,What is a use case for XML?,Random access,Data storage,Filtering data,Sorting data,Data storage,Config files.
+xml,What is a benefit of XML?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Custom tags.
+xml,What is a limitation of XML?,Improved performance,Verbosity,Low memory usage,Fast execution,Verbosity,Larger file size.
+apis,What are APIs?,Interfaces for software communication,Sorting interfaces,Filtering interfaces,Compression interfaces,Interfaces for software communication,Enables integration.
+apis,What type of API uses HTTP?,REST,SOAP,TCP,UDP,REST,Stateless protocol.
+apis,What is a use case for APIs?,Random access,Service integration,Filtering data,Sorting data,Service integration,Connects apps.
+apis,What is a benefit of APIs?,Increased complexity,Interoperability,More memory usage,Slower execution,Interoperability,Standard access.
+apis,What is a limitation of APIs?,Improved performance,Security risks,Low memory usage,Fast execution,Security risks,Exposes endpoints.
+rest,What does REST stand for?,Representational State Transfer,Sorting Transfer,Filtering Transfer,Compression Transfer,Representational State Transfer,Web service architecture.
+rest,What principle defines REST?,Statelessness,Stateful,Fixed state,Dynamic state,Statelessness,Each request independent.
+rest,What is a use case for REST?,Random access,Web services,Filtering data,Sorting data,Web services,Scalable communication.
+rest,What is a benefit of REST?,Increased complexity,Simplicity,More memory usage,Slower execution,Simplicity,Easy to implement.
+rest,What is a limitation of REST?,Improved performance,Over-fetching,Low memory usage,Fast execution,Over-fetching,Excess data.
+soap,What does SOAP stand for?,Simple Object Access Protocol,Sorting Object Protocol,Filtering Object Protocol,Compression Object Protocol,Simple Object Access Protocol,XML-based protocol.
+soap,What format does SOAP use?,XML,JSON,HTML,CSS,XML,Structured messaging.
+soap,What is a use case for SOAP?,Random access,Enterprise apps,Filtering data,Sorting data,Enterprise apps,Secure transactions.
+soap,What is a benefit of SOAP?,Increased complexity,Security,More memory usage,Slower execution,Security,Robust standards.
+soap,What is a limitation of SOAP?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Heavy overhead.
+http methods,What are HTTP methods?,Actions like GET and POST,Sorting actions,Filtering actions,Compression actions,Actions like GET and POST,Define requests.
+http methods,What method retrieves data?,GET,POST,PUT,DELETE,GET,Reads resources.
+http methods,What is a use case for HTTP methods?,Random access,Web requests,Filtering data,Sorting data,Web requests,Interacts with servers.
+http methods,What is a benefit of HTTP methods?,Increased complexity,Clarity,More memory usage,Slower execution,Clarity,Defines intent.
+http methods,What is a limitation of HTTP methods?,Improved performance,Method misuse,Low memory usage,Fast execution,Method misuse,Can confuse semantics.
+status codes,What are status codes?,Responses indicating request status,Sorting codes,Filtering codes,Compression codes,Responses indicating request status,HTTP feedback.
+status codes,What does 404 mean?,Not Found,OK,Server Error,Redirect,Not Found,Resource unavailable.
+status codes,What is a use case for status codes?,Random access,Error handling,Filtering data,Sorting data,Error handling,Informs clients.
+status codes,What is a benefit of status codes?,Increased complexity,Communication,More memory usage,Slower execution,Communication,Standardized feedback.
+status codes,What is a limitation of status codes?,Improved performance,Ambiguity,Low memory usage,Fast execution,Ambiguity,Requires interpretation.
+frontend,What is frontend in web development?,Client-side interface,Server-side logic,Sorting interface,Filtering interface,Client-side interface,User-facing layer.
+frontend,What technology builds frontend?,HTML,SQL,Python,C++,HTML,Structures content.
+frontend,What is a use case for frontend?,Random access,User interaction,Filtering data,Sorting data,User interaction,Enhances experience.
+frontend,What is a benefit of frontend?,Increased complexity,Responsiveness,More memory usage,Slower execution,Responsiveness,Improves usability.
+frontend,What is a limitation of frontend?,Improved performance,Browser dependency,Low memory usage,Fast execution,Browser dependency,Varies across devices.
+backend,What is backend in web development?,Server-side logic,Client-side interface,Sorting logic,Filtering logic,Server-side logic,Handles data.
+backend,What technology supports backend?,Node.js,HTML,CSS,JavaScript,Node.js,Server execution.
+backend,What is a use case for backend?,Random access,Data processing,Filtering data,Sorting data,Data processing,Manages logic.
+backend,What is a benefit of backend?,Increased complexity,Security,More memory usage,Slower execution,Security,Controls access.
+backend,What is a limitation of backend?,Improved performance,Scalability issues,Low memory usage,Fast execution,Scalability issues,Handles load.
+frameworks,What are frameworks in programming?,Structures for application development,Sorting tools,Filtering tools,Compression tools,Structures for application development,Simplifies coding.
+frameworks,What is an example of a framework?,React,HTML,CSS,JavaScript,React,Component-based UI.
+frameworks,What is a use case for frameworks?,Random access,App development,Filtering data,Sorting data,App development,Speeds up process.
+frameworks,What is a benefit of frameworks?,Increased complexity,Productivity,More memory usage,Slower execution,Productivity,Provides tools.
+frameworks,What is a limitation of frameworks?,Improved performance,Learning curve,Low memory usage,Fast execution,Learning curve,Requires training.
+react,What is React?,A JavaScript library for building UIs,Sorting library,Filtering library,Compression library,A JavaScript library for building UIs,Component-based.
+react,What feature uses JSX in React?,Components,Loops,Variables,Arrays,Components,Enhances syntax.
+react,What is a use case for React?,Random access,Single-page apps,Filtering data,Sorting data,Single-page apps,Dynamic interfaces.
+react,What is a benefit of React?,Increased complexity,Reusability,More memory usage,Slower execution,Reusability,Component reuse.
+react,What is a limitation of React?,Improved performance,Learning curve,Low memory usage,Fast execution,Learning curve,Requires expertise.
+angular,What is Angular?,A platform for building web applications,Sorting platform,Filtering platform,Compression platform,A platform for building web applications,Full-featured framework.
+angular,What feature uses TypeScript in Angular?,Components,Loops,Variables,Arrays,Components,Enhances typing.
+angular,What is a use case for Angular?,Random access,Enterprise apps,Filtering data,Sorting data,Enterprise apps,Complex applications.
+angular,What is a benefit of Angular?,Increased complexity,Structure,More memory usage,Slower execution,Structure,Provides tools.
+angular,What is a limitation of Angular?,Improved performance,Steep learning curve,Low memory usage,Fast execution,Steep learning curve,Complex setup.
+vue js,What is Vue.js?,A progressive JavaScript framework,Sorting framework,Filtering framework,Compression framework,A progressive JavaScript framework,Lightweight UI.
+vue js,What directive binds data in Vue.js?,v-bind,ng-bind,v-if,v-for,v-bind,Links attributes.
+vue js,What is a use case for Vue.js?,Random access,Small apps,Filtering data,Sorting data,Small apps,Simple projects.
+vue js,What is a benefit of Vue.js?,Increased complexity,Ease of use,More memory usage,Slower execution,Ease of use,Quick integration.
+vue js,What is a limitation of Vue.js?,Improved performance,Smaller community,Low memory usage,Fast execution,Smaller community,Limited resources.
+node js,What is Node.js?,A JavaScript runtime for server-side,Sorting runtime,Filtering runtime,Compression runtime,A JavaScript runtime for server-side,Non-blocking I/O.
+node js,What module manages HTTP in Node.js?,http,fs,os,path,http,Handles requests.
+node js,What is a use case for Node.js?,Random access,Real-time apps,Filtering data,Sorting data,Real-time apps,Handles events.
+node js,What is a benefit of Node.js?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Non-blocking.
+node js,What is a limitation of Node.js?,Improved performance,CPU-intensive tasks,Low memory usage,Fast execution,CPU-intensive tasks,Single-threaded.
+express js,What is Express.js?,A web framework for Node.js,Sorting framework,Filtering framework,Compression framework,A web framework for Node.js,Simplifies routing.
+express js,What method sets up a route?,app.get(),app.post(),app.put(),app.delete(),app.get(),Handles GET requests.
+express js,What is a use case for Express.js?,Random access,API development,Filtering data,Sorting data,API development,Quick setup.
+express js,What is a benefit of Express.js?,Increased complexity,Simplicity,More memory usage,Slower execution,Simplicity,Minimalist design.
+express js,What is a limitation of Express.js?,Improved performance,Limited features,Low memory usage,Fast execution,Limited features,Requires middleware.
+django,What is Django?,A high-level Python web framework,Sorting framework,Filtering framework,Compression framework,A high-level Python web framework,Full-stack.
+django,What feature uses ORM in Django?,Models,Views,Templates,URLs,Models,Database abstraction.
+django,What is a use case for Django?,Random access,Web development,Filtering data,Sorting data,Web development,Rapid development.
+django,What is a benefit of Django?,Increased complexity,Security,More memory usage,Slower execution,Security,Built-in protections.
+django,What is a limitation of Django?,Improved performance,Monolithic nature,Low memory usage,Fast execution,Monolithic nature,Less flexibility.
+flask,What is Flask?,A micro web framework in Python,Sorting framework,Filtering framework,Compression framework,A micro web framework in Python,Lightweight.
+flask,What decorator defines a route?,@app.route(),@route(),@get(),@post(),@app.route(),Maps URLs.
+flask,What is a use case for Flask?,Random access,Small apps,Filtering data,Sorting data,Small apps,Simple projects.
+flask,What is a benefit of Flask?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Minimalist design.
+flask,What is a limitation of Flask?,Improved performance,Limited features,Low memory usage,Fast execution,Limited features,Requires extensions.
+cookies,What are cookies?,Small data stored on the client,Sorting data,Filtering data,Compression data,Small data stored on the client,Tracks sessions.
+cookies,What method sets a cookie in JavaScript?,document.cookie,window.cookie,navigator.cookie,location.cookie,document.cookie,Adds key-value pairs.
+cookies,What is a use case for cookies?,Random access,Session tracking,Filtering data,Sorting data,Session tracking,Remembers users.
+cookies,What is a benefit of cookies?,Increased complexity,State management,More memory usage,Slower execution,State management,Maintains context.
+cookies,What is a limitation of cookies?,Improved performance,Size limit,Low memory usage,Fast execution,Size limit,4KB max.
+sessions,What are sessions?,Server-side storage of user data,Sorting data,Filtering data,Compression data,Server-side storage of user data,Tracks state.
+sessions,What mechanism supports sessions?,Session ID,Loop ID,Variable ID,Array ID,Session ID,Unique identifier.
+sessions,What is a use case for sessions?,Random access,User authentication,Filtering data,Sorting data,User authentication,Maintains login.
+sessions,What is a benefit of sessions?,Increased complexity,Security,More memory usage,Slower execution,Security,Server-side control.
+sessions,What is a limitation of sessions?,Improved performance,Server load,Low memory usage,Fast execution,Server load,Scales with users.
+websockets,What are WebSockets?,Real-time bidirectional communication,Sorting communication,Filtering communication,Compression communication,Real-time bidirectional communication,Persistent connection.
+websockets,What protocol is used by WebSockets?,WebSocket,HTTP,TCP,UDP,WebSocket,Low-latency.
+websockets,What is a use case for WebSockets?,Random access,Live updates,Filtering data,Sorting data,Live updates,Chat apps.
+websockets,What is a benefit of WebSockets?,Increased complexity,Low latency,More memory usage,Slower execution,Low latency,Real-time interaction.
+websockets,What is a limitation of WebSockets?,Improved performance,Server load,Low memory usage,Fast execution,Server load,Scales with connections.
+sdlc,What does SDLC stand for?,Software Development Life Cycle,Sorting Development Life Cycle,Filtering Development Life Cycle,Compression Development Life Cycle,Software Development Life Cycle,Manages development.
+sdlc,What phase involves testing?,Testing,Planning,Design,Coding,Testing,Verifies functionality.
+sdlc,What is a use case for SDLC?,Random access,Project management,Filtering data,Sorting data,Project management,Structures development.
+sdlc,What is a benefit of SDLC?,Increased complexity,Organization,More memory usage,Slower execution,Organization,Improves process.
+sdlc,What is a limitation of SDLC?,Improved performance,Rigidity,Low memory usage,Fast execution,Rigidity,Less flexibility.
+agile methodology,What is Agile methodology?,Iterative development approach,Sorting approach,Filtering approach,Compression approach,Iterative development approach,Emphasizes adaptability.
+agile methodology,What practice uses sprints in Agile?,Scrum,Waterfall,Spiral,V-Model,Scrum,Time-boxed iterations.
+agile methodology,What is a use case for Agile?,Random access,Software development,Filtering data,Sorting data,Software development,Handles change.
+agile methodology,What is a benefit of Agile?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Adapts to needs.
+agile methodology,What is a limitation of Agile?,Improved performance,Unpredictability,Low memory usage,Fast execution,Unpredictability,Requires discipline.
+scrum,What is Scrum?,An Agile framework for managing work,Sorting framework,Filtering framework,Compression framework,An Agile framework for managing work,Uses sprints.
+scrum,What role defines product goals?,Product Owner,Scrum Master,Developer,Tester,Product Owner,Prioritizes backlog.
+scrum,What is a use case for Scrum?,Random access,Team collaboration,Filtering data,Sorting data,Team collaboration,Manages tasks.
+scrum,What is a benefit of Scrum?,Increased complexity,Transparency,More memory usage,Slower execution,Transparency,Improves communication.
+scrum,What is a limitation of Scrum?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Requires training.
+waterfall model,What is the Waterfall model?,A linear development process,Sorting process,Filtering process,Compression process,A linear development process,Sequential phases.
+waterfall model,What phase follows design?,Implementation,Planning,Testing,Deployment,Implementation,Builds product.
+waterfall model,What is a use case for Waterfall?,Random access,Construction projects,Filtering data,Sorting data,Construction projects,Fixed requirements.
+waterfall model,What is a benefit of Waterfall?,Increased complexity,Clarity,More memory usage,Slower execution,Clarity,Defined stages.
+waterfall model,What is a limitation of Waterfall?,Improved performance,Inflexibility,Low memory usage,Fast execution,Inflexibility,Hard to adapt.
+version control,What is version control?,Tracking changes to code,Sorting code,Filtering code,Compressing code,Tracking changes to code,Manages history.
+version control,What system is widely used?,Git,HTML,CSS,JavaScript,Git,Distributed control.
+version control,What is a use case for version control?,Random access,Collaboration,Filtering data,Sorting data,Collaboration,Team development.
+version control,What is a benefit of version control?,Increased complexity,History tracking,More memory usage,Slower execution,History tracking,Reverts changes.
+version control,What is a limitation of version control?,Improved performance,Learning curve,Low memory usage,Fast execution,Learning curve,Requires understanding.
+git,What is Git?,A distributed version control system,Sorting system,Filtering system,Compression system,A distributed version control system,Tracks changes.
+git,What command initializes a repository?,git init,git commit,git push,git pull,git init,Starts a project.
+git,What is a use case for Git?,Random access,Code management,Filtering data,Sorting data,Code management,Teamwork.
+git,What is a benefit of Git?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Offline work.
+git,What is a limitation of Git?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Steep learning.
+github,What is GitHub?,A platform for hosting Git repositories,Sorting platform,Filtering platform,Compression platform,A platform for hosting Git repositories,Collaboration tool.
+github,What feature supports collaboration?,Pull requests,Commits,Branches,Tags,Pull requests,Review changes.
+github,What is a use case for GitHub?,Random access,Open-source projects,Filtering data,Sorting data,Open-source projects,Shares code.
+github,What is a benefit of GitHub?,Increased complexity,Community,More memory usage,Slower execution,Community,Wide adoption.
+github,What is a limitation of GitHub?,Improved performance,Dependency on internet,Low memory usage,Fast execution,Dependency on internet,Offline limits.
+commits,What are commits in Git?,Snapshots of changes,Sorting changes,Filtering changes,Compression changes,Snapshots of changes,Records history.
+commits,What command creates a commit?,git commit,git push,git pull,git init,git commit,Saves changes.
+commits,What is a use case for commits?,Random access,Change tracking,Filtering data,Sorting data,Change tracking,Documents progress.
+commits,What is a benefit of commits?,Increased complexity,Traceability,More memory usage,Slower execution,Traceability,Reverts errors.
+commits,What is a limitation of commits?,Improved performance,Frequent overhead,Low memory usage,Fast execution,Frequent overhead,Requires discipline.
+branches,What are branches in Git?,Parallel lines of development,Sorting lines,Filtering lines,Compression lines,Parallel lines of development,Supports experimentation.
+branches,What command creates a branch?,git branch,git commit,git push,git pull,git branch,Defines new line.
+branches,What is a use case for branches?,Random access,Feature development,Filtering data,Sorting data,Feature development,Isolates work.
+branches,What is a benefit of branches?,Increased complexity,Isolation,More memory usage,Slower execution,Isolation,Prevents conflicts.
+branches,What is a limitation of branches?,Improved performance,Merge conflicts,Low memory usage,Fast execution,Merge conflicts,Requires resolution.
+merging,What is merging in Git?,Combining changes from branches,Sorting changes,Filtering changes,Compression changes,Combining changes from branches,Integrates work.
+merging,What command performs a merge?,git merge,git commit,git push,git pull,git merge,Joins branches.
+merging,What is a use case for merging?,Random access,Code integration,Filtering data,Sorting data,Code integration,Unites features.
+merging,What is a benefit of merging?,Increased complexity,Collaboration,More memory usage,Slower execution,Collaboration,Teamwork.
+merging,What is a limitation of merging?,Improved performance,Conflict resolution,Low memory usage,Fast execution,Conflict resolution,Requires manual fixes.
+pull requests,What are pull requests?,Requests to merge changes,Sorting requests,Filtering requests,Compression requests,Requests to merge changes,Facilitates review.
+pull requests,What platform uses pull requests?,GitHub,HTML,CSS,JavaScript,GitHub,Collaboration tool.
+pull requests,What is a use case for pull requests?,Random access,Code review,Filtering data,Sorting data,Code review,Ensures quality.
+pull requests,What is a benefit of pull requests?,Increased complexity,Transparency,More memory usage,Slower execution,Transparency,Improves feedback.
+pull requests,What is a limitation of pull requests?,Improved performance,Overhead,Low memory usage,Fast execution,Overhead,Requires approval.
+continuous integration,What is continuous integration?,Automating code integration,Sorting integration,Filtering integration,Compression integration,Automating code integration,Improves reliability.
+continuous integration,What tool supports CI?,Jenkins,HTML,CSS,JavaScript,Jenkins,Build automation.
+continuous integration,What is a use case for CI?,Random access,Build validation,Filtering data,Sorting data,Build validation,Detects issues.
+continuous integration,What is a benefit of CI?,Increased complexity,Speed,More memory usage,Slower execution,Speed,Fast feedback.
+continuous integration,What is a limitation of CI?,Improved performance,Setup cost,Low memory usage,Fast execution,Setup cost,Initial investment.
+continuous deployment,What is continuous deployment?,Automatically deploying code changes,Sorting deployment,Filtering deployment,Compression deployment,Automatically deploying code changes,Enhances delivery.
+continuous deployment,What tool supports CD?,CircleCI,HTML,CSS,JavaScript,CircleCI,Deployment automation.
+continuous deployment,What is a use case for CD?,Random access,Production release,Filtering data,Sorting data,Production release,Fast delivery.
+continuous deployment,What is a benefit of CD?,Increased complexity,Automation,More memory usage,Slower execution,Automation,Reduces manual effort.
+continuous deployment,What is a limitation of CD?,Improved performance,Risk of bugs,Low memory usage,Fast execution,Risk of bugs,Requires testing.
+testing,What is testing in software?,Verifying code functionality,Sorting code,Filtering code,Compressing code,Verifying code functionality,Ensures quality.
+testing,What type of testing checks units?,Unit testing,Integration testing,System testing,Acceptance testing,Unit testing,Tests components.
+testing,What is a use case for testing?,Random access,Bug detection,Filtering data,Sorting data,Bug detection,Improves reliability.
+testing,What is a benefit of testing?,Increased complexity,Reliability,More memory usage,Slower execution,Reliability,Reduces errors.
+testing,What is a limitation of testing?,Improved performance,Time-intensive,Low memory usage,Fast execution,Time-intensive,Requires effort.
+procedural programming,What is procedural programming?,Programming using procedures or functions,Sorting programming,Filtering programming,Compression programming,Programming using procedures or functions,Step-based.
+procedural programming,What language uses procedural programming?,C,JavaScript,Python,HTML,C,Structured approach.
+procedural programming,What is a use case for procedural programming?,Random access,Scripting,Filtering data,Sorting data,Scripting,Simple tasks.
+procedural programming,What is a benefit of procedural programming?,Increased complexity,Simplicity,More memory usage,Slower execution,Simplicity,Easy to follow.
+procedural programming,What is a limitation of procedural programming?,Improved performance,Limited reusability,Low memory usage,Fast execution,Limited reusability,No objects.
+declarative programming,What is declarative programming?,Describing what to do, not how,Sorting programming,Filtering programming,Compression programming,Describing what to do, not how,Focuses on outcome.
+declarative programming,What language uses declarative programming?,SQL,Python,C++,JavaScript,SQL,Query-based.
+declarative programming,What is a use case for declarative programming?,Random access,Querying data,Filtering data,Sorting data,Querying data,Defines requirements.
+declarative programming,What is a benefit of declarative programming?,Increased complexity,Readability,More memory usage,Slower execution,Readability,Simplifies logic.
+declarative programming,What is a limitation of declarative programming?,Improved performance,Less control,Low memory usage,Fast execution,Less control,Abstracts implementation.
+imperative programming,What is imperative programming?,Programming by specifying steps,Sorting programming,Filtering programming,Compression programming,Programming by specifying steps,Detail-oriented.
+imperative programming,What language uses imperative programming?,C,SQL,HTML,JavaScript,C,Step-by-step execution.
+imperative programming,What is a use case for imperative programming?,Random access,System programming,Filtering data,Sorting data,System programming,Low-level tasks.
+imperative programming,What is a benefit of imperative programming?,Increased complexity,Control,More memory usage,Slower execution,Control,Direct manipulation.
+imperative programming,What is a limitation of imperative programming?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Hard to maintain.
+concurrent programming,What is concurrent programming?,Executing multiple tasks at once,Sorting tasks,Filtering tasks,Compression tasks,Executing multiple tasks at once,Improves efficiency.
+concurrent programming,What technique supports concurrency?,Threads,Loops,Variables,Arrays,Threads,Parallel execution.
+concurrent programming,What is a use case for concurrent programming?,Random access,Multi-tasking,Filtering data,Sorting data,Multi-tasking,Handles I/O.
+concurrent programming,What is a benefit of concurrent programming?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Leverages CPU.
+concurrent programming,What is a limitation of concurrent programming?,Improved performance,Race conditions,Low memory usage,Fast execution,Race conditions,Requires synchronization.
+parallel programming,What is parallel programming?,Executing tasks simultaneously on multiple processors,Sorting tasks,Filtering tasks,Compression tasks,Executing tasks simultaneously on multiple processors,Maximizes resources.
+parallel programming,What technique supports parallel programming?,Multiprocessing,Loops,Variables,Arrays,Multiprocessing,Parallel execution.
+parallel programming,What is a use case for parallel programming?,Random access,Scientific computing,Filtering data,Sorting data,Scientific computing,Handles large data.
+parallel programming,What is a benefit of parallel programming?,Increased complexity,Speed,More memory usage,Slower execution,Speed,Utilizes cores.
+parallel programming,What is a limitation of parallel programming?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Requires coordination.
+tcp ip,What does TCP/IP stand for?,Transmission Control Protocol/Internet Protocol,Sorting Control Protocol,Filtering Control Protocol,Compression Control Protocol,Transmission Control Protocol/Internet Protocol,Networking foundation.
+tcp ip,What layer handles data transmission?,Network,Application,Presentation,Session,Network,Manages routing.
+tcp ip,What is a use case for TCP/IP?,Random access,Internet communication,Filtering data,Sorting data,Internet communication,Enables connectivity.
+tcp ip,What is a benefit of TCP/IP?,Increased complexity,Reliability,More memory usage,Slower execution,Reliability,Ensures delivery.
+tcp ip,What is a limitation of TCP/IP?,Improved performance,Overhead,Low memory usage,Fast execution,Overhead,Adds latency.
+http,What is HTTP?,HyperText Transfer Protocol,Sorting Protocol,Filtering Protocol,Compression Protocol,HyperText Transfer Protocol,Web communication.
+http,What method requests a resource?,GET,POST,PUT,DELETE,GET,Retrieves data.
+http,What is a use case for HTTP?,Random access,Web browsing,Filtering data,Sorting data,Web browsing,Transfers pages.
+http,What is a benefit of HTTP?,Increased complexity,Simplicity,More memory usage,Slower execution,Simplicity,Easy implementation.
+http,What is a limitation of HTTP?,Improved performance,No security,Low memory usage,Fast execution,No security,Requires HTTPS.
+https,What is HTTPS?,HTTP with encryption,Sorting with encryption,Filtering with encryption,Compression with encryption,HTTP with encryption,Secures communication.
+https,What protocol enhances HTTPS?,TLS,SSL,TCP,UDP,TLS,Encrypts data.
+https,What is a use case for HTTPS?,Random access,Secure websites,Filtering data,Sorting data,Secure websites,Protects data.
+https,What is a benefit of HTTPS?,Increased complexity,Security,More memory usage,Slower execution,Security,Prevents eavesdropping.
+https,What is a limitation of HTTPS?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Adds computation.
+dns,What does DNS stand for?,Domain Name System,Sorting Name System,Filtering Name System,Compression Name System,Domain Name System,Resolves names.
+dns,What does DNS translate?,Domain to IP,IP to domain,Port to address,URL to port,Domain to IP,Enables access.
+dns,What is a use case for DNS?,Random access,Website resolution,Filtering data,Sorting data,Website resolution,Finds servers.
+dns,What is a benefit of DNS?,Increased complexity,Convenience,More memory usage,Slower execution,Convenience,User-friendly.
+dns,What is a limitation of DNS?,Improved performance,Security risks,Low memory usage,Fast execution,Security risks,Prone to attacks.
+ip address,What is an IP address?,A unique network identifier,Sorting identifier,Filtering identifier,Compression identifier,A unique network identifier,Locates devices.
+ip address,What version is IPv6?,6,4,8,10,6,128-bit address.
+ip address,What is a use case for IP address?,Random access,Network communication,Filtering data,Sorting data,Network communication,Identifies devices.
+ip address,What is a benefit of IP address?,Increased complexity,Uniqueness,More memory usage,Slower execution,Uniqueness,Ensures identification.
+ip address,What is a limitation of IP address?,Improved performance,Exhaustion,Low memory usage,Fast execution,Exhaustion,IPv4 limits.
+ports,What are ports in networking?,Communication endpoints,Sorting endpoints,Filtering endpoints,Compression endpoints,Communication endpoints,Identifies services.
+ports,What range is for well-known ports?,0-1023,1024-49151,49152-65535,65536-70000,0-1023,Standard services.
+ports,What is a use case for ports?,Random access,Service access,Filtering data,Sorting data,Service access,Routes traffic.
+ports,What is a benefit of ports?,Increased complexity,Multiplexing,More memory usage,Slower execution,Multiplexing,Multiple services.
+ports,What is a limitation of ports?,Improved performance,Security risks,Low memory usage,Fast execution,Security risks,Open ports vulnerable.
+sockets,What are sockets in networking?,Endpoints for network communication,Sorting endpoints,Filtering endpoints,Compression endpoints,Endpoints for network communication,Enables connections.
+sockets,What protocol uses sockets?,TCP,HTTP,HTML,CSS,TCP,Reliable transmission.
+sockets,What is a use case for sockets?,Random access,Real-time apps,Filtering data,Sorting data,Real-time apps,Handles streams.
+sockets,What is a benefit of sockets?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Supports protocols.
+sockets,What is a limitation of sockets?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Requires management.
+firewalls,What are firewalls?,Security devices controlling network traffic,Sorting devices,Filtering devices,Compression devices,Security devices controlling network traffic,Protects networks.
+firewalls,What type blocks unauthorized access?,Packet filtering,Application filtering,Sorting filtering,Compression filtering,Packet filtering,Basic protection.
+firewalls,What is a use case for firewalls?,Random access,Network security,Filtering data,Sorting data,Network security,Prevents intrusions.
+firewalls,What is a benefit of firewalls?,Increased complexity,Protection,More memory usage,Slower execution,Protection,Blocks threats.
+firewalls,What is a limitation of firewalls?,Improved performance,Configuration complexity,Low memory usage,Fast execution,Configuration complexity,Requires tuning.
+load balancers,What are load balancers?,Devices distributing network traffic,Sorting devices,Filtering devices,Compression devices,Devices distributing network traffic,Improves performance.
+load balancers,What technique uses load balancers?,Round-robin,Linear sorting,Filtering,Compression,Round-robin,Distributes evenly.
+load balancers,What is a use case for load balancers?,Random access,Traffic management,Filtering data,Sorting data,Traffic management,Enhances scalability.
+load balancers,What is a benefit of load balancers?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Distributes load.
+load balancers,What is a limitation of load balancers?,Improved performance,Single point of failure,Low memory usage,Fast execution,Single point of failure,Requires redundancy.
+encryption,What is encryption?,Converting data into a secure format,Sorting data,Filtering data,Compressing data,Converting data into a secure format,Ensures privacy.
+encryption,What algorithm is used for encryption?,AES,Linear search,Binary search,Bubble sort,AES,Standard encryption.
+encryption,What is a use case for encryption?,Random access,Secure communication,Filtering data,Sorting data,Secure communication,Protects data.
+encryption,What is a benefit of encryption?,Increased complexity,Security,More memory usage,Slower execution,Security,Prevents unauthorized access.
+encryption,What is a limitation of encryption?,Improved performance,Performance overhead,Low memory usage,Fast execution,Performance overhead,Adds computation.
+hashing,What is hashing?,Converting data into a fixed-size value,Sorting value,Filtering value,Compression value,Converting data into a fixed-size value,Ensures integrity.
+hashing,What algorithm produces a hash?,SHA-256,Linear search,Binary search,Bubble sort,SHA-256,Secure hashing.
+hashing,What is a use case for hashing?,Random access,Data integrity,Filtering data,Sorting data,Data integrity,Verifies content.
+hashing,What is a benefit of hashing?,Increased complexity,Speed,More memory usage,Slower execution,Speed,Fast verification.
+hashing,What is a limitation of hashing?,Improved performance,Collisions,Low memory usage,Fast execution,Collisions,Potential duplicates.
+unsupervised learning,What is unsupervised learning?,Learning patterns without labeled data,Sorting data,Filtering data,Compressing data,Learning patterns without labeled data,Discovers structure.
+unsupervised learning,What algorithm is used in unsupervised learning?,K-means,Linear regression,Logistic regression,Decision tree,K-means,Clusters data.
+unsupervised learning,What is a use case for unsupervised learning?,Random access,Data segmentation,Filtering data,Sorting data,Data segmentation,Groups similar items.
+unsupervised learning,What is a benefit of unsupervised learning?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,No labels needed.
+unsupervised learning,What is a limitation of unsupervised learning?,Improved performance,Ambiguity,Low memory usage,Fast execution,Ambiguity,Hard to evaluate.
+classification,What is classification?,Assigning labels to data,Sorting data,Filtering data,Compressing data,Assigning labels to data,Predicts categories.
+classification,What algorithm is used for classification?,Logistic regression,Linear search,Binary search,Bubble sort,Logistic regression,Predicts binary outcomes.
+classification,What is a use case for classification?,Random access,Spam detection,Filtering data,Sorting data,Spam detection,Identifies categories.
+classification,What is a benefit of classification?,Increased complexity,Accuracy,More memory usage,Slower execution,Accuracy,Precise predictions.
+classification,What is a limitation of classification?,Improved performance,Overfitting,Low memory usage,Fast execution,Overfitting,Requires tuning.
+regression,What is regression?,Predicting continuous values,Sorting values,Filtering values,Compressing values,Predicting continuous values,Models relationships.
+regression,What algorithm is used for regression?,Linear regression,Linear search,Binary search,Bubble sort,Linear regression,Fits data.
+regression,What is a use case for regression?,Random access,Price prediction,Filtering data,Sorting data,Price prediction,Estimates trends.
+regression,What is a benefit of regression?,Increased complexity,Precision,More memory usage,Slower execution,Precision,Quantifies relationships.
+regression,What is a limitation of regression?,Improved performance,Assumption sensitivity,Low memory usage,Fast execution,Assumption sensitivity,Requires linearity.
+clustering,What is clustering?,Grouping similar data points,Sorting points,Filtering points,Compressing points,Grouping similar data points,Identifies patterns.
+clustering,What algorithm is used for clustering?,K-means,Logistic regression,Linear regression,Decision tree,K-means,Partitions data.
+clustering,What is a use case for clustering?,Random access,Market segmentation,Filtering data,Sorting data,Market segmentation,Groups customers.
+clustering,What is a benefit of clustering?,Increased complexity,Insight,More memory usage,Slower execution,Insight,Reveals structure.
+clustering,What is a limitation of clustering?,Improved performance,Number of clusters,Low memory usage,Fast execution,Number of clusters,Hard to determine.
+deep learning,What is deep learning?,Using neural networks with many layers,Sorting layers,Filtering layers,Compressing layers,Using neural networks with many layers,Handles complex data.
+deep learning,What framework supports deep learning?,TensorFlow,HTML,CSS,JavaScript,TensorFlow,Builds models.
+deep learning,What is a use case for deep learning?,Random access,Image recognition,Filtering data,Sorting data,Image recognition,Processes visuals.
+deep learning,What is a benefit of deep learning?,Increased complexity,Accuracy,More memory usage,Slower execution,Accuracy,Learns features.
+deep learning,What is a limitation of deep learning?,Improved performance,Resource intensive,Low memory usage,Fast execution,Resource intensive,Requires GPUs.
+neural network,What is a neural network?,A model mimicking brain structure,Sorting model,Filtering model,Compression model,A model mimicking brain structure,Learns patterns.
+neural network,What component processes input?,Neuron,Layer,Weight,Bias,Neuron,Receives data.
+neural network,What is a use case for neural networks?,Random access,Speech recognition,Filtering data,Sorting data,Speech recognition,Processes audio.
+neural network,What is a benefit of neural networks?,Increased complexity,Adaptability,More memory usage,Slower execution,Adaptability,Handles nonlinearity.
+neural network,What is a limitation of neural networks?,Improved performance,Training time,Low memory usage,Fast execution,Training time,Computationally expensive.
+natural language processing,What is natural language processing?,Analyzing and generating human language,Sorting language,Filtering language,Compressing language,Analyzing and generating human language,Understands text.
+natural language processing,What technique supports NLP?,Tokenization,Linear sorting,Filtering,Compression,Tokenization,Breaks text.
+natural language processing,What is a use case for NLP?,Random access,Chatbots,Filtering data,Sorting data,Chatbots,Automates conversation.
+natural language processing,What is a benefit of NLP?,Increased complexity,Understanding,More memory usage,Slower execution,Understanding,Interprets language.
+natural language processing,What is a limitation of NLP?,Improved performance,Ambiguity,Low memory usage,Fast execution,Ambiguity,Handles context poorly.
+computer vision,What is computer vision?,Enabling computers to interpret visual data,Sorting data,Filtering data,Compressing data,Enabling computers to interpret visual data,Processes images.
+computer vision,What technique supports computer vision?,Convolution,Linear sorting,Filtering,Compression,Convolution,Extracts features.
+computer vision,What is a use case for computer vision?,Random access,Face recognition,Filtering data,Sorting data,Face recognition,Identifies objects.
+computer vision,What is a benefit of computer vision?,Increased complexity,Accuracy,More memory usage,Slower execution,Accuracy,Detects patterns.
+computer vision,What is a limitation of computer vision?,Improved performance,Lighting dependency,Low memory usage,Fast execution,Lighting dependency,Affects performance.
+try catch blocks,What are try catch blocks?,Handling exceptions in code,Sorting exceptions,Filtering exceptions,Compressing exceptions,Handling exceptions in code,Manages errors.
+try catch blocks,What language uses try catch blocks?,Java,HTML,CSS,JavaScript,Java,Exception handling.
+try catch blocks,What is a use case for try catch blocks?,Random access,Error handling,Filtering data,Sorting data,Error handling,Prevents crashes.
+try catch blocks,What is a benefit of try catch blocks?,Increased complexity,Reliability,More memory usage,Slower execution,Reliability,Graceful recovery.
+try catch blocks,What is a limitation of try catch blocks?,Improved performance,Overhead,Low memory usage,Fast execution,Overhead,Adds complexity.
+pointers,What are pointers?,Variables storing memory addresses,Sorting addresses,Filtering addresses,Compressing addresses,Variables storing memory addresses,Direct memory access.
+pointers,What language uses pointers?,C,Python,HTML,JavaScript,C,Manual memory management.
+pointers,What is a use case for pointers?,Random access,Memory optimization,Filtering data,Sorting data,Memory optimization,Efficient allocation.
+pointers,What is a benefit of pointers?,Increased complexity,Performance,More memory usage,Slower execution,Performance,Direct access.
+pointers,What is a limitation of pointers?,Improved performance,Memory leaks,Low memory usage,Fast execution,Memory leaks,Error-prone.
+go routines,What are go routines?,Lightweight threads in Go,Sorting threads,Filtering threads,Compressing threads,Lightweight threads in Go,Concurrent execution.
+go routines,What function starts a go routine?,go,thread,start,run,go,Launches concurrently.
+go routines,What is a use case for go routines?,Random access,Parallel tasks,Filtering data,Sorting data,Parallel tasks,Handles I/O.
+go routines,What is a benefit of go routines?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Low overhead.
+go routines,What is a limitation of go routines?,Improved performance,Debugging,Low memory usage,Fast execution,Debugging,Complex tracing.
+golang,What is Golang?,A programming language developed by Google,Sorting language,Filtering language,Compression language,A programming language developed by Google,Concurrent design.
+golang,What feature supports concurrency in Golang?,Goroutines,Loops,Variables,Arrays,Goroutines,Lightweight threads.
+golang,What is a use case for Golang?,Random access,Web servers,Filtering data,Sorting data,Web servers,High performance.
+golang,What is a benefit of Golang?,Increased complexity,Simplicity,More memory usage,Slower execution,Simplicity,Built-in tools.
+golang,What is a limitation of Golang?,Improved performance,Limited libraries,Low memory usage,Fast execution,Limited libraries,Less ecosystem.
+ides,What are IDEs?,Integrated Development Environments,Sorting Environments,Filtering Environments,Compression Environments,Integrated Development Environments,Enhances coding.
+ides,What example is an IDE?,Visual Studio Code,HTML,CSS,JavaScript,Visual Studio Code,Code editor.
+ides,What is a use case for IDEs?,Random access,Code development,Filtering data,Sorting data,Code development,Improves productivity.
+ides,What is a benefit of IDEs?,Increased complexity,Automation,More memory usage,Slower execution,Automation,Reduces effort.
+ides,What is a limitation of IDEs?,Improved performance,Resource intensive,Low memory usage,Fast execution,Resource intensive,Requires power.
+text editors,What are text editors?,Tools for editing plain text,Sorting tools,Filtering tools,Compression tools,Tools for editing plain text,Edits code.
+text editors,What example is a text editor?,Notepad++,HTML,CSS,JavaScript,Notepad++,Lightweight editor.
+text editors,What is a use case for text editors?,Random access,Script editing,Filtering data,Sorting data,Script editing,Quick changes.
+text editors,What is a benefit of text editors?,Increased complexity,Lightweight,More memory usage,Slower execution,Lightweight,Low resource use.
+text editors,What is a limitation of text editors?,Improved performance,Limited features,Low memory usage,Fast execution,Limited features,No debugging.
+virtual machines,What are virtual machines?,Emulated computer systems,Sorting systems,Filtering systems,Compression systems,Emulated computer systems,Runs OS.
+virtual machines,What technology supports VMs?,VMware,HTML,CSS,JavaScript,VMware,Manages virtualization.
+virtual machines,What is a use case for virtual machines?,Random access,Server testing,Filtering data,Sorting data,Server testing,Isolates environments.
+virtual machines,What is a benefit of virtual machines?,Increased complexity,Isolation,More memory usage,Slower execution,Isolation,Prevents conflicts.
+virtual machines,What is a limitation of virtual machines?,Improved performance,Resource heavy,Low memory usage,Fast execution,Resource heavy,High overhead.
+containers,What are containers?,Lightweight, isolated environments,Sorting environments,Filtering environments,Compression environments,Lightweight, isolated environments,Portable apps.
+containers,What technology supports containers?,Docker,HTML,CSS,JavaScript,Docker,Manages containers.
+containers,What is a use case for containers?,Random access,App deployment,Filtering data,Sorting data,App deployment,Ensures consistency.
+containers,What is a benefit of containers?,Increased complexity,Portability,More memory usage,Slower execution,Portability,Cross-platform.
+containers,What is a limitation of containers?,Improved performance,Resource limits,Low memory usage,Fast execution,Resource limits,Constrains usage.
+docker,What is Docker?,A platform for containerization,Sorting platform,Filtering platform,Compression platform,A platform for containerization,Manages apps.
+docker,What command builds an image?,docker build,docker run,docker push,docker pull,docker build,Creates containers.
+docker,What is a use case for Docker?,Random access,App packaging,Filtering data,Sorting data,App packaging,Ensures portability.
+docker,What is a benefit of Docker?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Lightweight.
+docker,What is a limitation of Docker?,Improved performance,Learning curve,Low memory usage,Fast execution,Learning curve,Requires knowledge.
+kubernetes,What is Kubernetes?,A system for managing containerized applications,Sorting system,Filtering system,Compression system,A system for managing containerized applications,Orchestrates deployment.
+kubernetes,What component schedules pods?,Kube-scheduler,API server,Controller manager,Etcd,Kube-scheduler,Assigns resources.
+kubernetes,What is a use case for Kubernetes?,Random access,Container orchestration,Filtering data,Sorting data,Container orchestration,Scales apps.
+kubernetes,What is a benefit of Kubernetes?,Increased complexity,Scalability,More memory usage,Slower execution,Scalability,Handles load.
+kubernetes,What is a limitation of Kubernetes?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Steep learning.
+cloud computing,What is cloud computing?,Delivering services over the internet,Sorting services,Filtering services,Compression services,Delivering services over the internet,Scalable resources.
+cloud computing,What model uses pay-as-you-go?,IaaS,HTML,CSS,JavaScript,IaaS,Infrastructure as a Service.
+cloud computing,What is a use case for cloud computing?,Random access,Data storage,Filtering data,Sorting data,Data storage,Flexible access.
+cloud computing,What is a benefit of cloud computing?,Increased complexity,Scalability,More memory usage,Slower execution,Scalability,On-demand resources.
+cloud computing,What is a limitation of cloud computing?,Improved performance,Dependency,Low memory usage,Fast execution,Dependency,Reliant on provider.
+aws,What is AWS?,Amazon Web Services,Sorting Web Services,Filtering Web Services,Compression Web Services,Amazon Web Services,Cloud platform.
+aws,What service provides computing power?,EC2,HTML,CSS,JavaScript,EC2,Elastic Compute Cloud.
+aws,What is a use case for AWS?,Random access,Server hosting,Filtering data,Sorting data,Server hosting,Scalable infrastructure.
+aws,What is a benefit of AWS?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Variety of services.
+aws,What is a limitation of AWS?,Improved performance,Cost,Low memory usage,Fast execution,Cost,Pay-per-use model.
+azure,What is Azure?,Microsoft's cloud computing platform,Sorting platform,Filtering platform,Compression platform,Microsoft's cloud computing platform,Offers services.
+azure,What service provides virtual machines?,Azure VMs,HTML,CSS,JavaScript,Azure VMs,Compute resources.
+azure,What is a use case for Azure?,Random access,App deployment,Filtering data,Sorting data,App deployment,Scalable solutions.
+azure,What is a benefit of Azure?,Increased complexity,Integration,More memory usage,Slower execution,Integration,Microsoft ecosystem.
+azure,What is a limitation of Azure?,Improved performance,Cost,Low memory usage,Fast execution,Cost,Expensive for large use.
+functors,What are functors?,Objects that can be called like functions,Sorting objects,Filtering objects,Compression objects,Objects that can be called like functions,Enhances flexibility.
+functors,What language supports functors?,C++,Python,HTML,JavaScript,C++,Operator overloading.
+functors,What is a use case for functors?,Random access,Custom operations,Filtering data,Sorting data,Custom operations,Defines behavior.
+functors,What is a benefit of functors?,Increased complexity,Reusability,More memory usage,Slower execution,Reusability,Stateful functions.
+functors,What is a limitation of functors?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Hard to understand.
+pure functions,What are pure functions?,Functions with no side effects,Sorting functions,Filtering functions,Compression functions,Functions with no side effects,Ensures predictability.
+pure functions,What property defines pure functions?,Determinism,Randomness,Variability,Mutability,Determinism,Same input, same output.
+pure functions,What is a use case for pure functions?,Random access,Functional programming,Filtering data,Sorting data,Functional programming,Simplifies testing.
+pure functions,What is a benefit of pure functions?,Increased complexity,Testability,More memory usage,Slower execution,Testability,Easy to verify.
+pure functions,What is a limitation of pure functions?,Improved performance,State management,Low memory usage,Fast execution,State management,No side effects.
+function composition,What is function composition?,Combining functions to create new ones,Sorting functions,Filtering functions,Compression functions,Combining functions to create new ones,Enhances modularity.
+function composition,What operator supports composition in some languages?,.,+,*,/,.,Chains functions.
+function composition,What is a use case for function composition?,Random access,Data transformation,Filtering data,Sorting data,Data transformation,Pipelines data.
+function composition,What is a benefit of function composition?,Increased complexity,Clarity,More memory usage,Slower execution,Clarity,Reduces nesting.
+function composition,What is a limitation of function composition?,Improved performance,Debugging,Low memory usage,Fast execution,Debugging,Hard to trace.
+partial application,What is partial application?,Applying some arguments to a function,Sorting arguments,Filtering arguments,Compression arguments,Applying some arguments to a function,Creates specialized functions.
+partial application,What language supports partial application?,Haskell,Python,HTML,JavaScript,Haskell,Functional paradigm.
+partial application,What is a use case for partial application?,Random access,Reusable functions,Filtering data,Sorting data,Reusable functions,Customizes behavior.
+partial application,What is a benefit of partial application?,Increased complexity,Flexibility,More memory usage,Slower execution,Flexibility,Reduces repetition.
+partial application,What is a limitation of partial application?,Improved performance,Overhead,Low memory usage,Fast execution,Overhead,Creates closures.
+tail recursion,What is tail recursion?,Recursion where the last operation is the recursive call,Sorting call,Filtering call,Compression call,Recursion where the last operation is the recursive call,Optimizes stack.
+tail recursion,What language optimizes tail recursion?,Scheme,Python,HTML,JavaScript,Scheme,Functional optimization.
+tail recursion,What is a use case for tail recursion?,Random access,Loop replacement,Filtering data,Sorting data,Loop replacement,Handles iteration.
+tail recursion,What is a benefit of tail recursion?,Increased complexity,Efficiency,More memory usage,Slower execution,Efficiency,Reduces stack use.
+tail recursion,What is a limitation of tail recursion?,Improved performance,Language dependency,Low memory usage,Fast execution,Language dependency,Not all support.
+memoization,What is memoization?,Caching function results to avoid recomputation,Sorting results,Filtering results,Compression results,Caching function results to avoid recomputation,Improves performance.
+memoization,What technique uses memoization?,Dynamic programming,Linear sorting,Filtering,Compression,Dynamic programming,Optimizes recursion.
+memoization,What is a use case for memoization?,Random access,Fibonacci calculation,Filtering data,Sorting data,Fibonacci calculation,Speeds up recursion.
+memoization,What is a benefit of memoization?,Increased complexity,Speed,More memory usage,Slower execution,Speed,Reduces redundant work.
+memoization,What is a limitation of memoization?,Improved performance,Memory use,Low memory usage,Fast execution,Memory use,Stores results.
+closures,What are closures?,Functions retaining access to their scope,Sorting scope,Filtering scope,Compression scope,Functions retaining access to their scope,Encapsulates data.
+closures,What language supports closures?,JavaScript,HTML,CSS,Python,JavaScript,Functional feature.
+closures,What is a use case for closures?,Random access,Data privacy,Filtering data,Sorting data,Data privacy,Protects variables.
+closures,What is a benefit of closures?,Increased complexity,Encapsulation,More memory usage,Slower execution,Encapsulation,Hides state.
+closures,What is a limitation of closures?,Improved performance,Memory leak risk,Low memory usage,Fast execution,Memory leak risk,Retains references.
+currying,What is currying?,Transforming a function into a sequence of functions,Sorting functions,Filtering functions,Compression functions,Transforming a function into a sequence of functions,Enables partial application.
+currying,What language supports currying?,Haskell,Python,HTML,JavaScript,Haskell,Functional paradigm.
+currying,What is a use case for currying?,Random access,Function specialization,Filtering data,Sorting data,Function specialization,Custom arguments.
+currying,What is a benefit of currying?,Increased complexity,Modularity,More memory usage,Slower execution,Modularity,Breaks down functions.
+currying,What is a limitation of currying?,Improved performance,Complexity,Low memory usage,Fast execution,Complexity,Hard to read.
+higher order functions,What are higher order functions?,Functions that operate on other functions,Sorting functions,Filtering functions,Compression functions,Functions that operate on other functions,Enhances abstraction.
+higher order functions,What language supports higher order functions?,JavaScript,HTML,CSS,Python,JavaScript,Functional programming.
+higher order functions,What is a use case for higher order functions?,Random access,Array manipulation,Filtering data,Sorting data,Array manipulation,Applies logic.
+higher order functions,What is a benefit of higher order functions?,Increased complexity,Reusability,More memory usage,Slower execution,Reusability,Abstracts patterns.
+higher order functions,What is a limitation of higher order functions?,Improved performance,Overhead,Low memory usage,Fast execution,Overhead,Performance cost.
+time complexity,What is time complexity?,A measure of algorithm runtime,Sorting measure,Filtering measure,Compression measure,A measure of algorithm runtime,Analyzes efficiency.
+time complexity,What notation represents time complexity?,Big O,Big Omega,Big Theta,Big Pi,Big O,Upper bound.
+time complexity,What is a use case for time complexity?,Random access,Algorithm design,Filtering data,Sorting data,Algorithm design,Compares performance.
+time complexity,What is a benefit of time complexity?,Increased complexity,Understanding,More memory usage,Slower execution,Understanding,Guides optimization.
+time complexity,What is a limitation of time complexity?,Improved performance,Ignores constants,Low memory usage,Fast execution,Ignores constants,Approximation only.
+space complexity,What is space complexity?,A measure of algorithm memory use,Sorting measure,Filtering measure,Compression measure,A measure of algorithm memory use,Analyzes storage.
+space complexity,What notation represents space complexity?,Big O,Big Omega,Big Theta,Big Pi,Big O,Upper bound.
+space complexity,What is a use case for space complexity?,Random access,Memory optimization,Filtering data,Sorting data,Memory optimization,Reduces footprint.
+space complexity,What is a benefit of space complexity?,Increased complexity,Resource awareness,More memory usage,Slower execution,Resource awareness,Guides design.
+space complexity,What is a limitation of space complexity?,Improved performance,Ignores actual usage,Low memory usage,Fast execution,Ignores actual usage,Theoretical estimate.

@@ -1,0 +1,1765 @@
+[2025-04-30 19:20:32] Concept: scala, Question: What is a higher-order function in Scala?, Answer: a
+[2025-04-30 19:20:50] Concept: scala, Question: What is a trait in Scala?, Answer: 2
+[2025-04-30 19:21:09] Concept: scala, Question: What does the 'implicit' keyword in Scala do?, Answer: d
+[2025-04-30 19:21:18] Concept: scala, Question: What is a case class in Scala?, Answer: a
+[2025-04-30 19:21:29] Concept: scala, Question: What is a sealed trait in Scala?, Answer: b
+[2025-04-30 19:42:09] Input: hey
+[2025-04-30 19:42:10] Input: g
+[2025-04-30 19:42:38] Input: next
+[2025-04-30 19:43:02] Input: quiz me on ai
+[2025-04-30 19:43:04] Input: next
+[2025-04-30 19:43:13] Input: quiz me on oop
+[2025-04-30 19:43:15] Input: next
+[2025-04-30 19:43:29] Input: oop 
+[2025-04-30 19:43:32] Input: oop quiz
+[2025-04-30 19:43:35] Input: next
+[2025-04-30 19:43:44] Input: quiz python
+[2025-04-30 19:43:46] Input: next
+[2025-04-30 19:43:58] Concept: python, Question: What is a metaclass in Python?, Answer: a
+[2025-04-30 19:44:00] Concept: python, Question: What is the 'argparse' module in Python used for?, Answer: b
+[2025-04-30 19:44:01] Concept: python, Question: What does the 'zip' function do in Python?, Answer: c
+[2025-04-30 19:44:02] Concept: python, Question: What is a property decorator in Python?, Answer: d
+[2025-04-30 19:44:03] Concept: python, Question: What is a generator in Python?, Answer: s
+[2025-04-30 19:44:07] Input: clear
+[2025-04-30 19:44:14] Input: quiz oop
+[2025-04-30 19:44:17] Input: next
+[2025-04-30 19:45:42] Input: exit
+[2025-04-30 19:45:48] Input: quiz oop
+[2025-04-30 19:45:50] Input: next
+[2025-04-30 19:48:03] Input: oop
+[2025-04-30 19:49:23] Input: exit
+[2025-04-30 19:49:30] Input: quiz oop
+[2025-04-30 19:49:36] Input: next
+[2025-04-30 19:49:47] Concept: oop, Question: What is a sealed class in OOP?, Answer: d
+[2025-04-30 19:49:47] Concept: oop, Question: What is oop in programming?, Answer: d
+[2025-04-30 19:49:47] Concept: oop, Question: What is method overriding in OOP?, Answer: d
+[2025-04-30 19:49:48] Concept: oop, Question: What is inheritance in OOP?, Answer: dd
+[2025-04-30 19:49:48] Concept: oop, Question: What is a constructor in OOP?, Answer: d
+[2025-04-30 19:50:06] Input: quiz me on oop with 7 questions
+[2025-04-30 19:50:09] Input: next
+[2025-04-30 19:55:11] Concept: oop, Question: What is method overloading in OOP?, Answer: d
+[2025-04-30 19:55:11] Concept: oop, Question: What is dynamic binding in OOP?, Answer: d
+[2025-04-30 19:55:11] Concept: oop, Question: What is an interface in OOP?, Answer: d
+[2025-04-30 19:55:11] Concept: oop, Question: What is an abstract class in OOP?, Answer: d
+[2025-04-30 19:55:12] Concept: oop, Question: What is polymorphism in OOP?, Answer: dd
+[2025-04-30 19:55:16] Input: exit
+[2025-04-30 19:55:24] Input: hey
+[2025-04-30 19:55:32] Input: explain what is oop
+[2025-04-30 19:56:04] Input: quiz me on scala
+[2025-04-30 19:56:06] Input: next
+[2025-04-30 19:56:09] Concept: scala, Question: What is a for comprehension in Scala?, Answer: a
+[2025-04-30 19:56:10] Concept: scala, Question: What does the 'implicit' keyword in Scala do?, Answer: a
+[2025-04-30 19:56:10] Concept: scala, Question: What is a higher-order function in Scala?, Answer: a
+[2025-04-30 19:56:10] Concept: scala, Question: What is the purpose of an Option in Scala?, Answer: a
+[2025-04-30 19:56:11] Concept: scala, Question: What is a type class in Scala?, Answer: a
+[2025-04-30 19:56:18] Input: clear
+[2025-04-30 19:56:24] Input: fetch api
+[2025-04-30 19:56:34] Input: inline function
+[2025-04-30 19:56:46] Input: numpy
+[2025-04-30 19:56:55] Input: what is numpy
+[2025-04-30 19:57:04] Input: waht is dynamic programming
+[2025-04-30 19:58:23] Input: what is ai
+[2025-04-30 19:58:32] Input: quiz ai
+[2025-04-30 19:58:34] Input: next
+[2025-04-30 20:01:38] Input: exit
+[2025-04-30 20:01:46] Input: hey
+[2025-04-30 20:01:52] Input: quiz dynamic programming
+[2025-04-30 20:01:55] Input: next
+[2025-04-30 20:01:59] Input: quiz oop
+[2025-04-30 20:02:01] Input: next
+[2025-04-30 20:02:03] Concept: oop, Question: What is an abstract class in OOP?, Answer: f
+[2025-04-30 20:02:03] Concept: oop, Question: What is dynamic binding in OOP?, Answer: f
+[2025-04-30 20:02:03] Concept: oop, Question: What is a constructor in OOP?, Answer: fd
+[2025-04-30 20:02:04] Concept: oop, Question: What is polymorphism in OOP?, Answer: d
+[2025-04-30 20:02:04] Concept: oop, Question: What is a sealed class in OOP?, Answer: d
+[2025-04-30 20:02:07] Input: clear
+[2025-04-30 20:02:30] Input: explain waht is dynamic programming
+[2025-04-30 20:02:40] Input: fetch api
+[2025-04-30 20:03:25] Input: quiz fetch api
+[2025-04-30 20:03:27] Input: next
+[2025-04-30 20:03:51] Input: quiz dsa
+[2025-04-30 20:03:53] Input: next
+[2025-04-30 20:38:38] Input: exit
+[2025-04-30 20:39:04] Input: hey
+[2025-04-30 20:39:10] Input: give me a quiz on oop
+[2025-04-30 20:39:12] Input: next
+[2025-04-30 20:39:49] Input: give me a quiz on oop
+[2025-04-30 20:39:51] Input: next
+[2025-04-30 20:40:06] Concept: oop, Question: What is oop in programming?, Answer: b
+[2025-04-30 20:40:13] Concept: oop, Question: What is dynamic binding in OOP?, Answer: d
+[2025-04-30 20:40:14] Concept: oop, Question: What is abstraction in OOP?, Answer: d
+[2025-04-30 20:40:15] Concept: oop, Question: What is a sealed class in OOP?, Answer: d
+[2025-04-30 20:40:15] Concept: oop, Question: What is a constructor in OOP?, Answer: d
+[2025-04-30 21:13:15] Input: exit
+[2025-04-30 21:13:29] Input: give me a quiz on oop
+[2025-04-30 21:13:31] Input: next
+[2025-04-30 21:13:57] Concept: oop, Question: What is an interface in OOP?, Answer: a
+[2025-04-30 21:14:01] Concept: oop, Question: What is a sealed class in OOP?, Answer: clear
+[2025-04-30 21:14:04] Concept: oop, Question: What is encapsulation in OOP?, Answer: sdfhudsfs
+[2025-04-30 21:14:04] Concept: oop, Question: What is abstraction in OOP?, Answer: 
+[2025-04-30 21:14:05] Concept: oop, Question: What is inheritance in OOP?, Answer: f
+[2025-04-30 21:14:05] Input: d
+[2025-04-30 21:14:05] Input: 
+[2025-04-30 21:14:06] Input: 
+[2025-04-30 21:14:06] Input: 
+[2025-04-30 21:14:06] Input: 
+[2025-04-30 21:14:06] Input: 
+[2025-04-30 21:14:06] Input: 
+[2025-04-30 21:14:06] Input: 
+[2025-04-30 21:14:06] Input: 
+[2025-04-30 21:14:07] Input: 
+[2025-04-30 21:14:07] Input: 
+[2025-04-30 21:14:07] Input: 
+[2025-04-30 21:14:07] Input: 
+[2025-04-30 21:14:07] Input: 
+[2025-04-30 21:14:11] Input: exite
+[2025-04-30 21:14:17] Input: exit
+[2025-04-30 21:14:29] Input: hello
+[2025-04-30 21:14:38] Input: give me a test on oop
+[2025-04-30 21:14:40] Input: next
+[2025-04-30 21:14:47] Concept: oop, Question: What is abstraction in OOP?, Answer: b
+[2025-04-30 21:14:52] Concept: oop, Question: What is an interface in OOP?, Answer: b
+[2025-04-30 21:15:01] Concept: oop, Question: What is inheritance in OOP?, Answer: b
+[2025-04-30 21:15:04] Concept: oop, Question: What is method overriding in OOP?, Answer: b
+[2025-04-30 21:15:06] Concept: oop, Question: What is a sealed class in OOP?, Answer: b
+[2025-04-30 21:15:31] Input: hello
+[2025-04-30 21:15:56] Input: what is ai
+[2025-04-30 21:16:12] Input: define pointer
+[2025-04-30 21:16:43] Input: define encapsulation
+[2025-04-30 21:16:57] Input: exit
+[2025-04-30 21:19:30] Input: hey
+[2025-04-30 21:19:32] Input: wsp
+[2025-04-30 21:19:41] Input: define oop
+[2025-04-30 21:20:18] Input: what is meant by a class
+[2025-04-30 21:20:34] Input: give me a quiz on oop
+[2025-04-30 21:20:36] Input: next
+[2025-04-30 21:20:43] Concept: oop, Question: What is dynamic binding in OOP?, Answer: b
+[2025-04-30 21:20:45] Concept: oop, Question: What is encapsulation in OOP?, Answer: b
+[2025-04-30 21:20:46] Concept: oop, Question: What is an abstract class in OOP?, Answer: b
+[2025-04-30 21:20:46] Concept: oop, Question: What is a sealed class in OOP?, Answer: b
+[2025-04-30 21:20:46] Concept: oop, Question: What is method overriding in OOP?, Answer: b
+[2025-04-30 21:21:55] Input: wsp g
+[2025-04-30 21:22:14] Input: what exactly is dynamic programming
+[2025-04-30 21:22:27] Input: exit
+[2025-05-01 18:12:42] Input: hi
+[2025-05-01 18:12:46] Input: 
+[2025-05-01 18:12:49] Input: 
+[2025-05-01 18:12:53] Input: qidqw
+[2025-05-01 18:12:56] Input: quiz
+[2025-05-01 18:13:03] Input: C++
+[2025-05-01 18:13:15] Input: make quiz about C++
+[2025-05-01 18:13:24] Input: explain
+[2025-05-01 18:13:33] Input: exit
+[2025-05-01 18:13:55] Input: make a quiz about python
+[2025-05-01 18:14:00] Input: next
+[2025-05-01 18:14:45] Input: C++
+[2025-05-01 18:14:53] Input: explain
+[2025-05-01 18:15:01] Input: explain OOP
+[2025-05-01 18:15:08] Input: yes
+[2025-05-01 18:15:15] Input: oop
+[2025-05-01 18:17:12] Input: File I/O
+[2025-05-01 18:17:16] Input: File I/O
+[2025-05-01 18:17:33] Input: QUEUE
+[2025-05-01 18:17:45] Input: make a quiz
+[2025-05-01 18:17:56] Input: pythin
+[2025-05-01 18:18:03] Input: python quiz
+[2025-05-01 18:18:08] Input: quiz on pythton
+[2025-05-01 18:18:14] Input: quiz on python
+[2025-05-01 18:18:19] Input: next
+[2025-05-01 18:18:30] Input: quiz python
+[2025-05-01 18:18:33] Input: next
+[2025-05-01 18:29:45] Input: quiz C++
+[2025-05-01 18:29:48] Input: next
+[2025-05-01 18:31:23] Input: quiz c
+[2025-05-01 18:31:25] Input: next
+[2025-05-01 18:31:35] Input: scala
+[2025-05-01 18:31:40] Input: quiz scala
+[2025-05-01 18:31:42] Input: next
+[2025-05-01 18:31:55] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:31:56] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:32:28] Input: explain python
+[2025-05-01 18:32:34] Input: explain
+[2025-05-01 18:32:42] Input: explain loop
+[2025-05-01 18:42:58] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:43:05] Input: salam alikum
+[2025-05-01 18:43:09] Input: howdy
+[2025-05-01 18:43:14] Input: howdy
+[2025-05-01 18:43:18] Input: hi
+[2025-05-01 18:43:19] Input: kjwf
+[2025-05-01 18:43:20] Input: wnl'
+[2025-05-01 18:43:28] Input: quiz
+[2025-05-01 18:43:34] Input: python
+[2025-05-01 18:43:37] Input: next
+[2025-05-01 18:43:54] Input: quiz encapsulation
+[2025-05-01 18:43:58] Input: next
+[2025-05-01 18:44:38] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:44:39] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:44:45] Input: hi
+[2025-05-01 18:45:14] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:45:15] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:45:23] Input: hl
+[2025-05-01 18:45:24] Input: nk
+[2025-05-01 18:45:25] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:45:26] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:45:42] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 18:45:53] Input: quiz on python
+[2025-05-01 18:45:57] Input: next
+[2025-05-01 18:46:19] Concept: python, Question: What is the purpose of 'docstring' in Python?, Answer: b
+[2025-05-01 18:46:35] Concept: python, Question: What is a generator in Python?, Answer: variable type
+[2025-05-01 18:46:47] Concept: python, Question: What is a decorator in Python?, Answer: c
+[2025-05-01 18:47:06] Concept: python, Question: What does the 'pandas' library in Python handle?, Answer: data analysis
+[2025-05-01 18:47:15] Concept: python, Question: What is a metaclass in Python?, Answer: a
+[2025-05-01 18:47:17] Input: 
+[2025-05-01 18:47:24] Input: explain classes
+[2025-05-01 18:47:31] Input: 
+[2025-05-01 18:47:34] Input: exit
+[2025-05-01 18:59:48] Input: hi
+[2025-05-01 18:59:52] Input: quiz python
+[2025-05-01 18:59:54] Input: next
+[2025-05-01 18:59:57] Concept: python, Question: What is a list comprehension in Python?, Answer: clear
+[2025-05-01 19:00:00] Concept: python, Question: What are 'dataclasses' in Python?, Answer: exit
+[2025-05-01 19:00:21] Concept: python, Question: What does the 'zip' function do in Python?, Answer: a
+[2025-05-01 19:00:21] Concept: python, Question: What is a metaclass in Python?, Answer: a
+[2025-05-01 19:00:21] Concept: python, Question: What is 'pathlib' in Python?, Answer: a
+[2025-05-01 19:00:23] Input: 
+[2025-05-01 19:00:28] Input: explain python
+[2025-05-01 19:00:32] Input: explain
+[2025-05-01 19:00:39] Input: explain classes
+[2025-05-01 19:00:46] Input: more
+[2025-05-01 19:00:52] Input: explain loops
+[2025-05-01 19:11:29] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 19:11:31] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 19:13:57] Input: explain python comcept
+[2025-05-01 19:14:14] Input: explain polymorphism
+[2025-05-01 19:14:28] Input: explain template
+[2025-05-01 19:14:47] Input: explain overlaoding
+[2025-05-01 19:15:12] Input: explain overloading
+[2025-05-01 19:15:31] Input: clear
+[2025-05-01 19:15:41] Input: quiz c
+[2025-05-01 19:15:43] Input: next
+[2025-05-01 19:15:48] Input: quiz
+[2025-05-01 19:15:51] Input: next
+[2025-05-01 19:15:56] Input: quiz scala
+[2025-05-01 19:16:01] Input: quiz scala
+[2025-05-01 19:16:07] Input: next
+[2025-05-01 19:16:11] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\tempCodeRunnerFile.scala"
+[2025-05-01 19:16:11] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\tempCodeRunnerFile.scala"
+[2025-05-01 19:37:35] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-01 19:37:51] Input: hi make quiz python
+[2025-05-01 19:38:05] Input: make quiz python
+[2025-05-01 19:38:35] Input: quiz and explain class
+[2025-05-01 19:38:43] Input: clear
+[2025-05-01 19:40:26] Input: explain overloading
+[2025-05-01 19:40:30] Input: exit
+[2025-05-02 15:30:40] Input: hi
+[2025-05-02 15:30:44] Input: quiz
+[2025-05-02 15:30:51] Input: explain
+[2025-05-02 15:30:55] Input: next
+[2025-05-02 15:31:02] Input: quiz pythin
+[2025-05-02 15:31:08] Input: quiz python
+[2025-05-02 15:31:33] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 15:31:34] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 15:31:43] Input: exit
+[2025-05-02 15:32:22] Input: exit
+[2025-05-02 15:32:28] Input: hi
+[2025-05-02 15:32:34] Input: quiz python
+[2025-05-02 15:32:37] Input: next
+[2025-05-02 15:32:42] Concept: python, Question: What are 'dataclasses' in Python?, Answer: b
+[2025-05-02 15:32:50] Concept: python, Question: What is a generator in Python?, Answer: c
+[2025-05-02 15:32:52] Concept: python, Question: What is a list comprehension in Python?, Answer: c
+[2025-05-02 15:32:53] Concept: python, Question: What does the 'pandas' library in Python handle?, Answer: c
+[2025-05-02 15:32:53] Concept: python, Question: What is a decorator in Python?, Answer: c
+[2025-05-02 15:32:55] Input: 
+[2025-05-02 15:32:58] Input: exit
+[2025-05-02 15:34:04] Input: exit
+[2025-05-02 15:41:58] Input: hi i want test C++
+[2025-05-02 15:42:06] Input: test C++
+[2025-05-02 15:44:12] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 15:44:18] Input: exit
+[2025-05-02 15:47:04] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 15:47:07] Input: exit
+[2025-05-02 15:47:12] Input: hi
+[2025-05-02 15:47:12] Input: 
+[2025-05-02 15:47:22] Input: explain classes in python
+[2025-05-02 15:48:31] Input: make quiz
+[2025-05-02 15:48:36] Input: next
+[2025-05-02 17:18:48] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 17:18:49] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 17:18:53] Input: exit
+[2025-05-02 17:22:31] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 17:22:50] Input: quiz python
+[2025-05-02 17:31:12] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 17:31:15] Input: exit
+[2025-05-02 17:31:21] Input: hi
+[2025-05-02 17:31:29] Input: explain classes
+[2025-05-02 17:31:35] Input: 
+[2025-05-02 17:31:38] Input: hi 
+[2025-05-02 17:31:45] Input: wassup
+[2025-05-02 17:31:47] Input: ef
+[2025-05-02 17:31:47] Input: da
+[2025-05-02 17:31:49] Input: awd
+[2025-05-02 17:38:36] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 17:38:37] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 17:38:40] Input: exit
+[2025-05-02 17:39:10] Input: ef
+[2025-05-02 17:39:14] Input: wassup
+[2025-05-02 17:39:19] Input: fuck
+[2025-05-02 17:39:33] Input: clear
+[2025-05-02 17:40:05] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 17:40:11] Input: exit
+[2025-05-02 17:42:09] Input: exit
+[2025-05-02 17:42:19] Input: oop
+[2025-05-02 18:47:24] Input: hi
+[2025-05-02 18:47:33] Input: hi can you make a python quiz
+[2025-05-02 18:47:58] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 18:48:02] Input: exit
+[2025-05-02 18:50:38] Input: hi can you make python quiz for me
+[2025-05-02 18:50:46] Input: exit
+[2025-05-02 18:51:10] Input: hi quiz python
+[2025-05-02 18:52:25] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 18:52:28] Input: exit
+[2025-05-02 18:52:46] Input: hi can you make a quiz on python
+[2025-05-02 18:52:54] Input: next
+[2025-05-02 18:52:59] Concept: python, Question: What is 'pathlib' in Python?, Answer: b
+[2025-05-02 18:53:09] Concept: python, Question: What is a list comprehension in Python?, Answer: a
+[2025-05-02 18:53:21] Concept: python, Question: What is the purpose of 'docstring' in Python?, Answer: b
+[2025-05-02 18:53:34] Concept: python, Question: What does the 'pandas' library in Python handle?, Answer: data analysis and mainpulation
+[2025-05-02 18:53:48] Concept: python, Question: What are 'dataclasses' in Python?, Answer: b
+[2025-05-02 18:53:50] Input: 
+[2025-05-02 18:54:00] Input: explain docstring
+[2025-05-02 18:55:10] Input: explain dynamic programming
+[2025-05-02 18:55:20] Input: explain dynamic
+[2025-05-02 18:55:33] Input: explain divide and conquer
+[2025-05-02 18:57:34] Input: quiz C++
+[2025-05-02 18:57:56] Input: next
+[2025-05-02 18:58:10] Input: c++
+[2025-05-02 18:58:16] Input: quiz c++
+[2025-05-02 18:58:21] Input: next
+[2025-05-02 18:58:24] Input: quiz cpp
+[2025-05-02 18:58:30] Input: next
+[2025-05-02 19:00:56] Input: can you explain python and make a quiz
+[2025-05-02 19:01:08] Input: explain divide
+[2025-05-02 19:01:17] Input: classes
+[2025-05-02 19:02:31] Input: exit
+[2025-05-02 19:19:31] Input: hi can you make C++ quiz
+[2025-05-02 19:19:40] Input: next
+[2025-05-02 19:19:47] Input: c++ quiz
+[2025-05-02 19:19:49] Input: next
+[2025-05-02 19:19:56] Input: cpp quiz
+[2025-05-02 19:19:59] Input: next
+[2025-05-02 19:22:11] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 19:22:15] Input: explain loops
+[2025-05-02 19:22:22] Input: explain loop
+[2025-05-02 19:22:27] Input: explain oop
+[2025-05-02 19:22:32] Input: quiz oop
+[2025-05-02 19:22:38] Input: clear
+[2025-05-02 19:22:41] Input: quiz oop
+[2025-05-02 19:23:12] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 19:23:15] Input: exit
+[2025-05-02 19:23:23] Input: explain oop
+[2025-05-02 19:23:27] Input: quiz oop
+[2025-05-02 19:23:30] Input: next
+[2025-05-02 19:24:58] Concept: oop, Question: What is method overriding in OOP?, Answer: a
+[2025-05-02 19:24:58] Concept: oop, Question: What is encapsulation in OOP?, Answer: a
+[2025-05-02 19:24:58] Concept: oop, Question: What is dynamic binding in OOP?, Answer: a
+[2025-05-02 19:24:59] Concept: oop, Question: What is a sealed class in OOP?, Answer: a
+[2025-05-02 19:25:00] Concept: oop, Question: What is an interface in OOP?, Answer: a
+[2025-05-02 19:25:17] Input: quiz and explain oop
+[2025-05-02 19:25:24] Input: clear
+[2025-05-02 19:25:34] Input: explain and quiz oop
+[2025-05-02 19:30:22] Input: exit
+[2025-05-02 19:30:45] Input: quiz cpp
+[2025-05-02 19:30:47] Input: next
+[2025-05-02 19:30:56] Input: quiz C++
+[2025-05-02 19:46:53] Input: exit
+[2025-05-02 19:48:51] Input: quiz cpp
+[2025-05-02 19:48:53] Input: next
+[2025-05-02 19:49:20] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 19:49:24] Input: exit
+[2025-05-02 19:49:29] Input: quiz cpp
+[2025-05-02 19:49:31] Input: next
+[2025-05-02 19:49:37] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 19:49:42] Input: quiz c
+[2025-05-02 19:49:45] Input: next
+[2025-05-02 19:50:03] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 19:50:07] Input: exit
+[2025-05-02 19:51:19] Input: quiz c
+[2025-05-02 19:51:20] Input: next
+[2025-05-02 19:52:34] Input: exit
+[2025-05-02 19:52:53] Input: quiz c
+[2025-05-02 19:52:55] Input: next
+[2025-05-02 19:53:40] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 19:53:45] Input: exit
+[2025-05-02 19:54:11] Input: quiz c
+[2025-05-02 19:54:15] Input: nex
+[2025-05-02 19:54:19] Input: next
+[2025-05-02 19:55:10] Input: exit
+[2025-05-02 19:56:02] Input: quiz c
+[2025-05-02 19:56:04] Input: next
+[2025-05-02 19:56:12] Input: quiz filter
+[2025-05-02 19:56:19] Input: next
+[2025-05-02 19:58:28] Input: exit
+[2025-05-02 20:07:25] Input: quiz cpp
+[2025-05-02 20:07:27] Input: next
+[2025-05-02 20:09:14] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:09:18] Input: exit
+[2025-05-02 20:09:23] Input: quiz cpp
+[2025-05-02 20:09:26] Input: next
+[2025-05-02 20:09:32] Input: quiz C++
+[2025-05-02 20:09:34] Input: next
+[2025-05-02 20:09:45] Input: quiz arrays
+[2025-05-02 20:09:47] Input: next
+[2025-05-02 20:10:57] Input: quiz python
+[2025-05-02 20:10:59] Input: next
+[2025-05-02 20:11:02] Concept: python, Question: What is a decorator in Python?, Answer: d
+[2025-05-02 20:11:03] Concept: python, Question: What are 'dataclasses' in Python?, Answer: d
+[2025-05-02 20:11:03] Concept: python, Question: What is a list comprehension in Python?, Answer: d
+[2025-05-02 20:11:03] Concept: python, Question: What does the 'zip' function do in Python?, Answer: d
+[2025-05-02 20:11:04] Concept: python, Question: What is the purpose of 'docstring' in Python?, Answer: d
+[2025-05-02 20:12:08] Input: explain C++
+[2025-05-02 20:12:14] Input: explain python
+[2025-05-02 20:12:37] Input: Policy-Based Design Pattern
+[2025-05-02 20:12:45] Input: explain Policy-Based Design Pattern
+[2025-05-02 20:13:42] Input: explain classes
+[2025-05-02 20:14:38] Input: explain closure
+[2025-05-02 20:15:01] Input: explain Closure
+[2025-05-02 20:15:15] Input: explain closure
+[2025-05-02 20:15:19] Input: exit
+[2025-05-02 20:21:47] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:21:52] Input: exit
+[2025-05-02 20:22:02] Input: quiz cpp
+[2025-05-02 20:22:04] Input: next
+[2025-05-02 20:22:14] Concept: unknown, Question: What is move semantics in C++?, Answer: a
+[2025-05-02 20:22:17] Concept: unknown, Question: What is a variadic template in C++?, Answer: b
+[2025-05-02 20:22:18] Concept: unknown, Question: What does 'constexpr' mean in C++?, Answer: c
+[2025-05-02 20:22:18] Concept: unknown, Question: What is the purpose of a smart pointer in C++?, Answer: d
+[2025-05-02 20:22:19] Concept: unknown, Question: What is CRTP in C++?, Answer: a
+[2025-05-02 20:22:22] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:22:31] Input: quiz c
+[2025-05-02 20:22:32] Input: next
+[2025-05-02 20:23:11] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:27:13] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:27:13] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:27:18] Input: quiz cpp
+[2025-05-02 20:27:20] Input: next
+[2025-05-02 20:27:25] Concept: unknown, Question: What is move semantics in C++?, Answer: a
+[2025-05-02 20:27:27] Concept: unknown, Question: What is the purpose of a smart pointer in C++?, Answer: b
+[2025-05-02 20:27:28] Concept: unknown, Question: What does 'noexcept' specify in C++?, Answer: c
+[2025-05-02 20:27:28] Concept: unknown, Question: What does 'constexpr' mean in C++?, Answer: d
+[2025-05-02 20:27:29] Concept: unknown, Question: What is an inline function in C++?, Answer: a
+[2025-05-02 20:27:31] Input: exit
+[2025-05-02 20:28:51] Input: explain python
+[2025-05-02 20:28:57] Input: classes
+[2025-05-02 20:30:23] Input: quiz clang
+[2025-05-02 20:30:25] Input: next
+[2025-05-02 20:30:39] Input: quiz abstract base class
+[2025-05-02 20:30:42] Input: next
+[2025-05-02 20:30:49] Input: quiz c++
+[2025-05-02 20:30:53] Input: quiz cpp
+[2025-05-02 20:31:08] Input: clear
+[2025-05-02 20:31:12] Input: quiz cpp
+[2025-05-02 20:31:17] Input: next
+[2025-05-02 20:31:28] Concept: unknown, Question: What is a variadic template in C++?, Answer: c
+[2025-05-02 20:31:29] Concept: unknown, Question: What is CRTP in C++?, Answer: c
+[2025-05-02 20:31:29] Concept: unknown, Question: What is the STL in C++?, Answer: c
+[2025-05-02 20:31:29] Concept: unknown, Question: What is move semantics in C++?, Answer: c
+[2025-05-02 20:31:30] Concept: unknown, Question: What does 'noexcept' specify in C++?, Answer: c
+[2025-05-02 20:31:38] Input: clear
+[2025-05-02 20:32:05] Input: quiz java
+[2025-05-02 20:32:08] Input: next
+[2025-05-02 20:40:11] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:40:20] Input: exit
+[2025-05-02 20:40:33] Input: hi make quiz clang
+[2025-05-02 20:40:35] Input: next
+[2025-05-02 20:41:30] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 20:41:34] Input: exit
+[2025-05-02 20:41:41] Input: quiz cpp
+[2025-05-02 20:41:43] Input: next
+[2025-05-02 20:41:45] Concept: unknown, Question: What is move semantics in C++?, Answer: b
+[2025-05-02 20:41:45] Concept: unknown, Question: What is the STL in C++?, Answer: b
+[2025-05-02 20:41:45] Concept: unknown, Question: What does 'noexcept' specify in C++?, Answer: b
+[2025-05-02 20:41:46] Concept: unknown, Question: What is CRTP in C++?, Answer: b
+[2025-05-02 20:41:46] Concept: unknown, Question: What is RAII in C++?, Answer: b
+[2025-05-02 20:41:54] Input: quiz clang
+[2025-05-02 20:41:56] Input: next
+[2025-05-02 20:42:27] Input: exit
+[2025-05-02 20:43:55] Input: quiz python
+[2025-05-02 20:43:57] Input: next
+[2025-05-02 20:43:59] Concept: python, Question: What is a generator in Python?, Answer: b
+[2025-05-02 20:43:59] Concept: python, Question: What are 'dataclasses' in Python?, Answer: b
+[2025-05-02 20:43:59] Concept: python, Question: What is a list comprehension in Python?, Answer: b
+[2025-05-02 20:43:59] Concept: python, Question: What is 'pathlib' in Python?, Answer: b
+[2025-05-02 20:44:00] Concept: python, Question: What is the purpose of 'docstring' in Python?, Answer: b
+[2025-05-02 20:44:05] Input: quiz c++
+[2025-05-02 20:44:06] Input: next
+[2025-05-02 21:02:35] Input: explscala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 21:02:40] Input: exit
+[2025-05-02 21:02:46] Input: quiz c
+[2025-05-02 21:02:49] Input: next
+[2025-05-02 21:03:05] Input: quiz c++
+[2025-05-02 21:03:08] Input: next
+[2025-05-02 21:04:37] Input: exit
+[2025-05-02 21:04:42] Input: quiz c++
+[2025-05-02 21:04:47] Input: clear
+[2025-05-02 21:04:49] Input: quiz cpp
+[2025-05-02 21:04:54] Input: next
+[2025-05-02 21:04:56] Concept: unknown, Question: What is an inline function in C++?, Answer: b
+[2025-05-02 21:04:56] Concept: unknown, Question: What is move semantics in C++?, Answer: b
+[2025-05-02 21:04:56] Concept: unknown, Question: What does 'constexpr' mean in C++?, Answer: b
+[2025-05-02 21:04:56] Concept: unknown, Question: What is CRTP in C++?, Answer: b
+[2025-05-02 21:04:56] Concept: unknown, Question: What is a variadic template in C++?, Answer: b
+[2025-05-02 21:06:03] Input: quiz scala
+[2025-05-02 21:06:05] Input: next
+[2025-05-02 21:06:08] Concept: scala, Question: What is the purpose of an Option in Scala?, Answer: d
+[2025-05-02 21:06:08] Concept: scala, Question: What is a companion object in Scala?, Answer: d
+[2025-05-02 21:06:08] Concept: scala, Question: What is pattern matching in Scala?, Answer: d
+[2025-05-02 21:06:09] Concept: scala, Question: What is a for comprehension in Scala?, Answer: d
+[2025-05-02 21:06:09] Concept: scala, Question: What is a trait in Scala?, Answer: d
+[2025-05-02 21:06:21] Input: quiz java
+[2025-05-02 21:06:24] Input: next
+[2025-05-02 21:06:42] Input: quiz Java
+[2025-05-02 21:06:45] Input: java
+[2025-05-02 21:06:47] Input: clear
+[2025-05-02 21:07:02] Input: clear
+[2025-05-02 21:07:06] Input: quiz JavaScript
+[2025-05-02 21:07:08] Input: next
+[2025-05-02 21:07:09] Concept: javascript, Question: What is the spread operator in JavaScript?, Answer: b
+[2025-05-02 21:07:10] Concept: javascript, Question: What is hoisting in JavaScript?, Answer: b
+[2025-05-02 21:07:10] Concept: javascript, Question: What is a WeakMap in JavaScript?, Answer: b
+[2025-05-02 21:07:10] Concept: javascript, Question: What is an arrow function in JavaScript?, Answer: b
+[2025-05-02 21:07:10] Concept: javascript, Question: What is the event loop in JavaScript?, Answer: b
+[2025-05-02 21:07:23] Input: quiz DSA
+[2025-05-02 21:07:27] Input: next
+[2025-05-02 21:07:36] Input: quiz OOp
+[2025-05-02 21:07:38] Input: next
+[2025-05-02 21:07:39] Concept: oop, Question: What is dynamic binding in OOP?, Answer: b
+[2025-05-02 21:07:39] Concept: oop, Question: What is an abstract class in OOP?, Answer: b
+[2025-05-02 21:07:39] Concept: oop, Question: What is encapsulation in OOP?, Answer: b
+[2025-05-02 21:07:40] Concept: oop, Question: What is a sealed class in OOP?, Answer: b
+[2025-05-02 21:07:45] Concept: oop, Question: What is method overriding in OOP?, Answer: b
+[2025-05-02 21:07:45] Input: b
+[2025-05-02 21:07:50] Input: quiz loop
+[2025-05-02 21:07:56] Input: quiz loops
+[2025-05-02 21:08:03] Input: clear
+[2025-05-02 21:08:06] Input: quiz Loops
+[2025-05-02 21:08:25] Input: clear
+[2025-05-02 21:08:29] Input: quiz Loops
+[2025-05-02 21:08:31] Input: clear
+[2025-05-02 21:08:37] Input: quiz Variables
+[2025-05-02 21:08:39] Input: next
+[2025-05-02 21:09:54] Input: quiz general
+[2025-05-02 21:09:56] Input: next
+[2025-05-02 21:10:32] Input: quiz Oop
+[2025-05-02 21:10:34] Input: next
+[2025-05-02 21:10:35] Concept: oop, Question: What is an abstract class in OOP?, Answer: bb
+[2025-05-02 21:10:36] Concept: oop, Question: What is method overriding in OOP?, Answer: b
+[2025-05-02 21:10:36] Concept: oop, Question: What is abstraction in OOP?, Answer: b
+[2025-05-02 21:10:36] Concept: oop, Question: What is an interface in OOP?, Answer: b
+[2025-05-02 21:10:37] Concept: oop, Question: What is polymorphism in OOP?, Answer: b
+[2025-05-02 21:10:44] Input: quiz ed
+[2025-05-02 21:24:16] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 21:24:21] Input: exit
+[2025-05-02 21:24:26] Input: quiz
+[2025-05-02 21:24:39] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-02 21:24:42] Input: exit
+[2025-05-02 21:24:47] Input: quiz
+[2025-05-02 21:24:56] Input: oop
+[2025-05-02 21:25:01] Input: quiz oop
+[2025-05-02 21:25:59] Input: exit
+[2025-05-02 21:27:22] Input: quiz oop
+[2025-05-02 21:27:24] Input: next
+[2025-05-02 21:27:25] Concept: oop, Question: What is an interface in OOP?, Answer: b
+[2025-05-02 21:27:26] Concept: oop, Question: What is polymorphism in OOP?, Answer: b
+[2025-05-02 21:27:26] Concept: oop, Question: What is abstraction in OOP?, Answer: b
+[2025-05-02 21:27:26] Concept: oop, Question: What is a sealed class in OOP?, Answer: b
+[2025-05-02 21:27:27] Concept: oop, Question: What is an abstract class in OOP?, Answer: b
+[2025-05-02 21:27:30] Input: exit
+[2025-05-03 02:27:21] Input: quiz 
+[2025-05-03 02:27:57] Input: quiz Algebraic Data Type 
+[2025-05-03 02:28:00] Input: next
+[2025-05-03 02:29:10] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 02:29:16] Input: Algebraic Data Type
+[2025-05-03 02:29:21] Input: quiz Algebraic Data Type
+[2025-05-03 02:33:47] Input: why it tak
+[2025-05-03 02:33:50] Input: exit
+[2025-05-03 02:34:04] Input: quiz Algebraic Data Type
+[2025-05-03 02:34:08] Input: next
+[2025-05-03 02:39:56] Input: exit
+[2025-05-03 02:40:04] Input: quiz c++
+[2025-05-03 02:40:15] Input: clear
+[2025-05-03 02:40:26] Input: quiz Algebraic Data Type
+[2025-05-03 02:40:38] Input: next
+[2025-05-03 02:41:01] Concept: algebraic data type, Question: What is a practical example of an algebraic data type in Scala?, Answer: b
+[2025-05-03 02:41:20] Concept: algebraic data type, Question: What is an algebraic data type?, Answer: b
+[2025-05-03 02:41:30] Concept: algebraic data type, Question: Which language emphasizes algebraic data types?, Answer: a
+[2025-05-03 02:41:36] Concept: algebraic data type, Question: What is a common use of algebraic data types in functional programming?, Answer: b
+[2025-05-03 02:41:38] Concept: algebraic data type, Question: What is the benefit of using algebraic data types in programming?, Answer: b
+[2025-05-03 02:41:43] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 02:41:52] Input: explain Algebraic Data Type
+[2025-05-03 02:42:57] Input: exit
+[2025-05-03 02:43:04] Input: quiz python
+[2025-05-03 02:43:06] Input: next
+[2025-05-03 02:43:10] Concept: python, Question: What is the purpose of 'docstring' in Python?, Answer: b
+[2025-05-03 02:43:15] Concept: python, Question: What is 'pathlib' in Python?, Answer: b
+[2025-05-03 02:43:19] Concept: python, Question: What does the 'pandas' library in Python handle?, Answer: b
+[2025-05-03 02:43:30] Concept: python, Question: What is a generator in Python?, Answer: a
+[2025-05-03 02:43:36] Concept: python, Question: What is a context manager in Python?, Answer: v
+[2025-05-03 02:43:45] Input: explain Loops
+[2025-05-03 02:44:17] Input: hi can you make quiz for scala
+[2025-05-03 02:44:20] Input: next
+[2025-05-03 02:44:23] Concept: scala, Question: What is a for comprehension in Scala?, Answer: b
+[2025-05-03 02:44:23] Concept: scala, Question: What is a trait in Scala?, Answer: b
+[2025-05-03 02:44:23] Concept: scala, Question: What does the 'implicit' keyword in Scala do?, Answer: b
+[2025-05-03 02:44:24] Concept: scala, Question: What is a type class in Scala?, Answer: b
+[2025-05-03 02:44:24] Concept: scala, Question: What is a case class in Scala?, Answer: b
+[2025-05-03 02:44:28] Input: exit
+[2025-05-03 02:44:43] Input: quiz c++
+[2025-05-03 02:48:48] Input: exit
+[2025-05-03 02:48:55] Input: quiz c++
+[2025-05-03 02:48:59] Input: next
+[2025-05-03 02:49:05] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 02:49:09] Input: quiz clang
+[2025-05-03 02:49:10] Input: next
+[2025-05-03 02:49:26] Input: quiz Abstract base Class
+[2025-05-03 02:49:28] Input: next
+[2025-05-03 02:49:31] Concept: unknown, Question: What decorator is often used to define an abstract method in Python?, Answer: b
+[2025-05-03 02:49:31] Concept: abstract base class, Question: What is a common use of an abstract base class?, Answer: b
+[2025-05-03 02:49:32] Concept: abstract base class, Question: What module provides support for abstract base classes in Python?, Answer: b
+[2025-05-03 02:49:32] Concept: abstract base class, Question: In which language are abstract base classes commonly used?, Answer: b
+[2025-05-03 02:49:33] Concept: abstract base class, Question: What is an abstract base class in programming?, Answer: a
+[2025-05-03 02:49:43] Input: exit
+[2025-05-03 02:50:04] Input: quiz Cpp
+[2025-05-03 02:50:07] Input: next
+[2025-05-03 02:50:08] Concept: C++, Question: What is a variadic template in C++?, Answer: v
+[2025-05-03 02:50:09] Concept: C++, Question: What is move semantics in C++?, Answer: b
+[2025-05-03 02:50:09] Concept: C++, Question: What is SFINAE in C++?, Answer: b
+[2025-05-03 02:50:09] Concept: C++, Question: What is CRTP in C++?, Answer: b
+[2025-05-03 02:50:10] Concept: C++, Question: What does 'noexcept' specify in C++?, Answer: b
+[2025-05-03 02:50:13] Input: quiz C++
+[2025-05-03 02:50:18] Input: clear
+[2025-05-03 02:50:21] Input: c++
+[2025-05-03 02:50:24] Input: quiz c++
+[2025-05-03 02:50:31] Input: exir
+[2025-05-03 02:50:32] Input: exit
+[2025-05-03 02:52:06] Input: quiz C++
+[2025-05-03 02:52:09] Input: exit
+[2025-05-03 02:52:17] Input: quiz C++
+[2025-05-03 02:52:19] Input: nxet
+[2025-05-03 02:52:23] Input: next
+[2025-05-03 02:52:31] Input: exit
+[2025-05-03 02:58:24] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 02:58:28] Input: exit
+[2025-05-03 03:00:46] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 03:00:50] Input: exit
+[2025-05-03 03:03:08] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 03:03:13] Input: exit
+[2025-05-03 03:03:23] Input: quiz c++
+[2025-05-03 03:03:25] Input: next
+[2025-05-03 03:04:47] Concept: C++, Question: What is an inline function in C++?, Answer: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 03:04:50] Concept: C++, Question: What is a variadic template in C++?, Answer: exit
+[2025-05-03 03:04:52] Concept: C++, Question: What is the STL in C++?, Answer: 4
+[2025-05-03 03:04:52] Concept: C++, Question: What does 'constexpr' mean in C++?, Answer: 4
+[2025-05-03 03:04:53] Concept: C++, Question: What is move semantics in C++?, Answer: 4
+[2025-05-03 03:05:00] Input: exit
+[2025-05-03 03:05:11] Input: quiz c++
+[2025-05-03 03:05:22] Input: exit
+[2025-05-03 03:05:29] Input: quiz c++
+[2025-05-03 03:05:34] Input: next
+[2025-05-03 03:05:55] Concept: C++, Question: What is the purpose of a smart pointer in C++?, Answer: 
+[2025-05-03 03:05:55] Concept: C++, Question: What is a variadic template in C++?, Answer: f
+[2025-05-03 03:05:56] Concept: C++, Question: What is move semantics in C++?, Answer: f
+[2025-05-03 03:05:56] Concept: C++, Question: What does 'noexcept' specify in C++?, Answer: f
+[2025-05-03 03:05:56] Concept: C++, Question: What does 'constexpr' mean in C++?, Answer: f
+[2025-05-03 03:06:00] Input: exit
+[2025-05-03 03:06:06] Input: quiz c++
+[2025-05-03 03:06:08] Input: clear
+[2025-05-03 03:06:11] Input: quiz C++
+[2025-05-03 03:06:13] Input: clear
+[2025-05-03 03:06:19] Input: explain c++
+[2025-05-03 03:06:32] Input: explain encapsulation
+[2025-05-03 03:11:10] Input: 
+[2025-05-03 03:11:23] Input: quiz fold
+[2025-05-03 03:11:25] Input: next
+[2025-05-03 03:11:31] Concept: fold, Question: What is the time complexity of a fold operation in most cases?, Answer: b
+[2025-05-03 03:11:39] Concept: fold, Question: What does fold enable in parallel computing?, Answer: a
+[2025-05-03 03:11:46] Concept: fold, Question: What does the fold operation do in programming?, Answer: b
+[2025-05-03 03:11:48] Concept: fold, Question: What is a common use of fold in functional programming?, Answer: b
+[2025-05-03 03:11:58] Concept: fold, Question: What is a practical example of fold in Scala?, Answer: b
+[2025-05-03 03:12:09] Input: explain trie
+[2025-05-03 03:12:37] Input: explain trie and make quiz c++
+[2025-05-03 03:12:48] Input: clear
+[2025-05-03 03:12:56] Input: quiz c and explain trie
+[2025-05-03 03:13:07] Input: clear
+[2025-05-03 03:14:06] Input: explain 
+[2025-05-03 03:14:11] Input: trie
+[2025-05-03 03:14:16] Input: quiz
+[2025-05-03 03:14:26] Input: quiz inheritance
+[2025-05-03 03:14:29] Input: clear
+[2025-05-03 03:14:32] Input: quiz clang
+[2025-05-03 03:14:35] Input: next
+[2025-05-03 03:15:48] Input: exit
+[2025-05-03 03:15:56] Input: quiz c
+[2025-05-03 03:16:01] Input: next
+[2025-05-03 03:16:41] Input: exit
+[2025-05-03 03:16:48] Input: quiz c
+[2025-05-03 03:16:51] Input: next
+[2025-05-03 03:19:38] Input: quiz Code Refactoring
+[2025-05-03 03:19:40] Input: next
+[2025-05-03 03:19:41] Concept: code refactoring, Question: What is code refactoring in programming?, Answer: b
+[2025-05-03 03:19:42] Concept: code refactoring, Question: What is a common technique in code refactoring?, Answer: b
+[2025-05-03 03:19:42] Concept: code refactoring, Question: What is a benefit of code refactoring?, Answer: b
+[2025-05-03 03:19:42] Concept: code refactoring, Question: In which language can code refactoring be applied?, Answer: b
+[2025-05-03 03:19:43] Concept: code refactoring, Question: What is a practical example of code refactoring?, Answer: b
+[2025-05-03 03:20:03] Input: quiz Loops
+[2025-05-03 03:20:35] Input: exit
+[2025-05-03 03:20:48] Input: quiz Loops
+[2025-05-03 03:20:52] Input: clear
+[2025-05-03 03:24:02] Input: exit
+[2025-05-03 03:24:13] Input: quiz c
+[2025-05-03 03:24:15] Input: next
+[2025-05-03 03:24:28] Concept: c, Question: Which of these is the correct syntax for a `for` loop in C?, Answer: a
+[2025-05-03 03:24:29] Concept: c, Question: What does the `return` keyword do in a function?, Answer: b
+[2025-05-03 03:24:30] Concept: c, Question: Which C library provides memory allocation functions?, Answer: b
+[2025-05-03 03:24:30] Concept: c, Question: What is the purpose of `#include <stdio.h>`?, Answer: b
+[2025-05-03 03:24:30] Concept: unknown, Question: What does `printf` return?, Answer: b
+[2025-05-03 03:24:42] Input: quiz Loops
+[2025-05-03 03:24:58] Input: quiz object orientd programming
+[2025-05-03 03:25:06] Input: next
+[2025-05-03 03:25:12] Concept: oop, Question: What is abstraction in OOP?, Answer: exit
+[2025-05-03 03:26:45] Concept: oop, Question: What is an interface in OOP?, Answer: c
+[2025-05-03 03:26:45] Concept: oop, Question: What is a sealed class in OOP?, Answer: c
+[2025-05-03 03:26:45] Concept: oop, Question: What is an abstract class in OOP?, Answer: c
+[2025-05-03 03:26:46] Concept: oop, Question: What is method overriding in OOP?, Answer: c
+[2025-05-03 03:26:50] Input: exit
+[2025-05-03 03:26:55] Input: quiz v
+[2025-05-03 03:26:59] Input: quiz c
+[2025-05-03 03:27:01] Input: next
+[2025-05-03 03:27:47] Input: quiz c
+[2025-05-03 03:27:50] Input: nxet
+[2025-05-03 03:27:52] Input: next
+[2025-05-03 03:28:40] Input: explain Loop Architecture
+[2025-05-03 03:34:25] Input: exit
+[2025-05-03 03:34:38] Input: hi make quiz for python
+[2025-05-03 03:34:46] Input: clear
+[2025-05-03 03:34:56] Input: make quiz cpython
+[2025-05-03 03:35:02] Input: next
+[2025-05-03 03:35:17] Concept: python, Question: What is a list comprehension in Python?, Answer: b
+[2025-05-03 03:35:17] Concept: python, Question: What is a metaclass in Python?, Answer: b
+[2025-05-03 03:35:17] Concept: python, Question: What is the purpose of 'docstring' in Python?, Answer: b
+[2025-05-03 03:35:18] Concept: python, Question: What is a decorator in Python?, Answer: b
+[2025-05-03 03:35:18] Concept: python, Question: What is 'pathlib' in Python?, Answer: b
+[2025-05-03 03:35:32] Input: quiz c
+[2025-05-03 03:35:34] Input: next
+[2025-05-03 03:35:56] Concept: c, Question: Which of these is the correct syntax for a `for` loop in C?, Answer: for(inti =0; i<10 ;i++)
+[2025-05-03 03:37:05] Concept: c, Question: Which C library provides memory allocation functions?, Answer: stdlib.h
+[2025-05-03 03:37:12] Concept: c, Question: What is the result of `5 / 2` in C?, Answer: 2
+[2025-05-03 03:37:21] Concept: c, Question: What is the purpose of `#include <stdio.h>`?, Answer: a
+[2025-05-03 03:37:30] Concept: unknown, Question: What does `printf` return?, Answer: c
+[2025-05-03 03:37:40] Input: exit
+[2025-05-03 03:38:10] Input: quiz java
+[2025-05-03 03:38:22] Input: quiz javascript
+[2025-05-03 03:38:24] Input: next
+[2025-05-03 03:38:26] Concept: javascript, Question: What is event bubbling in JavaScript?, Answer: b
+[2025-05-03 03:38:26] Concept: javascript, Question: What is the spread operator in JavaScript?, Answer: b
+[2025-05-03 03:38:26] Concept: javascript, Question: What is a promise in JavaScript?, Answer: b
+[2025-05-03 03:38:27] Concept: javascript, Question: What is hoisting in JavaScript?, Answer: b
+[2025-05-03 03:38:27] Concept: javascript, Question: What is a WeakMap in JavaScript?, Answer: b
+[2025-05-03 03:38:46] Input: quiz DSA
+[2025-05-03 03:38:55] Input: quiz java
+[2025-05-03 03:42:31] Input: exit
+[2025-05-03 03:42:39] Input: quiz dsa
+[2025-05-03 03:42:46] Input: quiz java
+[2025-05-03 03:45:31] Input: quiz Loop
+[2025-05-03 03:45:35] Input: exit
+[2025-05-03 03:45:41] Input: quiz java
+[2025-05-03 03:45:43] Input: next
+[2025-05-03 03:45:45] Concept: java, Question: What is the Comparable interface in Java used for?, Answer: b
+[2025-05-03 03:45:45] Concept: java, Question: What is a CompletableFuture in Java?, Answer: b
+[2025-05-03 03:45:45] Concept: java, Question: What is JDBC in Java?, Answer: b
+[2025-05-03 03:45:45] Concept: java, Question: What is the Cloneable interface in Java used for?, Answer: b
+[2025-05-03 03:45:46] Concept: java, Question: What is the Stream API in Java?, Answer: b
+[2025-05-03 03:45:50] Input: quiz dsa
+[2025-05-03 03:45:52] Input: next
+[2025-05-03 03:47:29] Concept: dsa, Question: What is a red-black tree in DSA?, Answer: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 03:47:32] Concept: unknown, Question: What is a binary search algorithm?, Answer: exiy
+[2025-05-03 03:47:41] Input: quiz c
+[2025-05-03 03:47:44] Input: next
+[2025-05-03 17:24:48] Input: hi can you explain oop
+[2025-05-03 17:24:58] Input: explain and quiz oop
+[2025-05-03 17:25:15] Input: 
+[2025-05-03 17:25:21] Input: quiz oop
+[2025-05-03 17:25:24] Input: nexy
+[2025-05-03 17:25:26] Input: next
+[2025-05-03 17:25:28] Concept: oop, Question: What is an abstract class in OOP?, Answer: b
+[2025-05-03 17:25:28] Concept: oop, Question: What is an interface in OOP?, Answer: b
+[2025-05-03 17:25:28] Concept: oop, Question: What is method overriding in OOP?, Answer: b
+[2025-05-03 17:25:28] Concept: oop, Question: What is abstraction in OOP?, Answer: b
+[2025-05-03 17:25:29] Concept: oop, Question: What is inheritance in OOP?, Answer: b
+[2025-05-03 17:25:41] Input: explain and quiz c++
+[2025-05-03 17:25:45] Input: next
+[2025-05-03 17:25:50] Concept: C++, Question: What does 'constexpr' mean in C++?, Answer: b
+[2025-05-03 17:25:50] Concept: C++, Question: What is CRTP in C++?, Answer: b
+[2025-05-03 17:25:51] Concept: C++, Question: What is SFINAE in C++?, Answer: b
+[2025-05-03 17:25:51] Concept: C++, Question: What is move semantics in C++?, Answer: b
+[2025-05-03 17:25:52] Concept: C++, Question: What is a variadic template in C++?, Answer: b
+[2025-05-03 17:26:00] Input: quiz and explain oop
+[2025-05-03 17:26:02] Input: next
+[2025-05-03 17:26:34] Input: quiz oop
+[2025-05-03 17:26:36] Input: next
+[2025-05-03 17:26:38] Concept: oop, Question: What is an abstract class in OOP?, Answer: b
+[2025-05-03 17:26:38] Concept: oop, Question: What is a sealed class in OOP?, Answer: b
+[2025-05-03 17:26:38] Concept: oop, Question: What is an interface in OOP?, Answer: b
+[2025-05-03 17:26:38] Concept: oop, Question: What is polymorphism in OOP?, Answer: b
+[2025-05-03 17:26:39] Concept: oop, Question: What is method overriding in OOP?, Answer: b
+[2025-05-03 17:28:44] Input: exit
+[2025-05-03 17:29:00] Input: explain and quiz classes
+[2025-05-03 17:29:36] Input: exit
+[2025-05-03 17:29:48] Input: explain and quiz trie
+[2025-05-03 17:29:52] Input: quiz trie
+[2025-05-03 17:29:54] Input: next
+[2025-05-03 17:30:14] Input: quiz Functions
+[2025-05-03 17:30:16] Input: next
+[2025-05-03 17:30:43] Input: exit
+[2025-05-03 17:30:51] Input: quiz Functions
+[2025-05-03 17:30:54] Input: next
+[2025-05-03 17:31:54] Input: exit
+[2025-05-03 17:32:07] Input: quiz functions
+[2025-05-03 17:32:09] Input: next
+[2025-05-03 17:33:20] Input: exit
+[2025-05-03 17:33:27] Input: quiz Loops
+[2025-05-03 17:33:29] Input: next
+[2025-05-03 17:33:43] Input: quiz Functions
+[2025-05-03 17:33:45] Input: next
+[2025-05-03 17:33:47] Concept: unknown, Question: What is a pure function in programming?, Answer: b
+[2025-05-03 17:33:47] Concept: unknown, Question: What does a function signature include?, Answer: b
+[2025-05-03 17:33:47] Concept: unknown, Question: What is a function in programming?, Answer: b
+[2025-05-03 17:33:47] Concept: unknown, Question: What is a variadic function in programming?, Answer: b
+[2025-05-03 17:33:48] Concept: unknown, Question: What is a higher-order function in programming?, Answer: b
+[2025-05-03 17:49:16] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 17:49:28] Input: quiz dynamic programming
+[2025-05-03 17:49:29] Input: next
+[2025-05-03 17:50:34] Input: quiz module
+[2025-05-03 17:50:35] Input: next
+[2025-05-03 17:50:37] Concept: module, Question: What is a benefit of using modules?, Answer: b
+[2025-05-03 17:50:37] Concept: module, Question: In which language are modules a core feature?, Answer: b
+[2025-05-03 17:50:37] Concept: module, Question: What is a module in programming?, Answer: b
+[2025-05-03 17:50:37] Concept: module, Question: What keyword is used to import a module in Python?, Answer: b
+[2025-05-03 17:50:38] Concept: module, Question: What does a module typically contain?, Answer: b
+[2025-05-03 17:50:40] Input: quiz 
+[2025-05-03 17:50:48] Input: quiz pattern matching
+[2025-05-03 17:50:50] Input: next
+[2025-05-03 17:50:51] Concept: pattern matching, Question: What is pattern matching in programming?, Answer: b
+[2025-05-03 17:50:51] Concept: pattern matching, Question: What is a guard clause in pattern matching?, Answer: b
+[2025-05-03 17:50:51] Concept: pattern matching, Question: What is an example of pattern matching in Scala?, Answer: b
+[2025-05-03 17:50:51] Concept: pattern matching, Question: What does pattern matching allow in functional programming?, Answer: b
+[2025-05-03 17:50:52] Concept: pattern matching, Question: What does pattern matching ensure in exhaustive checks?, Answer: b
+[2025-05-03 17:50:53] Input: quiz
+[2025-05-03 17:51:01] Input: quiz trait
+[2025-05-03 17:51:03] Input: next
+[2025-05-03 17:51:04] Concept: trait, Question: What does a trait with abstract methods require?, Answer: b
+[2025-05-03 17:51:04] Concept: trait, Question: What is a trait often used for in Scala?, Answer: b
+[2025-05-03 17:51:04] Concept: trait, Question: What is a common use of traits in Scala?, Answer: b
+[2025-05-03 17:51:04] Concept: trait, Question: How does a trait differ from an interface?, Answer: b
+[2025-05-03 17:51:10] Concept: trait, Question: What can a trait in Scala contain?, Answer: b
+[2025-05-03 17:51:14] Input: qiz
+[2025-05-03 17:51:18] Input: qiuz
+[2025-05-03 17:51:20] Input: quiz
+[2025-05-03 17:51:32] Input: quiz property decorator
+[2025-05-03 17:51:33] Input: next
+[2025-05-03 17:51:35] Concept: property decorator, Question: What is a common use of property decorators?, Answer: b
+[2025-05-03 17:51:35] Concept: unknown, Question: What decorator is used with @property to define a setter in Python?, Answer: b
+[2025-05-03 17:51:35] Concept: property decorator, Question: What is a property decorator in Python?, Answer: b
+[2025-05-03 17:51:36] Concept: property decorator, Question: What is a benefit of using property decorators?, Answer: b
+[2025-05-03 17:51:36] Concept: property decorator, Question: What does the @property decorator do in Python?, Answer: b
+[2025-05-03 17:51:38] Input: wassup
+[2025-05-03 17:51:42] Input: h'
+[2025-05-03 17:52:40] Input: quiz Variables
+[2025-05-03 17:53:06] Input: exit
+[2025-05-03 17:54:53] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 17:54:55] Input: exit
+[2025-05-03 17:55:02] Input: quiz Variables
+[2025-05-03 17:57:22] Input: exit
+[2025-05-03 17:57:36] Input: quiz variables
+[2025-05-03 17:58:03] Input: exit
+[2025-05-03 17:58:34] Input: quiz variables
+[2025-05-03 17:58:49] Input: quiz app
+[2025-05-03 17:58:53] Input: explain app
+[2025-05-03 17:59:06] Input: exit
+[2025-05-03 18:00:46] Input: quiz scala
+[2025-05-03 18:00:48] Input: next
+[2025-05-03 18:00:50] Concept: scala, Question: What is a companion object in Scala?, Answer: b
+[2025-05-03 18:00:51] Concept: scala, Question: What is a for comprehension in Scala?, Answer: b
+[2025-05-03 18:00:51] Concept: scala, Question: What is a trait in Scala?, Answer: b
+[2025-05-03 18:00:52] Concept: scala, Question: What is a case class in Scala?, Answer: b
+[2025-05-03 18:00:53] Concept: scala, Question: What is pattern matching in Scala?, Answer: b
+[2025-05-03 18:00:59] Input: quiz Variables
+[2025-05-03 18:02:45] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 18:02:48] Input: exit
+[2025-05-03 18:02:57] Input: exit
+[2025-05-03 18:03:04] Input: quiz var
+[2025-05-03 18:03:06] Input: next
+[2025-05-03 18:03:07] Concept: unknown, Question: What is variable initialization?, Answer: b
+[2025-05-03 18:03:08] Concept: unknown, Question: What is a mutable variable?, Answer: b
+[2025-05-03 18:03:08] Concept: unknown, Question: What is a global variable?, Answer: b
+[2025-05-03 18:03:08] Concept: unknown, Question: What is variable shadowing in programming?, Answer: b
+[2025-05-03 18:03:09] Concept: unknown, Question: What does variable scope refer to?, Answer: b
+[2025-05-03 18:03:33] Input: quiz variables
+[2025-05-03 18:03:35] Input: next
+[2025-05-03 18:04:04] Concept: unknown, Question: What is a constant variable?, Answer: b
+[2025-05-03 18:04:04] Concept: unknown, Question: What is a variable in programming?, Answer: b
+[2025-05-03 18:04:04] Concept: unknown, Question: What is a global variable?, Answer: b
+[2025-05-03 18:04:04] Concept: unknown, Question: What is variable initialization?, Answer: b
+[2025-05-03 18:04:04] Concept: unknown, Question: What is variable shadowing in programming?, Answer: b
+[2025-05-03 18:04:13] Input: quiz dsa
+[2025-05-03 18:06:56] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-03 18:07:00] Input: EXIT
+[2025-05-03 18:07:07] Input: quiz dsa
+[2025-05-03 18:07:14] Input: quiz DSA
+[2025-05-03 18:07:24] Input: exit
+[2025-05-03 18:07:34] Input: quiz dsa
+[2025-05-03 18:07:36] Input: next
+[2025-05-03 18:09:18] Input: quiz DSA
+[2025-05-03 18:09:43] Input: EXIT
+[2025-05-03 18:09:50] Input: QUIZ dsa
+[2025-05-03 18:09:52] Input: nexr
+[2025-05-03 18:09:56] Input: exit
+[2025-05-03 18:10:02] Input: quiz DSA
+[2025-05-03 18:10:15] Input: EXIT
+[2025-05-03 18:10:22] Input: quiz DSA
+[2025-05-03 18:10:28] Input: CLEAR
+[2025-05-03 18:10:33] Input: quiz dsa
+[2025-05-03 18:11:25] Input: EXIT
+[2025-05-03 18:11:31] Input: quiz oop
+[2025-05-03 18:11:33] Input: next
+[2025-05-03 18:11:34] Concept: OOP, Question: What is an abstract class in OOP?, Answer: b
+[2025-05-03 18:11:34] Concept: OOP, Question: What is an interface in OOP?, Answer: b
+[2025-05-03 18:11:35] Concept: OOP, Question: What is a sealed class in OOP?, Answer: b
+[2025-05-03 18:11:35] Concept: OOP, Question: What is encapsulation in OOP?, Answer: b
+[2025-05-03 18:11:35] Concept: OOP, Question: What is dynamic binding in OOP?, Answer: b
+[2025-05-03 18:11:51] Input: exit
+[2025-05-03 18:12:02] Input: quiz arrays
+[2025-05-03 18:12:23] Input: exit
+[2025-05-03 18:12:31] Input: quiz array
+[2025-05-03 18:12:32] Input: next
+[2025-05-03 18:12:36] Concept: unknown, Question: What is array initialization in programming?, Answer: xlear
+[2025-05-03 18:12:38] Concept: unknown, Question: What is a dynamic array?, Answer: clear
+[2025-05-03 18:15:54] Input: quiz Conditionals
+[2025-05-03 18:16:12] Input: exit
+[2025-05-03 18:16:19] Input: quiz Conditionals
+[2025-05-03 18:17:02] Input: exit
+[2025-05-03 18:17:10] Input: quiz Conditionals
+[2025-05-03 18:17:12] Input: next
+[2025-05-03 18:17:28] Input: quiz Flatmap
+[2025-05-03 18:17:34] Input: quiz map
+[2025-05-03 18:18:28] Input: exot
+[2025-05-03 18:18:30] Input: exit
+[2025-05-03 18:18:36] Input: quiz map
+[2025-05-03 18:18:40] Input: nxet
+[2025-05-03 18:18:42] Input: next
+[2025-05-03 18:18:52] Input: quiz pattern matching
+[2025-05-03 18:19:13] Input: exit
+[2025-05-03 18:19:21] Input: quiz pattern matching
+[2025-05-03 18:25:15] Input: exit
+[2025-05-03 18:25:49] Input: quiz dependency injection
+[2025-05-03 18:25:51] Input: next
+[2025-05-03 18:25:53] Concept: Dependency Injection, Question: What is a benefit of dependency injection?, Answer: c
+[2025-05-03 18:25:53] Concept: Dependency Injection, Question: What is dependency injection in programming?, Answer: c
+[2025-05-03 18:25:54] Concept: Dependency Injection, Question: In which language is dependency injection commonly used?, Answer: c
+[2025-05-03 18:25:54] Concept: Dependency Injection, Question: What is a common tool for dependency injection in Java?, Answer: c
+[2025-05-03 18:25:54] Concept: Dependency Injection, Question: What is a practical example of dependency injection?, Answer: c
+[2025-05-03 18:26:15] Input: quiz type hinting
+[2025-05-03 18:26:16] Input: next
+[2025-05-03 18:26:17] Concept: Type Hinting, Question: What module provides advanced type hinting support in Python?, Answer: b
+[2025-05-03 18:26:17] Concept: Type Hinting, Question: In which language is type hinting a feature?, Answer: b
+[2025-05-03 18:26:18] Concept: Type Hinting, Question: What is type hinting in programming?, Answer: b
+[2025-05-03 18:26:18] Concept: Type Hinting, Question: What is a benefit of type hinting?, Answer: b
+[2025-05-03 18:26:18] Concept: unknown, Question: What is an example of a type hint in Python?, Answer: b
+[2025-05-03 18:27:45] Input: quiz serialization
+[2025-05-03 18:27:46] Input: next
+[2025-05-03 18:27:48] Concept: Serialization, Question: What is a benefit of serialization?, Answer: c
+[2025-05-03 18:27:48] Concept: Serialization, Question: What is the opposite process of serialization?, Answer: v
+[2025-05-03 18:27:49] Concept: Serialization, Question: What is serialization in programming?, Answer: v
+[2025-05-03 18:27:49] Concept: Serialization, Question: In which language is serialization commonly used?, Answer: v
+[2025-05-03 18:27:50] Concept: Serialization, Question: What is a common format for serialization?, Answer: b
+[2025-05-03 18:27:50] Input: b
+[2025-05-03 18:27:51] Input: b
+[2025-05-03 18:27:53] Input: exit
+[2025-05-03 18:28:30] Input: explain code Introspection
+[2025-05-03 18:35:26] Input: exit
+[2025-05-03 20:52:46] Input: hola
+[2025-05-03 20:52:55] Input: namaste
+[2025-05-03 20:53:40] Input: give me a challenge on oop
+[2025-05-03 20:54:07] Input: quiz oop
+[2025-05-03 20:54:10] Input: next
+[2025-05-03 20:54:29] Concept: OOP, Question: What is an interface in OOP?, Answer: 2
+[2025-05-03 20:54:31] Concept: OOP, Question: What is dynamic binding in OOP?, Answer: c
+[2025-05-03 20:54:32] Concept: OOP, Question: What is a sealed class in OOP?, Answer: d
+[2025-05-03 20:54:33] Concept: OOP, Question: What is polymorphism in OOP?, Answer: 
+[2025-05-03 20:54:33] Concept: OOP, Question: What is abstraction in OOP?, Answer: s
+[2025-05-03 20:54:34] Input: d
+[2025-05-03 20:54:39] Input: hello
+[2025-05-03 20:54:49] Input: what exactly is encapsulation
+[2025-05-03 20:55:03] Input: explain encapsulation
+[2025-05-03 20:55:12] Input: explain encapsulation
+[2025-05-03 23:31:35] Input: hello
+[2025-05-03 23:31:38] Input: wsg
+[2025-05-03 23:31:51] Input: salute
+[2025-05-03 23:32:04] Input: give me a quiz on dsa
+[2025-05-03 23:32:06] Input: next
+[2025-05-03 23:32:15] Concept: unknown, Question: What is a binary search algorithm?, Answer: b
+[2025-05-03 23:32:22] Concept: DSA, Question: What is an AVL tree in DSA?, Answer: a
+[2025-05-03 23:32:46] Concept: DSA, Question: What is a binary tree in DSA?, Answer: c
+[2025-05-03 23:32:47] Concept: DSA, Question: What is a stack in DSA?, Answer: s
+[2025-05-03 23:32:49] Concept: DSA, Question: What is a trie in DSA?, Answer: s
+[2025-05-03 23:32:53] Input: damn
+[2025-05-03 23:33:18] Input: help me understand loops
+[2025-05-03 23:33:30] Input: what exactly is a map
+[2025-05-03 23:33:50] Input: give me a small quiz on scala
+[2025-05-03 23:33:56] Input: quiz scala
+[2025-05-03 23:34:34] Input: exit
+[2025-05-03 23:34:52] Input: quiz scala
+[2025-05-03 23:35:01] Input: quiz recursion
+[2025-05-03 23:35:14] Input: quiz oop
+[2025-05-03 23:35:16] Input: next
+[2025-05-03 23:35:18] Concept: OOP, Question: What is method overriding in OOP?, Answer: d
+[2025-05-03 23:35:19] Concept: OOP, Question: What is an abstract class in OOP?, Answer: s
+[2025-05-03 23:35:19] Concept: OOP, Question: What is polymorphism in OOP?, Answer: a
+[2025-05-03 23:35:20] Concept: OOP, Question: What is encapsulation in OOP?, Answer: 
+[2025-05-03 23:35:20] Concept: OOP, Question: What is an interface in OOP?, Answer: d
+[2025-05-03 23:35:21] Input: s
+[2025-05-03 23:35:29] Input: quiz clas
+[2025-05-03 23:35:31] Input: quiz class
+[2025-05-03 23:35:36] Input: quiz classes
+[2025-05-03 23:35:59] Input: exit
+[2025-05-03 23:44:10] Input: wsp
+[2025-05-03 23:44:13] Input: hey
+[2025-05-03 23:44:16] Input: hello
+[2025-05-03 23:44:25] Input: quiz classes
+[2025-05-03 23:44:29] Input: quiz scala
+[2025-05-03 23:44:39] Input: quiz python
+[2025-05-03 23:44:48] Input: quiz oop
+[2025-05-03 23:44:51] Input: next
+[2025-05-03 23:44:52] Concept: OOP, Question: What is inheritance in OOP?, Answer: d
+[2025-05-03 23:44:52] Concept: OOP, Question: What is method overriding in OOP?, Answer: d
+[2025-05-03 23:44:52] Concept: OOP, Question: What is a sealed class in OOP?, Answer: d
+[2025-05-03 23:44:53] Concept: OOP, Question: What is encapsulation in OOP?, Answer: d
+[2025-05-03 23:44:53] Concept: OOP, Question: What is access modifier in OOP?, Answer: d
+[2025-05-03 23:45:00] Input: quiz dsa
+[2025-05-03 23:45:03] Input: next
+[2025-05-03 23:45:04] Concept: DSA, Question: What is a trie in DSA?, Answer: d
+[2025-05-03 23:45:05] Concept: DSA, Question: What is a graph in DSA?, Answer: d
+[2025-05-03 23:45:05] Concept: unknown, Question: What is a binary search algorithm?, Answer: d
+[2025-05-03 23:45:06] Concept: DSA, Question: What is a queue in DSA?, Answer: d
+[2025-05-03 23:45:06] Concept: DSA, Question: What is a stack in DSA?, Answer: d
+[2025-05-03 23:45:14] Input: quiz cpp
+[2025-05-03 23:45:17] Input: next
+[2025-05-03 23:45:18] Concept: C++, Question: What is the purpose of a smart pointer in C++?, Answer: d
+[2025-05-03 23:45:18] Concept: C++, Question: What is SFINAE in C++?, Answer: ss
+[2025-05-03 23:45:19] Concept: C++, Question: What does 'constexpr' mean in C++?, Answer: s
+[2025-05-03 23:45:19] Concept: C++, Question: What is the STL in C++?, Answer: s
+[2025-05-03 23:45:19] Concept: C++, Question: What does 'noexcept' specify in C++?, Answer: s
+[2025-05-03 23:45:29] Input: quiz js
+[2025-05-03 23:45:43] Input: quiz c
+[2025-05-03 23:45:50] Input: quiz Cc
+[2025-05-03 23:45:54] Input: quiz Clang
+[2025-05-03 23:46:24] Input: quiz scala
+[2025-05-03 23:46:48] Input: quiz Scala
+[2025-05-03 23:52:47] Input: exit
+[2025-05-03 23:53:35] Input: quiz scala
+[2025-05-03 23:53:39] Input: next
+[2025-05-03 23:53:47] Concept: Scala, Question: What is a sealed trait in Scala?, Answer: f
+[2025-05-03 23:53:47] Concept: Scala, Question: What does currying mean in Scala?, Answer: d
+[2025-05-03 23:53:47] Concept: Scala, Question: What is a trait in Scala?, Answer: d
+[2025-05-03 23:53:48] Concept: Scala, Question: What is a case class in Scala?, Answer: d
+[2025-05-03 23:53:48] Concept: Scala, Question: What is a for comprehension in Scala?, Answer: d
+[2025-05-03 23:53:51] Input: quiz oop
+[2025-05-03 23:53:56] Input: next
+[2025-05-03 23:53:57] Concept: OOP, Question: What is a sealed class in OOP?, Answer: d
+[2025-05-03 23:53:57] Concept: OOP, Question: What is dynamic binding in OOP?, Answer: d
+[2025-05-03 23:53:57] Concept: OOP, Question: What is polymorphism in OOP?, Answer: d
+[2025-05-03 23:53:58] Concept: OOP, Question: What is an interface in OOP?, Answer: d
+[2025-05-03 23:53:58] Concept: OOP, Question: What is method overriding in OOP?, Answer: d
+[2025-05-03 23:54:01] Input: quiz set
+[2025-05-03 23:54:03] Input: next
+[2025-05-03 23:54:04] Concept: Set, Question: What is a common operation on a set?, Answer: d
+[2025-05-03 23:54:05] Concept: Set, Question: What is a benefit of using a set?, Answer: s
+[2025-05-03 23:54:05] Concept: Set, Question: What does a set ensure about its elements?, Answer: s
+[2025-05-03 23:54:05] Concept: Set, Question: In which language is a set a built-in type?, Answer: s
+[2025-05-03 23:54:05] Concept: Set, Question: What is a set in programming?, Answer: s
+[2025-05-03 23:54:11] Input: quiz classes
+[2025-05-03 23:54:15] Input: quiz class
+[2025-05-03 23:55:02] Input: quiz abstract classes
+[2025-05-03 23:57:18] Input: quiz abstract classes
+[2025-05-04 00:03:25] Input: clear
+[2025-05-04 00:03:33] Input: exit
+[2025-05-04 00:04:41] Input: hola
+[2025-05-04 00:04:57] Input: quiz me on abstract classes
+[2025-05-04 00:04:59] Input: next
+[2025-05-04 00:05:00] Concept: unknown, Question: Which keyword declares an abstract method?, Answer: s
+[2025-05-04 00:05:01] Concept: abstract class, Question: What is the purpose of abstract classes?, Answer: s
+[2025-05-04 00:05:01] Concept: abstract class, Question: What is an abstract class?, Answer: d
+[2025-05-04 00:05:01] Concept: abstract class, Question: What can abstract classes contain?, Answer: d
+[2025-05-04 00:05:02] Concept: abstract class, Question: How do abstract classes differ from interfaces?, Answer: d
+[2025-05-04 00:05:05] Input: quiz oop
+[2025-05-04 00:05:44] Input: quiz dsa
+[2025-05-04 00:05:52] Input: quiz cpp
+[2025-05-04 00:05:55] Input: next
+[2025-05-04 00:05:56] Concept: C++, Question: What is RAII in C++?, Answer: dasdasd
+[2025-05-04 00:05:56] Concept: C++, Question: What is CRTP in C++?, Answer: f
+[2025-05-04 00:05:56] Concept: C++, Question: What is move semantics in C++?, Answer: d
+[2025-05-04 00:05:57] Concept: C++, Question: What is the STL in C++?, Answer: d
+[2025-05-04 00:05:57] Concept: C++, Question: What is a variadic template in C++?, Answer: d
+[2025-05-04 00:08:06] Input: quiz scala
+[2025-05-04 00:08:09] Input: clear
+[2025-05-04 00:08:10] Input: next
+[2025-05-04 00:08:12] Input: exit
+[2025-05-04 00:08:19] Input: quiz oop
+[2025-05-04 00:08:27] Input: quiz sort
+[2025-05-04 00:08:30] Input: quiz dsa
+[2025-05-04 00:09:07] Input: exit
+[2025-05-04 00:09:22] Input: quiz oop
+[2025-05-04 00:09:25] Input: next
+[2025-05-04 00:09:26] Concept: oop, Question: What is encapsulation in OOP?, Answer: d
+[2025-05-04 00:09:26] Concept: oop, Question: What is access modifier in OOP?, Answer: ds
+[2025-05-04 00:09:26] Concept: oop, Question: What is dynamic binding in OOP?, Answer: s
+[2025-05-04 00:09:26] Concept: oop, Question: What is a sealed class in OOP?, Answer: s
+[2025-05-04 00:09:27] Concept: oop, Question: What is polymorphism in OOP?, Answer: s
+[2025-05-04 00:09:27] Input: s
+[2025-05-04 00:09:31] Input: quiz dsa
+[2025-05-04 00:09:32] Input: s
+[2025-05-04 00:09:32] Input: d
+[2025-05-04 00:09:32] Input: d
+[2025-05-04 00:09:33] Input: d
+[2025-05-04 00:09:33] Input: d
+[2025-05-04 00:09:33] Input: d
+[2025-05-04 00:09:34] Input: d
+[2025-05-04 00:09:34] Input: d
+[2025-05-04 00:09:35] Input: d
+[2025-05-04 00:09:35] Input: d
+[2025-05-04 00:09:36] Input: next
+[2025-05-04 00:09:37] Concept: dsa, Question: What is a trie in DSA?, Answer: s
+[2025-05-04 00:09:38] Concept: unknown, Question: What is an algorithm in programming?, Answer: 
+[2025-05-04 00:09:38] Concept: unknown, Question: What is a binary search algorithm?, Answer: s
+[2025-05-04 00:09:38] Concept: dsa, Question: What is a linked list in DSA?, Answer: s
+[2025-05-04 00:09:38] Concept: unknown, Question: What is algorithm analysis?, Answer: s
+[2025-05-04 00:09:39] Input: s
+[2025-05-04 00:09:39] Input: s
+[2025-05-04 00:10:06] Input: explain oop
+[2025-05-04 00:10:13] Input: nah
+[2025-05-04 00:10:15] Input: exit
+[2025-05-04 00:11:41] Input: ciao
+[2025-05-04 00:12:01] Input: so i need to test my knowledge on oop cjan you help
+[2025-05-04 00:12:04] Input: next
+[2025-05-04 00:12:08] Concept: oop, Question: What is method overriding in OOP?, Answer: a
+[2025-05-04 00:12:09] Concept: oop, Question: What is inheritance in OOP?, Answer: d
+[2025-05-04 00:12:11] Concept: oop, Question: What is dynamic binding in OOP?, Answer: a
+[2025-05-04 00:12:12] Concept: oop, Question: What is abstraction in OOP?, Answer: d
+[2025-05-04 00:12:13] Concept: oop, Question: What is a sealed class in OOP?, Answer: a
+[2025-05-04 00:12:19] Input: wow
+[2025-05-04 00:12:39] Input: can you give me a refresher on dsa
+[2025-05-04 00:12:58] Input: give me more info about scala
+[2025-05-04 00:13:13] Input: give me more info about encapsulations
+[2025-05-04 00:13:33] Input: exit
+[2025-05-04 00:13:52] Input: konnichiwa
+[2025-05-04 00:14:12] Input: i need to refresh my info on oop can you help
+[2025-05-04 00:14:37] Input: can you give me an idea about wha texactly is encapsulation
+[2025-05-04 00:14:53] Input: exit
+[2025-05-04 00:15:18] Input: konnichiwa
+[2025-05-04 00:15:24] Input: ni hao fine shyt
+[2025-05-04 00:15:34] Input: salaam
+[2025-05-04 00:15:36] Input: clear
+[2025-05-04 00:15:38] Input: exit
+[2025-05-04 00:16:36] Input: greetings and salutations
+[2025-05-04 00:16:46] Input: can you give me a refresher on oop
+[2025-05-04 00:17:09] Input: tesk my knowledge on dsa
+[2025-05-04 00:17:21] Input: test my knowledge on dsa
+[2025-05-04 00:17:23] Input: next
+[2025-05-04 00:17:31] Concept: dsa, Question: What is a graph in DSA?, Answer: b
+[2025-05-04 00:17:35] Concept: dsa, Question: What is a queue in DSA?, Answer: c
+[2025-05-04 00:17:37] Concept: dsa, Question: What is a stack in DSA?, Answer: s
+[2025-05-04 00:17:38] Concept: dsa, Question: What is a binary tree in DSA?, Answer: d
+[2025-05-04 00:17:39] Concept: dsa, Question: What is a linked list in DSA?, Answer: a
+[2025-05-04 00:17:57] Input: i forgot mb explain more about dsa
+[2025-05-04 00:18:10] Input: exit
+[2025-05-09 16:13:19] Input: hello
+[2025-05-09 16:14:14] Input: greetings
+[2025-05-09 16:14:17] Input: d
+[2025-05-09 16:14:21] Input: hello
+[2025-05-09 16:14:24] Input: hello
+[2025-05-09 16:14:37] Input: het
+[2025-05-09 16:14:39] Input: hey
+[2025-05-09 16:14:41] Input: hey
+[2025-05-09 16:14:43] Input: ehy
+[2025-05-09 16:14:48] Input: quiz
+[2025-05-09 16:14:57] Input: explain
+[2025-05-09 16:15:05] Input: cpp
+[2025-05-09 16:15:12] Input: algorithm
+[2025-05-09 16:15:18] Input: okay
+[2025-05-09 16:16:08] Input: explain map
+[2025-05-09 16:16:10] Input: okay
+[2025-05-09 16:18:34] Input: ni
+[2025-05-09 16:18:36] Input: hello
+[2025-05-09 16:18:43] Input: quiz me on algorithms
+[2025-05-09 16:18:47] Input: next
+[2025-05-09 16:19:02] Concept: algorithm, Question: What is an algorithm?, Answer: b
+[2025-05-09 16:19:03] Concept: algorithm, Question: What is a common algorithm design technique?, Answer: b
+[2025-05-09 16:19:25] Concept: algorithm, Question: What does an algorithm's correctness ensure?, Answer: b
+[2025-05-09 16:19:34] Concept: algorithm, Question: What is the purpose of algorithm analysis?, Answer: a
+[2025-05-09 16:19:35] Concept: algorithm, Question: What is a characteristic of a good algorithm?, Answer: d
+[2025-05-09 16:19:43] Input: explain algorithm
+[2025-05-09 16:19:45] Input: next
+[2025-05-10 04:20:23] Input: explain loop
+[2025-05-10 04:20:26] Input: 
+[2025-05-10 04:20:38] Input: quiz oop
+[2025-05-10 04:20:42] Input: quiz oop
+[2025-05-10 04:20:47] Input: next
+[2025-05-10 04:21:12] Concept: oop, Question: What language is known for OOP?, Answer: b
+[2025-05-10 04:21:24] Concept: oop, Question: What is a disadvantage of OOP?, Answer: b
+[2025-05-10 04:21:34] Concept: oop, Question: What is a benefit of OOP?, Answer: a
+[2025-05-10 04:21:40] Concept: oop, Question: What is a principle of OOP?, Answer: a
+[2025-05-10 04:21:46] Concept: oop, Question: What does OOP stand for?, Answer: a
+[2025-05-10 04:21:47] Input: 
+[2025-05-10 04:21:52] Input: wassup
+[2025-05-10 04:21:55] Input: 
+[2025-05-10 04:21:59] Input: exit
+[2025-05-10 04:29:24] Input: quiz oop
+[2025-05-10 04:29:30] Input: explain 
+[2025-05-10 04:29:36] Input: next
+[2025-05-10 04:30:36] Concept: oop, Question: What is a principle of OOP?, Answer: a
+[2025-05-10 04:30:38] Concept: oop, Question: What does OOP stand for?, Answer: b
+[2025-05-10 04:30:39] Concept: oop, Question: What language is known for OOP?, Answer: c
+[2025-05-10 04:30:39] Concept: oop, Question: What is a disadvantage of OOP?, Answer: c
+[2025-05-10 04:30:41] Concept: oop, Question: What is a benefit of OOP?, Answer: d
+[2025-05-10 04:30:42] Input: 
+[2025-05-10 04:30:51] Input: explain loop
+[2025-05-10 04:30:52] Input: 
+[2025-05-10 04:30:58] Input: explain C++
+[2025-05-10 04:31:06] Input: explain classes
+[2025-05-10 04:31:07] Input: 
+[2025-05-10 04:33:02] Input: exit
+[2025-05-10 04:35:51] Input: hi explain oop
+[2025-05-10 04:36:54] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 04:36:57] Input: exit
+[2025-05-10 04:37:04] Input: hi explain oop
+[2025-05-10 04:39:01] Input: next
+[2025-05-10 04:46:30] Input: explain list
+[2025-05-10 04:46:32] Input: next
+[2025-05-10 04:47:34] Input: explain functions
+[2025-05-10 04:47:36] Input: next
+[2025-05-10 04:49:10] Input: quiz oop
+[2025-05-10 04:49:13] Input: next
+[2025-05-10 04:50:28] Concept: oop, Question: What is a benefit of OOP?, Answer: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 04:50:49] Input: quiz oop
+[2025-05-10 04:50:51] Input: next
+[2025-05-10 04:55:16] Input: HI
+[2025-05-10 04:56:36] Input: exit
+[2025-05-10 04:58:35] Input: hi
+[2025-05-10 05:07:23] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:07:27] Input: exit
+[2025-05-10 05:14:57] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:15:01] Input: exit
+[2025-05-10 05:15:10] Input: quiz oop
+[2025-05-10 05:15:12] Input: next
+[2025-05-10 05:15:15] Input: next
+[2025-05-10 05:15:18] Input: quiz oop
+[2025-05-10 05:15:21] Input: quiz
+[2025-05-10 05:15:25] Input: quiz list
+[2025-05-10 05:16:09] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:16:15] Input: explain oop
+[2025-05-10 05:16:17] Input: next
+[2025-05-10 05:19:25] Input: quiz oop
+[2025-05-10 05:19:30] Input: next
+[2025-05-10 05:19:35] Concept: oop, Question: What is a benefit of OOP?, Answer: clear
+[2025-05-10 05:19:44] Input: quiz classes
+[2025-05-10 05:19:46] Input: efdrf
+[2025-05-10 05:22:42] Input: exit
+[2025-05-10 05:22:48] Input: quiz oop
+[2025-05-10 05:22:50] Input: next
+[2025-05-10 05:24:53] Concept: oop, Question: What is a disadvantage of OOP?, Answer: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:25:03] Input: quiz oop
+[2025-05-10 05:25:23] Concept: oop, Question: What is a disadvantage of OOP?, Answer: b
+[2025-05-10 05:25:23] Concept: oop, Question: What is a benefit of OOP?, Answer: b
+[2025-05-10 05:25:23] Concept: oop, Question: What does OOP stand for?, Answer: b
+[2025-05-10 05:25:23] Concept: oop, Question: What language is known for OOP?, Answer: b
+[2025-05-10 05:25:24] Concept: oop, Question: What is a principle of OOP?, Answer: b
+[2025-05-10 05:25:25] Input: 
+[2025-05-10 05:31:46] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:31:52] Input: exit
+[2025-05-10 05:31:58] Input: quiz lists
+[2025-05-10 05:32:01] Concept: list, Question: What happens if you append to a full fixed-size list?, Answer: b
+[2025-05-10 05:32:01] Concept: list, Question: What is a key feature of lists in Python?, Answer: b
+[2025-05-10 05:32:02] Concept: list, Question: What is a list in programming?, Answer: b
+[2025-05-10 05:32:02] Concept: list, Question: What operation is typically fast on a list?, Answer: b
+[2025-05-10 05:32:03] Concept: list, Question: How can you access the last element of a list in Python?, Answer: b
+[2025-05-10 05:33:08] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:33:11] Input: exit
+[2025-05-10 05:33:17] Input: quiz classes
+[2025-05-10 05:33:19] Concept: class, Question: What keyword is used to define a class in Java?, Answer: b
+[2025-05-10 05:33:19] Concept: class, Question: What can a class inherit from?, Answer: b
+[2025-05-10 05:33:19] Concept: class, Question: What is a class in object-oriented programming?, Answer: b
+[2025-05-10 05:33:20] Concept: class, Question: What is a class constructor used for?, Answer: b
+[2025-05-10 05:33:21] Concept: class, Question: What is a feature of a class?, Answer: b
+[2025-05-10 05:33:28] Input: clear
+[2025-05-10 05:33:34] Input: explain oop
+[2025-05-10 05:33:48] Input: exit
+[2025-05-10 05:45:39] Input: explain oop
+[2025-05-10 05:45:43] Input: explain list
+[2025-05-10 05:45:47] Input: explain css
+[2025-05-10 05:45:51] Input: explain cpp
+[2025-05-10 05:45:59] Input: explain dynamic programinng
+[2025-05-10 05:46:32] Input: hi explain cpp
+[2025-05-10 05:46:35] Input: clear
+[2025-05-10 05:46:43] Input: wassup test me on cpp
+[2025-05-10 05:46:51] Input: cpp
+[2025-05-10 05:46:54] Input: c++
+[2025-05-10 05:46:59] Input: test me on c++
+[2025-05-10 05:48:10] Input: exit
+[2025-05-10 05:49:36] Input: quiz aws
+[2025-05-10 05:50:03] Input: quiz deep learning
+[2025-05-10 05:52:23] Input: quiz c++
+[2025-05-10 05:52:27] Input: quiz cpp
+[2025-05-10 05:53:16] Input: quiz scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:53:33] Input: quiz c plus plus
+[2025-05-10 05:53:36] Input: next
+[2025-05-10 05:53:40] Input: quiz c++
+[2025-05-10 05:53:43] Input: fw
+[2025-05-10 05:53:45] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:53:46] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:53:55] Input: quiz cpp
+[2025-05-10 05:53:56] Input: de
+[2025-05-10 05:53:57] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 05:54:12] Input: scala
+[2025-05-10 05:54:39] Input: exit
+[2025-05-10 05:55:54] Input: quiz c++
+[2025-05-10 05:55:59] Input: quiz heap
+[2025-05-10 05:58:43] Input: test c++
+[2025-05-10 05:58:50] Input: test scala
+[2025-05-10 06:10:38] Input: quiz c++
+[2025-05-10 06:10:42] Input: quiz cpp
+[2025-05-10 06:11:37] Input: exit
+[2025-05-10 06:11:41] Input: quiz c++
+[2025-05-10 06:12:01] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 06:12:05] Input: exit
+[2025-05-10 06:12:10] Input: quiz c++
+[2025-05-10 06:12:14] Input: quizc++
+[2025-05-10 06:12:17] Input: quiz c++
+[2025-05-10 06:12:19] Input: exit
+[2025-05-10 06:14:19] Input: quiz c++
+[2025-05-10 06:14:22] Input: quiz cpp
+[2025-05-10 06:15:38] Input: exit
+[2025-05-10 06:15:45] Input: quiz oop
+[2025-05-10 06:16:45] Input: quiz c
+[2025-05-10 06:18:46] Input: grep "cpp" data/questions.csv
+[2025-05-10 06:18:55] Input: exit
+[2025-05-10 06:20:02] Input: quiz c
+[2025-05-10 06:20:05] Input: quiz clang
+[2025-05-10 06:20:09] Input: quiz c++
+[2025-05-10 06:20:12] Input: quiz scala
+[2025-05-10 06:22:38] Input: quiz c++
+[2025-05-10 06:23:39] Input: null
+[2025-05-10 06:24:56] Input: quiz c
+[2025-05-10 06:25:03] Input: test clang
+[2025-05-10 06:27:24] Input: exit
+[2025-05-10 06:27:29] Input: quiz c++
+[2025-05-10 06:27:32] Input: quiz c
+[2025-05-10 06:27:38] Input: quiz clang
+[2025-05-10 06:27:41] Input: exit
+[2025-05-10 06:30:58] Input: quiz tcp ip
+[2025-05-10 06:31:07] Concept: unknown, Question: What layer handles data transmission?, Answer: b
+[2025-05-10 06:31:08] Concept: unknown, Question: What does TCP/IP stand for?, Answer: b
+[2025-05-10 06:31:08] Concept: unknown, Question: What is a use case for TCP/IP?, Answer: b
+[2025-05-10 06:31:09] Concept: unknown, Question: What is a benefit of TCP/IP?, Answer: b
+[2025-05-10 06:31:10] Concept: unknown, Question: What is a limitation of TCP/IP?, Answer: b
+[2025-05-10 06:31:22] Input: explain pointer
+[2025-05-10 06:33:18] Input: exit
+[2025-05-10 06:35:32] Input: hi quiz c
+[2025-05-10 06:35:36] Input: quiz clang
+[2025-05-10 06:35:40] Input: quiz cpp
+[2025-05-10 06:35:43] Input: quiz scala
+[2025-05-10 06:35:44] Concept: scala, Question: What is a key feature of Scala?, Answer: b
+[2025-05-10 06:35:45] Concept: scala, Question: What does Scala's 'case class' provide?, Answer: bb
+[2025-05-10 06:35:45] Concept: scala, Question: What is Scala primarily known for?, Answer: b
+[2025-05-10 06:35:45] Concept: scala, Question: What is a common use case for Scala?, Answer: b
+[2025-05-10 06:35:46] Concept: scala, Question: What is the purpose of the 'val' keyword in Scala?, Answer: b
+[2025-05-10 06:35:53] Input: exit
+[2025-05-10 06:47:24] Input: quiz c
+[2025-05-10 06:47:27] Input: quiz scala
+[2025-05-10 06:49:25] Input: quiz c
+[2025-05-10 06:49:27] Input: next
+[2025-05-10 06:49:31] Input: exit
+[2025-05-10 06:57:57] Input: quiz c++
+[2025-05-10 06:57:59] Input: exit
+[2025-05-10 12:45:00] Input: hi quiz loop
+[2025-05-10 12:47:48] Concept: oop, Question: What language is known for OOP?, Answer: exity
+[2025-05-10 12:48:15] Input: quiz oop
+[2025-05-10 12:48:43] Input: quiz loops
+[2025-05-10 12:48:50] Concept: unknown, Question: What loop type checks the condition before executing?, Answer: b
+[2025-05-10 12:48:50] Concept: unknown, Question: What is a loop in programming?, Answer: b
+[2025-05-10 12:48:51] Concept: loops, Question: What is a common use of loops?, Answer: b
+[2025-05-10 12:48:51] Concept: unknown, Question: What happens in an infinite loop?, Answer: b
+[2025-05-10 12:48:51] Concept: unknown, Question: What keyword exits a loop early in Python?, Answer: b
+[2025-05-10 12:48:54] Input: quiz loop
+[2025-05-10 12:50:35] Input: quiz loop
+[2025-05-10 12:51:36] Input: QUIZ oop
+[2025-05-10 12:52:05] Input: QUIZ oop
+[2025-05-10 12:55:10] Input: quiz cpp
+[2025-05-10 12:56:13] Input: bye
+[2025-05-10 13:07:35] Input: quiz loop
+[2025-05-10 13:07:50] Input: quiz loops
+[2025-05-10 13:08:51] Input: quiz loops
+[2025-05-10 13:09:06] Input: quiz loop
+[2025-05-10 13:09:31] Concept: unknown, Question: What loop type checks the condition before executing?, Answer: c
+[2025-05-10 13:09:40] Concept: unknown, Question: What happens in an infinite loop?, Answer: b
+[2025-05-10 13:09:45] Concept: unknown, Question: What keyword exits a loop early in Python?, Answer: a
+[2025-05-10 13:09:50] Concept: unknown, Question: What is a loop in programming?, Answer: f
+[2025-05-10 13:13:16] Input: quiz oop
+[2025-05-10 13:13:22] Concept: oop, Question: What does OOP stand for?, Answer: b
+[2025-05-10 13:13:34] Concept: oop, Question: What is a benefit of OOP?, Answer: a
+[2025-05-10 13:13:39] Concept: oop, Question: What is a disadvantage of OOP?, Answer: b
+[2025-05-10 13:13:43] Concept: oop, Question: What is a principle of OOP?, Answer: d
+[2025-05-10 13:13:56] Concept: oop, Question: What language is known for OOP?, Answer: c
+[2025-05-10 13:14:07] Input: quiz cpp
+[2025-05-10 13:14:10] Input: quiz c++
+[2025-05-10 13:14:22] Input: explain oop
+[2025-05-10 13:14:24] Input: exit
+[2025-05-10 13:21:27] Input: quiz c++
+[2025-05-10 13:22:30] Input: quiz file i/o
+[2025-05-10 13:22:45] Input: quiz time complexity
+[2025-05-10 13:22:52] Concept: time complexity, Question: What is time complexity?, Answer: a
+[2025-05-10 13:22:59] Concept: time complexity, Question: What is a use case for time complexity?, Answer: b
+[2025-05-10 13:23:06] Concept: time complexity, Question: What is a limitation of time complexity?, Answer: b
+[2025-05-10 13:23:16] Concept: time complexity, Question: What notation represents time complexity?, Answer: a
+[2025-05-10 13:23:24] Concept: time complexity, Question: What is a benefit of time complexity?, Answer: d
+[2025-05-10 13:23:32] Input: exit
+[2025-05-10 13:29:42] Input: quiz dsa
+[2025-05-10 13:32:45] Input: quiz loops
+[2025-05-10 13:32:48] Concept: unknown, Question: What loop type checks the condition before executing?, Answer: b
+[2025-05-10 13:32:48] Concept: unknown, Question: What happens in an infinite loop?, Answer: b
+[2025-05-10 13:32:48] Concept: unknown, Question: What keyword exits a loop early in Python?, Answer: b
+[2025-05-10 13:32:49] Concept: unknown, Question: What is a loop in programming?, Answer: b
+[2025-05-10 13:32:49] Concept: loops, Question: What is a common use of loops?, Answer: b
+[2025-05-10 13:32:52] Input: quiz loops
+[2025-05-10 13:33:01] Concept: unknown, Question: What loop type checks the condition before executing?, Answer: b
+[2025-05-10 13:33:01] Concept: unknown, Question: What keyword exits a loop early in Python?, Answer: b
+[2025-05-10 13:33:01] Concept: loops, Question: What is a common use of loops?, Answer: b
+[2025-05-10 13:33:02] Concept: unknown, Question: What happens in an infinite loop?, Answer: b
+[2025-05-10 13:33:02] Concept: unknown, Question: What is a loop in programming?, Answer: b
+[2025-05-10 13:33:05] Input: quiz loop
+[2025-05-10 13:38:35] Input: quiz c++
+[2025-05-10 13:38:38] Input: next
+[2025-05-10 13:39:38] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 13:39:41] Input: exit
+[2025-05-10 13:42:38] Input: quiz cpp
+[2025-05-10 13:42:42] Input: quiz c++
+[2025-05-10 13:44:53] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 13:44:56] Input: exit
+[2025-05-10 13:45:01] Input: quiz c
+[2025-05-10 13:45:06] Input: quiz py
+[2025-05-10 13:45:11] Input: quiz python
+[2025-05-10 13:45:15] Input: quiz scala
+[2025-05-10 13:46:22] Input: quiz java
+[2025-05-10 13:46:53] Input: quiz algorithm
+[2025-05-10 13:46:54] Concept: algorithm, Question: What is the purpose of algorithm analysis?, Answer: 
+[2025-05-10 13:46:59] Concept: algorithm, Question: What is a characteristic of a good algorithm?, Answer: 
+[2025-05-10 13:46:59] Concept: algorithm, Question: What does an algorithm's correctness ensure?, Answer: 
+[2025-05-10 13:46:59] Concept: algorithm, Question: What is a common algorithm design technique?, Answer: 
+[2025-05-10 13:46:59] Concept: algorithm, Question: What is an algorithm?, Answer: 
+[2025-05-10 13:55:09] Input: exit
+[2025-05-10 13:55:35] Input: quiz oop
+[2025-05-10 13:55:48] Concept: oop, Question: What is a disadvantage of OOP?, Answer: b
+[2025-05-10 13:56:10] Input: quiz oop
+[2025-05-10 13:56:44] Input: quiz oop
+[2025-05-10 13:56:46] Concept: oop, Question: What does OOP stand for?, Answer: b
+[2025-05-10 13:56:46] Concept: oop, Question: What is a disadvantage of OOP?, Answer: b
+[2025-05-10 13:56:47] Concept: oop, Question: What language is known for OOP?, Answer: b
+[2025-05-10 13:56:47] Concept: oop, Question: What is a principle of OOP?, Answer: b
+[2025-05-10 13:56:47] Concept: oop, Question: What is a benefit of OOP?, Answer: b
+[2025-05-10 13:56:51] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 13:56:53] Input: quiz loop
+[2025-05-10 13:57:53] Concept: unknown, Question: What keyword exits a loop early in Python?, Answer: a
+[2025-05-10 13:58:00] Concept: unknown, Question: What loop type checks the condition before executing?, Answer: b
+[2025-05-10 13:58:06] Concept: unknown, Question: What happens in an infinite loop?, Answer: note
+[2025-05-10 13:58:15] Concept: loops, Question: What is a common use of loops?, Answer: b
+[2025-05-10 13:58:15] Concept: unknown, Question: What is a loop in programming?, Answer: b
+[2025-05-10 13:58:15] Input: b
+[2025-05-10 14:04:48] Input: exit
+[2025-05-10 14:05:01] Input: quiz oop
+[2025-05-10 14:05:33] Concept: oop, Question: What does OOP stand for?, Answer: a
+[2025-05-10 14:05:51] Concept: oop, Question: What is a disadvantage of OOP?, Answer: b
+[2025-05-10 14:05:58] Concept: oop, Question: What language is known for OOP?, Answer: easy
+[2025-05-10 14:06:21] Concept: oop, Question: What is a benefit of OOP?, Answer: b
+[2025-05-10 14:06:34] Concept: oop, Question: What is a principle of OOP?, Answer: b
+[2025-05-10 14:06:34] Input: b
+[2025-05-10 14:08:09] Input: exit
+[2025-05-10 14:08:17] Input: quiz oop
+[2025-05-10 14:09:43] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 14:09:45] Input: exit
+[2025-05-10 14:09:54] Input: quiz oop
+[2025-05-10 14:10:07] Input: exit
+[2025-05-10 14:12:44] Input: quiz oop
+[2025-05-10 14:12:47] Concept: oop, Question: What language is known for OOP?, Answer: b
+[2025-05-10 14:12:49] Concept: oop, Question: What is a benefit of OOP?, Answer: c
+[2025-05-10 14:12:51] Concept: oop, Question: What is a principle of OOP?, Answer: d
+[2025-05-10 14:12:52] Concept: oop, Question: What is a disadvantage of OOP?, Answer: a
+[2025-05-10 14:13:08] Concept: oop, Question: What does OOP stand for?, Answer: ordered object protocol
+[2025-05-10 14:13:26] Input: quiz oop
+[2025-05-10 14:13:45] Concept: oop, Question: What is a principle of OOP?, Answer: exit
+[2025-05-10 14:14:25] Input: quiz loop
+[2025-05-10 14:15:25] Input: quiz clang
+[2025-05-10 14:15:32] Input: quiz inheritance
+[2025-05-10 14:15:49] Concept: inheritance, Question: What is inheritance in OOP?, Answer: a
+[2025-05-10 14:28:03] Concept: inheritance, Question: What is a benefit of inheritance?, Answer: clear
+[2025-05-10 14:28:04] Concept: inheritance, Question: What type of inheritance does Python support?, Answer: d
+[2025-05-10 14:28:04] Concept: inheritance, Question: What is a risk of inheritance?, Answer: d
+[2025-05-10 14:28:05] Concept: inheritance, Question: What keyword enables inheritance in Java?, Answer: d
+[2025-05-10 14:29:30] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-10 14:29:34] Input: exit
+[2025-05-10 14:30:12] Input: exit
+[2025-05-10 14:31:54] Input: quiz classes
+[2025-05-10 14:32:07] Concept: class, Question: What is a feature of a class?, Answer: a
+[2025-05-10 14:32:53] Input: exit
+[2025-05-10 14:33:18] Input: quiz loop
+[2025-05-10 14:33:28] Input: ezur
+[2025-05-10 14:33:29] Input: exit
+[2025-05-10 14:43:33] Input: quiz varialble
+[2025-05-10 14:43:38] Input: quiz loops
+[2025-05-10 14:43:44] Concept: unknown, Question: What keyword exits a loop early in Python?, Answer: brek
+[2025-05-10 14:43:59] Concept: unknown, Question: What loop type checks the condition before executing?, Answer: forlop
+[2025-05-10 14:44:14] Concept: loops, Question: What is a common use of loops?, Answer: iterate over data
+[2025-05-10 14:44:34] Concept: unknown, Question: What happens in an infinite loop?, Answer: terminates
+[2025-05-10 14:44:54] Concept: unknown, Question: What is a loop in programming?, Answer: structure to repet code
+[2025-05-10 14:45:02] Input: quiz oop
+[2025-05-10 14:45:25] Concept: oop, Question: What is a benefit of OOP?, Answer: cide reusabilty
+[2025-05-10 14:47:06] Input: explain oop
+[2025-05-10 14:47:13] Input: explain c++
+[2025-05-10 14:47:23] Input: classes
+[2025-05-10 14:47:33] Input: explain class
+[2025-05-10 14:51:09] Input: exit
+[2025-05-10 14:52:24] Input: explain algorithm
+[2025-05-10 14:57:32] Input: exit
+[2025-05-10 14:58:33] Input: explain algorithm
+[2025-05-10 14:58:41] Input: dive
+[2025-05-10 14:59:19] Input: explain classes
+[2025-05-10 14:59:29] Input: yes
+[2025-05-10 14:59:37] Input: more
+[2025-05-10 14:59:45] Input: yes
+[2025-05-10 14:59:50] Input: yes
+[2025-05-10 14:59:59] Input: explain
+[2025-05-10 15:00:31] Input: example
+[2025-05-10 15:00:46] Input: quiz
+[2025-05-10 15:00:49] Input: next
+[2025-05-10 15:03:16] Input: exit
+[2025-05-10 15:04:36] Input: explain loop
+[2025-05-10 15:04:41] Input: example
+[2025-05-10 15:04:47] Input: qui
+[2025-05-10 15:05:12] Input: explain loop
+[2025-05-10 15:05:15] Input: quiz
+[2025-05-10 15:05:17] Input: 
+[2025-05-10 15:08:10] Input: explain oop
+[2025-05-10 15:08:14] Input: quiz
+[2025-05-10 15:09:49] Input: 
+[2025-05-10 15:58:54] Input: explain opo
+[2025-05-10 15:58:56] Input: oop
+[2025-05-10 15:59:02] Input: clarify
+[2025-05-10 15:59:06] Input: example
+[2025-05-10 15:59:09] Input: quiz
+[2025-05-10 15:59:11] Input: next
+[2025-05-10 15:59:16] Input: exit
+[2025-05-10 16:04:20] Input: quiz oop
+[2025-05-10 16:04:23] Input: next
+[2025-05-10 16:04:29] Concept: oop, Question: What is a benefit of OOP?, Answer: dd
+[2025-05-10 16:04:30] Concept: oop, Question: What is a principle of OOP?, Answer: d
+[2025-05-10 16:04:30] Concept: oop, Question: What is a disadvantage of OOP?, Answer: d
+[2025-05-10 16:04:32] Concept: oop, Question: What language is known for OOP?, Answer: d
+[2025-05-10 16:04:36] Concept: oop, Question: What does OOP stand for?, Answer: a
+[2025-05-10 16:04:49] Input: explain loop
+[2025-05-10 16:04:52] Input: quiz
+[2025-05-10 16:04:54] Input: next
+[2025-05-10 16:15:40] Input: exit
+[2025-05-10 16:15:49] Input: explain list
+[2025-05-10 16:15:53] Input: example
+[2025-05-10 16:15:58] Input: quiz
+[2025-05-10 16:18:25] Input: exit
+[2025-05-10 16:18:31] Input: explain list
+[2025-05-10 16:18:33] Input: quiz
+[2025-05-10 16:18:50] Input: next
+[2025-05-10 16:18:56] Input: explain list
+[2025-05-10 16:19:00] Input: yes
+[2025-05-10 16:19:09] Input: quiz
+[2025-05-10 16:19:15] Input: exit
+[2025-05-10 16:20:50] Input: EXPLAIN array
+[2025-05-10 16:20:55] Input: quiz
+[2025-05-10 16:20:58] Input: next
+[2025-05-10 16:21:00] Concept: array, Question: What is a limitation of arrays?, Answer: b
+[2025-05-10 16:21:00] Concept: array, Question: What is an array in programming?, Answer: b
+[2025-05-10 16:21:10] Concept: array, Question: What is a limitation of arrays?, Answer: c
+[2025-05-10 16:21:17] Concept: array, Question: What is an array in programming?, Answer: a
+[2025-05-10 16:21:18] Concept: array, Question: What is a key feature of arrays?, Answer: a
+[2025-05-10 16:21:45] Input: exit
+[2025-05-10 16:21:51] Input: quiz array
+[2025-05-10 16:21:54] Concept: array, Question: What is the time complexity for accessing an element in an array?, Answer: d
+[2025-05-10 16:21:54] Concept: array, Question: What is an array in programming?, Answer: d
+[2025-05-10 16:21:54] Concept: array, Question: What is a key feature of arrays?, Answer: d
+[2025-05-10 16:21:55] Concept: array, Question: What is the time complexity for accessing an element in an array?, Answer: d
+[2025-05-10 16:21:55] Concept: array, Question: What is a key feature of arrays?, Answer: 
+[2025-05-10 16:21:57] Input: explain
+[2025-05-10 16:21:59] Input: arrays
+[2025-05-10 16:22:02] Input: quiz
+[2025-05-10 16:22:03] Input: next
+[2025-05-10 16:22:04] Concept: array, Question: What is a limitation of arrays?, Answer: b
+[2025-05-10 16:22:05] Concept: array, Question: What is a limitation of arrays?, Answer: b
+[2025-05-10 16:22:05] Concept: array, Question: What is a key feature of arrays?, Answer: b
+[2025-05-10 16:22:05] Concept: array, Question: What is an array in programming?, Answer: b
+[2025-05-10 16:22:16] Concept: array, Question: What is the time complexity for accessing an element in an array?, Answer: b
+[2025-05-10 16:22:22] Input: exit
+[2025-05-10 21:09:34] Input: quiz loops
+[2025-05-10 21:09:56] Input: explain oop
+[2025-05-10 21:09:58] Input: more
+[2025-05-10 21:10:07] Input: exxample
+[2025-05-10 21:10:30] Input: quiz javascript
+[2025-05-10 21:10:51] Concept: javascript, Question: What is a use case for JavaScript?, Answer: b
+[2025-05-10 21:11:05] Concept: javascript, Question: What is a benefit of JavaScript?, Answer: b
+[2025-05-10 21:11:21] Concept: javascript, Question: What is a limitation of JavaScript?, Answer: brower dependency
+[2025-05-10 21:11:50] Concept: unknown, Question: What keyword declares a variable?, Answer: val
+[2025-05-10 21:12:17] Concept: javascript, Question: What is JavaScript?, Answer: a
+[2025-05-10 21:12:28] Input: xeit
+[2025-05-10 21:12:30] Input: exit
+[2025-05-11 11:12:36] Input: quiz cpp
+[2025-05-11 11:23:50] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-11 11:23:55] Input: explain func
+[2025-05-11 11:24:08] Input: clear
+[2025-05-11 11:24:15] Input: explain func
+[2025-05-11 11:24:24] Input: clear
+[2025-05-11 11:25:32] Input: explain golang
+[2025-05-11 11:25:37] Input: clear
+[2025-05-11 11:25:43] Input: explain go
+[2025-05-11 11:25:49] Input: clear
+[2025-05-11 11:25:57] Input: explain clang
+[2025-05-11 11:26:41] Input: explain java
+[2025-05-11 11:26:47] Input: explain scala
+[2025-05-11 11:26:50] Input: clear
+[2025-05-11 11:26:57] Input: explain js
+[2025-05-11 11:27:04] Input: clear
+[2025-05-11 11:27:07] Input: explain cpp
+[2025-05-11 11:27:11] Input: explain c++
+[2025-05-11 11:28:08] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-11 11:28:10] Input: exit
+[2025-05-11 11:28:15] Input: quiz py
+[2025-05-11 11:28:24] Input: quiz cpp
+[2025-05-11 11:28:31] Input: quiz c++
+[2025-05-11 11:29:00] Input: quiz clang
+[2025-05-11 11:30:01] Concept: unknown, Question: What does the #include directive do in C?, Answer: a
+[2025-05-11 11:30:15] Concept: unknown, Question: Which function is used for dynamic memory allocation in C?, Answer: c
+[2025-05-11 11:30:32] Concept: unknown, Question: How do you terminate a string in C?, Answer: a
+[2025-05-11 11:30:35] Concept: unknown, Question: What is the correct way to declare a pointer in C?, Answer: exity
+[2025-05-11 11:30:38] Input: clear
+[2025-05-11 11:30:46] Input: quiz python
+[2025-05-11 11:31:58] Input: quiz java
+[2025-05-11 11:32:42] Input: exit
+[2025-05-11 11:32:49] Input: quiz c++
+[2025-05-11 11:33:20] Input: quiz cpp
+[2025-05-11 11:33:49] Input: quiz c++
+[2025-05-11 11:35:30] Input: quiz c plus plus
+[2025-05-11 11:35:46] Input: quiz c++
+[2025-05-11 11:38:56] Input: quiz c++
+[2025-05-11 11:39:01] Input: quiz java
+[2025-05-11 11:39:15] Input: quiz py
+[2025-05-11 11:40:19] Input: quiz py
+[2025-05-11 11:40:24] Input: quiz python
+[2025-05-11 11:40:54] Input: quiz py
+[2025-05-11 11:41:18] Input: quiz python
+[2025-05-11 11:41:24] Input: quiz py
+[2025-05-11 12:54:01] Input: quiz python
+[2025-05-11 12:54:17] Concept: python, Question: Which of the following is used for multiple line comments in Python?, Answer: c
+[2025-05-11 12:54:43] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: a
+[2025-05-11 12:54:48] Concept: python, Question: In Python, what is the correct way to create a function?, Answer: ecit
+[2025-05-11 12:56:13] Input: quiz python
+[2025-05-11 12:56:29] Concept: python, Question: In Python, what is the correct way to create a function?, Answer: def myfunction()
+[2025-05-11 12:56:36] Concept: python, Question: Which of the following is used for multiple line comments in Python?, Answer: a
+[2025-05-11 12:57:20] Concept: unknown, Question: What does the `len()` function return when called on a dictionary?, Answer: b
+[2025-05-11 12:57:20] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: b
+[2025-05-11 12:58:35] Concept: python, Question: In Python, Answer: few
+[2025-05-11 12:58:40] Input: exit
+[2025-05-11 12:58:54] Input: quiz py
+[2025-05-11 12:58:57] Concept: py, Question: Which of the following is used for multiple line comments in Python?, Answer: c
+[2025-05-11 12:59:02] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: a
+[2025-05-11 12:59:05] Concept: py, Question: In Python, what is the correct way to create a function?, Answer: a
+[2025-05-11 12:59:17] Concept: py, Question: In Python, how do you open a file named "data.txt" for writing?, Answer: v
+[2025-05-11 13:01:21] Input: quiz py
+[2025-05-11 13:01:38] Concept: py, Question: What is the result of the expression 3 * 4 ** 2 in Python?, Answer: 48
+[2025-05-11 13:01:45] Input: quiz py
+[2025-05-11 13:01:47] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: b
+[2025-05-11 13:01:48] Concept: unknown, Question: What does the `len()` function return when called on a dictionary?, Answer: b
+[2025-05-11 13:01:50] Concept: py, Question: What is the result of the expression 3 * 4 ** 2 in Python?, Answer: 40
+[2025-05-11 13:03:33] Concept: py, Question: Which of the following is used for multiple line comments in Python?, Answer: '' comment'''
+[2025-05-11 13:03:45] Concept: py, Question: In Python, what is the correct way to create a function?, Answer: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-11 13:03:48] Input: exit
+[2025-05-11 13:03:57] Input: quiz py
+[2025-05-11 13:03:59] Concept: py, Question: What is the result of the expression 3 * 4 ** 2 in Python?, Answer: 40
+[2025-05-11 13:04:05] Concept: py, Question: Which of the following is used for multiple line comments in Python?, Answer: a
+[2025-05-11 13:08:42] Input: quiz py
+[2025-05-11 13:08:59] Concept: unknown, Question: What does the `len()` function return when called on a dictionary?, Answer: sum of alf keys
+[2025-05-11 13:09:03] Concept: py, Question: What is the result of the expression 3 * 4 ** 2 in Python?, Answer: 40
+[2025-05-11 13:09:08] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: a
+[2025-05-11 13:09:20] Concept: py, Question: In Python, what is the correct way to create a function?, Answer: def myfuntion():
+[2025-05-11 13:09:38] Concept: py, Question: Which of the following is used for multiple line comments in Python?, Answer: ''' coment '''
+[2025-05-11 13:17:20] Input: exit
+[2025-05-11 13:18:44] Input: quiz py
+[2025-05-11 13:18:48] Concept: unknown, Question: What does the `len()` function return when called on a dictionary?, Answer: a
+[2025-05-11 13:18:55] Concept: py, Question: Which of the following is used for multiple line comments in Python?, Answer: ''' coment '''
+[2025-05-11 13:19:05] Concept: py, Question: In Python, what is the correct way to create a function?, Answer: def myFunction()
+[2025-05-11 13:19:15] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: clas 'tuple'
+[2025-05-11 13:19:18] Concept: py, Question: What is the result of the expression 3 * 4 ** 2 in Python?, Answer: 40
+[2025-05-11 13:21:27] Input: exit
+[2025-05-11 13:25:17] Input: quiz py
+[2025-05-11 13:25:19] Concept: py, Question: What is the result of the expression 3 * 4 ** 2 in Python?, Answer: 40
+[2025-05-11 13:25:34] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: class 'tuble'
+[2025-05-11 13:25:39] Concept: unknown, Question: What does the `len()` function return when called on a dictionary?, Answer: a
+[2025-05-11 13:25:47] Concept: py, Question: In Python, what is the correct way to create a function?, Answer: def myfunction
+[2025-05-11 13:25:53] Concept: py, Question: Which of the following is used for multiple line comments in Python?, Answer: comment
+[2025-05-11 13:26:20] Input: exit
+[2025-05-11 13:27:09] Input: test py
+[2025-05-11 13:27:14] Concept: py, Question: In Python, what is the correct way to create a function?, Answer: a
+[2025-05-11 13:27:29] Concept: py, Question: Which of the following is used for multiple line comments in Python?, Answer: ''comment'''
+[2025-05-11 13:30:38] Concept: unknown, Question: What does the `len()` function return when called on a dictionary?, Answer: b
+[2025-05-11 13:30:39] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: b
+[2025-05-11 13:30:41] Concept: py, Question: What is the result of the expression 3 * 4 ** 2 in Python?, Answer: 40
+[2025-05-11 13:31:00] Input: explain oop
+[2025-05-11 13:31:27] Input: give me more
+[2025-05-11 13:32:17] Input: example
+[2025-05-11 13:32:38] Input: explain dsa
+[2025-05-11 13:45:51] Input: scala "c:\users\dell\onedrive - egypt university of informatics\desktop\ctrl alt chatbot 2\ctrl alt chatbot\src\chatbot.scala"
+[2025-05-11 13:45:54] Input: exit
+[2025-05-11 13:50:07] Input: explain oop
+[2025-05-11 13:50:10] Input: more
+[2025-05-11 13:50:14] Input: explain dsa
+[2025-05-11 13:53:28] Input: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-11 13:53:31] Input: exit
+[2025-05-11 13:53:36] Input: explain oop
+[2025-05-11 13:53:39] Input: more
+[2025-05-11 13:53:43] Input: explain dsa
+[2025-05-11 13:53:48] Input: more
+[2025-05-11 13:53:52] Input: clear
+[2025-05-11 13:53:56] Input: feasf
+[2025-05-11 13:54:22] Input: quiz py
+[2025-05-11 13:54:40] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: clear
+[2025-05-11 13:54:48] Input: quiz cpp
+[2025-05-11 13:54:55] Input: quiz c++
+[2025-05-11 13:55:23] Input: quiz cpp
+[2025-05-11 13:55:41] Input: quiz python
+[2025-05-11 13:55:47] Input: quiz py
+[2025-05-11 13:56:16] Input: exit
+[2025-05-11 13:56:22] Input: quiz py
+[2025-05-11 13:56:53] Input: quiz py
+[2025-05-11 14:01:47] Input: exit
+[2025-05-11 14:02:02] Input: quiz py
+[2025-05-11 14:14:05] Concept: unknown, Question: What is the output of `print(type([]))`?, Answer: scala "c:\Users\dell\OneDrive - Egypt University of Informatics\Desktop\CTRL ALT CHATBOT 2\CTRL ALT CHATBOT\src\chatbot.scala"
+[2025-05-11 14:14:51] Input: quiz py
+[2025-05-11 23:45:47] Input: sayonara nigga
+[2025-05-11 23:46:04] Input: sayonara nigga
+[2025-05-11 23:46:07] Input: hello
+[2025-05-11 23:46:18] Input: hey
+[2025-05-11 23:46:36] Input: explain oop
+[2025-05-11 23:46:49] Input: more
+[2025-05-11 23:46:55] Input: explain dsa
+[2025-05-11 23:47:36] Input: exit
