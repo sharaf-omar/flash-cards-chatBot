@@ -1,6 +1,6 @@
 # Chatbot Engine and Chatbot GUI
 
-# ✒️ Authors
+## ✒️ Authors
 This project was collaboratively developed by the following individuals for the Advanced programming Course at EUI:
 
 *   **[Omar Shafiy](https://www.linkedin.com/in/theomarshafiy/)** (23-201356)
