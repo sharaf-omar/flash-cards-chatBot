@@ -1,5 +1,15 @@
 # Chatbot Engine and Chatbot GUI
 
+# ✒️ Authors
+This project was collaboratively developed by the following individuals for the Advanced programming Course at EUI:
+
+*   **[Omar Shafiy](https://www.linkedin.com/in/theomarshafiy/)** (23-201356)
+*   **[Omar Sharaf](https://www.linkedin.com/in/omar-sharaf-545220293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)** (24-101236)
+*   **[Omar Wafa](https://www.linkedin.com/in/omar-wafa-5b04b9238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appE)** (23-101281)
+*   **[Eiad Essam](https://www.linkedin.com/in/eiad-essam-50771a254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)** (23-101108)
+
+Feel free to reach out with any questions or feedback.
+
 An educational chatbot system built using Scala and ScalaFX, designed to help students, developers, and enthusiasts learn programming concepts through interactive explanations, quizzes, and performance analytics.
 
 ## 📚 Project Overview
